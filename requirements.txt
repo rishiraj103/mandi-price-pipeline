@@ -1,0 +1,10 @@
+requests
+pandas
+pyarrow
+duckdb<2
+boto3
+awswrangler
+streamlit
+plotly
+python-dotenv
+pyyaml
