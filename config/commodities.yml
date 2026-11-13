@@ -1,0 +1,13 @@
+# Commodities in scope. Key = exact API spelling (case-sensitive filter).
+# name = display name used in the model; group = dim_commodity group.
+commodities:
+  Onion:         {name: Onion,        group: vegetable}
+  Potato:        {name: Potato,       group: vegetable}
+  Tomato:        {name: Tomato,       group: vegetable}
+  Cauliflower:   {name: Cauliflower,  group: vegetable}
+  Green Chilli:  {name: Green Chilli, group: vegetable}
+  Wheat:         {name: Wheat,        group: cereal}
+  Rice:          {name: Rice,         group: cereal}
+  Garlic:        {name: Garlic,       group: spice}
+  Ginger(Green): {name: Ginger,       group: spice}
+  Banana:        {name: Banana,       group: fruit}
