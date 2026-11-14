@@ -6,3 +6,6 @@
 ## v0.2-api-profile — 2026-11-13
 - `MandiApiClient` with retries, backoff and `ApiAuthError` / `ApiUnavailableError`.
 - API behaviour documented (page size, filters, unstable offset paging); profile of one week of data and cleaning rules.
+
+## v0.3-design — 2026-11-14
+- Star schema design: fact grain, hash surrogate keys, SCD Type 1, partitioning by arrival date.
