@@ -7,4 +7,3 @@ data/
 build/
 *.zip
 out.json
-failed.csv
