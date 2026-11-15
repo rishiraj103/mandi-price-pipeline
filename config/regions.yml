@@ -1,0 +1,8 @@
+# State -> region for dim_market. Spellings follow the API (e.g. Keralam, Chattisgarh).
+regions:
+  North:      [Chandigarh, Haryana, Himachal Pradesh, Jammu and Kashmir, Ladakh, NCT of Delhi, Punjab, Rajasthan, Uttar Pradesh, Uttarakhand]
+  Central:    [Chattisgarh, Madhya Pradesh]
+  East:       [Andaman and Nicobar, Bihar, Jharkhand, Odisha, West Bengal]
+  North-East: [Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura]
+  West:       [Dadra and Nagar Haveli and Daman and Diu, Goa, Gujarat, Maharashtra]
+  South:      [Andhra Pradesh, Karnataka, Kerala, Keralam, Lakshadweep, Puducherry, Pondicherry, Tamil Nadu, Telangana]
