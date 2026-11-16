@@ -30,6 +30,13 @@ def load_commodities(path="config/commodities.yml"):
 
 
 def write_text(path, text):
+    """Write to a local path or to s3://bucket/key."""
+    if path.startswith("s3://"):
+        import boto3
+        bucket, key = path[5:].split("/", 1)
+        boto3.client("s3").put_object(Bucket=bucket, Key=key, Body=text.encode("utf-8"),
+                                      ContentType="application/json")
+        return
     path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(text, encoding="utf-8")

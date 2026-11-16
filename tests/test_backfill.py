@@ -40,6 +40,13 @@ class TestIngestDates(unittest.TestCase):
         self.assertTrue((self.folder / "commodity=Onion.json").exists())
         self.assertFalse((self.folder / "_manifest.json").exists())
 
+    def test_writes_to_s3(self):
+        with mock.patch("boto3.client") as client:
+            ingest_dates(FakeClient(), [date(2026, 11, 20)], ["Onion"], "s3://bucket/raw")
+        keys = [c.kwargs["Key"] for c in client.return_value.put_object.call_args_list]
+        self.assertEqual(keys, ["raw/arrival_date=2026-11-20/commodity=Onion.json",
+                                "raw/arrival_date=2026-11-20/_manifest.json"])
+
 
 if __name__ == "__main__":
     unittest.main()
