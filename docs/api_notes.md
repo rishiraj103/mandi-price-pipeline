@@ -30,7 +30,9 @@ page and offset paging is never actually exercised. `fetch_all` still pages as a
 
 ## Reliability
 
-Occasional `ConnectionError` on the first attempt (2 in ~80 calls); the retry with backoff succeeded every time.
+Occasional hung requests (~1 in 35 calls during the backfill) that end in `ConnectionError`; the retry
+succeeded every time. With a 120 s read timeout each hang cost 2 minutes (20 of the first 26 backfill minutes),
+so the read timeout is 30 s: a commodity-day normally returns in ~1 s, and the daily Lambda must fit in 5 minutes.
 
 ## Commodity names in scope
 

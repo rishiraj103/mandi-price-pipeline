@@ -24,7 +24,7 @@ class ApiUnavailableError(Exception):
 
 
 class MandiApiClient:
-    def __init__(self, api_key, resource_id, timeout=(15, 120), max_retries=3, page_size=10000):
+    def __init__(self, api_key, resource_id, timeout=(10, 30), max_retries=3, page_size=10000):
         self.api_key = api_key
         self.url = BASE_URL.format(resource_id=resource_id)
         self.timeout = timeout
