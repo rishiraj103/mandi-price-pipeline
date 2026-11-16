@@ -5,11 +5,11 @@ Usage: python -m transform.clean_day 2026-11-20
 import json
 import sys
 from datetime import date
-from pathlib import Path
 
 import pandas as pd
 import yaml
 
+from transform import storage
 from transform.rules import PRICE_COLS, RENAME, apply_rules, standardise
 
 CURATED_COLS = ["state", "district", "market", "commodity", "commodity_code", "variety", "grade",
@@ -39,20 +39,15 @@ def clean(records, day, commodities):
 
 
 def run(day, base="data"):
+    """Clean one date under base (a local folder or s3://bucket)."""
     part = f"arrival_date={day.isoformat()}"
-    records = [r for f in sorted(Path(base, "raw", part).glob("commodity=*.json"))
-               for r in json.loads(f.read_text(encoding="utf-8"))]
+    records = [r for f in storage.list_files(f"{base}/raw/{part}/", ".json") if "commodity=" in f
+               for r in json.loads(storage.read_bytes(f))]
     curated, rejected, dq = clean(records, day, load_config())
-
-    for folder, name, df in [("curated", "prices", curated), ("rejected", "rejected", rejected)]:
-        out = Path(base, folder, part)
-        out.mkdir(parents=True, exist_ok=True)
-        df.to_parquet(out / f"{name}.parquet", index=False)
-    out = Path(base, "dq", part)
-    out.mkdir(parents=True, exist_ok=True)
-    (out / "dq_summary.json").write_text(json.dumps(dq))
+    storage.write_parquet(curated, f"{base}/curated/{part}/prices.parquet")
+    storage.write_parquet(rejected, f"{base}/rejected/{part}/rejected.parquet")
+    storage.write_bytes(f"{base}/dq/{part}/dq_summary.json", json.dumps(dq).encode("utf-8"))
     return curated, dq
-
 
 if __name__ == "__main__":
     print(json.dumps(run(date.fromisoformat(sys.argv[1]))[1], indent=1))

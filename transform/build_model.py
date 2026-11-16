@@ -1,10 +1,10 @@
 """Curated rows for one date -> star schema (dimension upserts + one fact partition)."""
 import hashlib
 from datetime import date, datetime, timedelta, timezone
-from pathlib import Path
-
 import pandas as pd
 import yaml
+
+from transform import storage
 
 IST = timezone(timedelta(hours=5, minutes=30))
 MARKET_COLS = ["state", "district", "market"]
@@ -64,8 +64,7 @@ def fact_rows(curated, day):
 
 
 def run(curated, day, base="data"):
-    """Local run: upsert dims under base/model and write the day's fact partition."""
-    model = Path(base, "model")
+    """Upsert dims under base/model (a local folder or s3://bucket) and write the day's fact partition."""
     with open("config/regions.yml") as f:
         regions = yaml.safe_load(f)["regions"]
     with open("config/commodities.yml") as f:
@@ -73,13 +72,9 @@ def run(curated, day, base="data"):
 
     for name, rows, key in [("dim_market", market_rows(curated, regions), "market_key"),
                             ("dim_commodity", commodity_rows(curated, commodities), "commodity_key")]:
-        path = model / name / f"{name}.parquet"
-        existing = pd.read_parquet(path) if path.exists() else None
-        path.parent.mkdir(parents=True, exist_ok=True)
-        upsert(existing, rows, key).to_parquet(path, index=False)
+        path = f"{base}/model/{name}/{name}.parquet"
+        storage.write_parquet(upsert(storage.read_parquet(path), rows, key), path)
 
-    out = model / "fact_price_report" / f"arrival_date={day.isoformat()}"
-    out.mkdir(parents=True, exist_ok=True)
     fact = fact_rows(curated, day)
-    fact.to_parquet(out / "part.parquet", index=False)
+    storage.write_parquet(fact, f"{base}/model/fact_price_report/arrival_date={day.isoformat()}/part.parquet")
     return fact
