@@ -1,0 +1,10 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {"Effect": "Allow", "Action": "ssm:GetParameter",
+     "Resource": "arn:aws:ssm:REGION:ACCOUNT:parameter/mandi/api_key"},
+    {"Effect": "Allow", "Action": "s3:PutObject", "Resource": "arn:aws:s3:::BUCKET/raw/*"},
+    {"Effect": "Allow", "Action": ["logs:CreateLogGroup", "logs:CreateLogStream", "logs:PutLogEvents"],
+     "Resource": "arn:aws:logs:REGION:ACCOUNT:log-group:/aws/lambda/ingest_daily:*"}
+  ]
+}
