@@ -72,8 +72,8 @@ def run(curated, day, base="data"):
 
     for name, rows, key in [("dim_market", market_rows(curated, regions), "market_key"),
                             ("dim_commodity", commodity_rows(curated, commodities), "commodity_key")]:
-        path = f"{base}/model/{name}/{name}.parquet"
-        storage.write_parquet(upsert(storage.read_parquet(path), rows, key), path)
+        storage.update_parquet(f"{base}/model/{name}/{name}.parquet",
+                               lambda existing, rows=rows, key=key: upsert(existing, rows, key))
 
     fact = fact_rows(curated, day)
     storage.write_parquet(fact, f"{base}/model/fact_price_report/arrival_date={day.isoformat()}/part.parquet")

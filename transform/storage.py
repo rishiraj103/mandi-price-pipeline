@@ -46,7 +46,37 @@ def read_parquet(path):
     return None if data is None else pd.read_parquet(io.BytesIO(data))
 
 
-def write_parquet(df, path):
+def _to_bytes(df):
     buf = io.BytesIO()
     df.to_parquet(buf, index=False)
-    write_bytes(path, buf.getvalue())
+    return buf.getvalue()
+
+
+def write_parquet(df, path):
+    write_bytes(path, _to_bytes(df))
+
+
+def update_parquet(path, merge, attempts=5):
+    """Read-merge-write `merge(existing_df_or_None) -> df`.
+
+    On S3 the write is conditional on the object being unchanged since it was read, so concurrent
+    Lambdas upserting the same dimension never lose each other's rows; on a conflict it re-reads and retries.
+    """
+    if not path.startswith("s3://"):
+        write_parquet(merge(read_parquet(path)), path)
+        return
+    from botocore.exceptions import ClientError
+    s3, bucket, key = _s3(path)
+    for _ in range(attempts):
+        try:
+            obj = s3.get_object(Bucket=bucket, Key=key)
+            existing, condition = pd.read_parquet(io.BytesIO(obj["Body"].read())), {"IfMatch": obj["ETag"]}
+        except s3.exceptions.NoSuchKey:
+            existing, condition = None, {"IfNoneMatch": "*"}
+        try:
+            s3.put_object(Bucket=bucket, Key=key, Body=_to_bytes(merge(existing)), **condition)
+            return
+        except ClientError as exc:
+            if exc.response["Error"]["Code"] not in ("PreconditionFailed", "ConditionalRequestConflict"):
+                raise
+    raise RuntimeError(f"could not update {path} after {attempts} attempts")
