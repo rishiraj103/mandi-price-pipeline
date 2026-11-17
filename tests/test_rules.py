@@ -67,9 +67,9 @@ class TestRules(unittest.TestCase):
 
     def test_flag_outliers(self):
         df = priced(*[raw(Market=m) for m in "ABC"], raw(Market="D", Modal_Price=20000, Max_Price=20000),
-                    raw(Market="E", Min_Price=1, Modal_Price=1))
+                    raw(Market="E", Min_Price=1, Modal_Price=1), raw(Market="F", Max_Price=30002800))
         flags = rules.flag_outliers(df).set_index("market")["is_outlier"]
-        self.assertEqual(flags.to_dict(), {"A": False, "B": False, "C": False, "D": True, "E": True})
+        self.assertEqual(flags.to_dict(), {"A": False, "B": False, "C": False, "D": True, "E": True, "F": True})
 
     def test_apply_rules(self):
         clean, rejected = rules.apply_rules(frame(raw(), raw(Modal_Price="x"), raw(Min_Price=4000)), DAY)

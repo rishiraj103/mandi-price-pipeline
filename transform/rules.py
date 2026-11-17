@@ -61,10 +61,12 @@ def duplicate(df):
 
 
 def flag_outliers(df):
-    """Flag (not reject) modal prices > 5x or < 1/5 of the commodity's national median for the day."""
+    """Flag (not reject) modal prices > 5x or < 1/5 of the commodity's national median for the day,
+    and max prices > 5x the row's own modal (typos such as 30002800 that would distort price spreads)."""
     median = df.groupby("commodity")["modal_price"].transform("median")
     ratio = df["modal_price"] / median
-    return df.assign(is_outlier=(ratio > OUTLIER_FACTOR) | (ratio < 1 / OUTLIER_FACTOR))
+    bad_max = df["max_price"] > OUTLIER_FACTOR * df["modal_price"]
+    return df.assign(is_outlier=(ratio > OUTLIER_FACTOR) | (ratio < 1 / OUTLIER_FACTOR) | bad_max)
 
 
 def apply_rules(df, expected_date):

@@ -15,6 +15,8 @@ Produced by `python -m tools.profile --end 2026-11-20 --days 7`.
 | Exact duplicate rows | 0 | — |
 | Duplicates on (date, state, district, market, commodity, variety, grade) | 490 extra rows in 489 groups, **all with different prices** | keep one (lowest modal, then min, then max — deterministic), reject the rest as `duplicate` |
 | Modal price < ₹100/quintal (e.g. 0.01, 1.2, 8.2) | 87 | **flag** `is_outlier` (likely entered per kg); handled by the outlier rule |
+| max price > 5× the row's own modal (typos, e.g. max 30,002,800 vs modal 2,600) | 251 in 90 days | **flag** `is_outlier`; one such row pushed Wheat's average spread to 80% of modal |
+| min price < 1/5 of modal (e.g. Onion min 200, modal 3,000) | ~3,000 in 90 days, mostly big MP/Maharashtra APMCs | keep — damaged lots in real auctions |
 | Leading/trailing spaces | 1,961 in `Market`, 25 in `District` | standardise: trim |
 | Double internal spaces (`Ashta  APMC` vs `Ashta APMC`) | 1 market pair | standardise: collapse whitespace |
 | Market names differing only by case | 0 | none — names are already consistently cased, so **no title-casing** (it would break `NCT of Delhi`, `APMC`) |
