@@ -23,11 +23,11 @@ def build_dim_date(start=date(2023, 1, 1), end=date(2027, 12, 31)):
     return pd.DataFrame({
         "date_key": d.dt.strftime("%Y%m%d").astype("int32"),
         "full_date": d.dt.date,
-        "day": d.dt.day.astype("int8"),
-        "iso_week": d.dt.isocalendar().week.astype("int8").values,
-        "month": d.dt.month.astype("int8"),
-        "quarter": d.dt.quarter.astype("int8"),
-        "year": d.dt.year.astype("int16"),
+        "day": d.dt.day.astype("int32"),
+        "iso_week": d.dt.isocalendar().week.astype("int32").values,
+        "month": d.dt.month.astype("int32"),
+        "quarter": d.dt.quarter.astype("int32"),
+        "year": d.dt.year.astype("int32"),
         "weekday": d.dt.day_name(),
         "is_weekend": d.dt.dayofweek >= 5,
     })
