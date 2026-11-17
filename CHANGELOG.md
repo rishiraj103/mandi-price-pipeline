@@ -14,3 +14,7 @@
 - `ingest_dates` writes raw JSON per date and commodity (sorted, so reruns are byte-identical) and a manifest last.
 - Failed calls go to `data/failed.csv`; `--retry-failed` reruns those dates. Read timeout 30 s so hung requests retry fast.
 - 90-day backfill (26 Aug – 20 Nov 2026): 90 dates, 0 failed calls.
+
+## v0.5-clean — 2026-11-17
+- Rules as pure functions with one test each; rejected rows saved with a reason; daily dq summary.
+- Outliers flagged (modal vs national median, and max price > 5x modal), not rejected.
