@@ -1,5 +1,7 @@
 """Read and write files on local disk or S3 (paths starting with s3://)."""
 import io
+import random
+import time
 from pathlib import Path
 
 import pandas as pd
@@ -56,7 +58,7 @@ def write_parquet(df, path):
     write_bytes(path, _to_bytes(df))
 
 
-def update_parquet(path, merge, attempts=5):
+def update_parquet(path, merge, attempts=8):
     """Read-merge-write `merge(existing_df_or_None) -> df`.
 
     On S3 the write is conditional on the object being unchanged since it was read, so concurrent
@@ -67,7 +69,7 @@ def update_parquet(path, merge, attempts=5):
         return
     from botocore.exceptions import ClientError
     s3, bucket, key = _s3(path)
-    for _ in range(attempts):
+    for attempt in range(attempts):
         try:
             obj = s3.get_object(Bucket=bucket, Key=key)
             existing, condition = pd.read_parquet(io.BytesIO(obj["Body"].read())), {"IfMatch": obj["ETag"]}
@@ -79,4 +81,5 @@ def update_parquet(path, merge, attempts=5):
         except ClientError as exc:
             if exc.response["Error"]["Code"] not in ("PreconditionFailed", "ConditionalRequestConflict"):
                 raise
+            time.sleep(random.uniform(0, 0.5 * (attempt + 1)))  # back off so writers stop colliding
     raise RuntimeError(f"could not update {path} after {attempts} attempts")
