@@ -18,3 +18,7 @@
 ## v0.5-clean — 2026-11-17
 - Rules as pure functions with one test each; rejected rows saved with a reason; daily dq summary.
 - Outliers flagged (modal vs national median, and max price > 5x modal), not rejected.
+
+## v0.6-model-local — 2026-11-17
+- Star schema as Parquet: dim_date, dim_market, dim_commodity (hash keys, SCD Type 1) and a fact partition per day.
+- 451,933 fact rows over 90 days; 0 orphan keys, 0 duplicate keys, 0 bad prices. Q1–Q7 run in DuckDB.
