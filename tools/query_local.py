@@ -8,6 +8,8 @@ from pathlib import Path
 
 import duckdb
 
+from tools.views import VIEWS, view_ddl
+
 PARTITIONED = {
     "fact_price_report": "model/fact_price_report/*/*.parquet",
     "curated": "curated/*/*.parquet",
@@ -27,6 +29,8 @@ def connect(base="data"):
         con.execute(f"CREATE VIEW mandi.{name} AS SELECT * FROM read_parquet('{base}/model/{name}/*.parquet')")
     # dq files already carry arrival_date and are tiny, so read them unpartitioned
     con.execute(f"CREATE VIEW mandi.dq AS SELECT * FROM read_json_auto('{base}/dq/*/dq_summary.json')")
+    for name in VIEWS:
+        con.execute(view_ddl(name))
     return con
 
 

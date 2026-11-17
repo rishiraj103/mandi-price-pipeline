@@ -13,6 +13,8 @@ import boto3
 import pandas as pd
 from dotenv import load_dotenv
 
+from tools.views import VIEWS, view_ddl
+
 WORKGROUP = "mandi"
 
 
@@ -43,10 +45,15 @@ def run(sql, athena=None):
 
 def main():
     p = argparse.ArgumentParser()
-    p.add_argument("files", nargs="+")
+    p.add_argument("files", nargs="*")
+    p.add_argument("--views", action="store_true", help="create or replace the app views")
     p.add_argument("--csv")
     args = p.parse_args()
     load_dotenv(".env")
+    if args.views:
+        for name in VIEWS:
+            run(view_ddl(name))
+            print(f"view mandi.{name} created")
     for f in args.files:
         df, mb = run(Path(f).read_text().replace("BUCKET", os.environ["S3_BUCKET"]))
         print(f"== {f}  ({mb:.2f} MB scanned, {len(df)} rows)")
