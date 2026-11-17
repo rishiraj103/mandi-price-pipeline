@@ -9,3 +9,8 @@
 
 ## v0.3-design — 2026-11-14
 - Star schema design: fact grain, hash surrogate keys, SCD Type 1, partitioning by arrival date.
+
+## v0.4-ingest — 2026-11-17
+- `ingest_dates` writes raw JSON per date and commodity (sorted, so reruns are byte-identical) and a manifest last.
+- Failed calls go to `data/failed.csv`; `--retry-failed` reruns those dates. Read timeout 30 s so hung requests retry fast.
+- 90-day backfill (26 Aug – 20 Nov 2026): 90 dates, 0 failed calls.
