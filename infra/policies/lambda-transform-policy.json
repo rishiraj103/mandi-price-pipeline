@@ -1,0 +1,13 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {"Effect": "Allow", "Action": "s3:ListBucket", "Resource": "arn:aws:s3:::BUCKET"},
+    {"Effect": "Allow", "Action": "s3:GetObject",
+     "Resource": ["arn:aws:s3:::BUCKET/raw/*", "arn:aws:s3:::BUCKET/model/*"]},
+    {"Effect": "Allow", "Action": "s3:PutObject",
+     "Resource": ["arn:aws:s3:::BUCKET/curated/*", "arn:aws:s3:::BUCKET/rejected/*",
+                  "arn:aws:s3:::BUCKET/dq/*", "arn:aws:s3:::BUCKET/model/*"]},
+    {"Effect": "Allow", "Action": ["logs:CreateLogGroup", "logs:CreateLogStream", "logs:PutLogEvents"],
+     "Resource": "arn:aws:logs:REGION:ACCOUNT:log-group:/aws/lambda/transform_day:*"}
+  ]
+}
