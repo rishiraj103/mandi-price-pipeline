@@ -1,5 +1,6 @@
 """Client for the data.gov.in mandi price API."""
 import logging
+import re
 import time
 
 import requests
@@ -13,6 +14,11 @@ HEADERS = {
 RETRY_STATUS = {429, 500, 502, 503, 504}
 
 log = logging.getLogger(__name__)
+
+
+def redact(text):
+    """Remove the API key from error text (request URLs carry it as a query parameter)."""
+    return re.sub(r"api-key=[^&\s'\"]+", "api-key=***", str(text))
 
 
 class ApiAuthError(Exception):
@@ -41,12 +47,13 @@ class MandiApiClient:
             try:
                 resp = self.session.get(self.url, params=params, timeout=self.timeout)
             except (requests.Timeout, requests.ConnectionError) as exc:
-                reason = type(exc).__name__
+                reason = redact(f"{type(exc).__name__}: {exc}")
             else:
                 if resp.status_code in (401, 403):
                     raise ApiAuthError(f"HTTP {resp.status_code}: check DATA_GOV_API_KEY")
                 if resp.status_code not in RETRY_STATUS:
-                    resp.raise_for_status()
+                    if not resp.ok:  # don't use raise_for_status: its message includes the key
+                        raise ApiUnavailableError(f"HTTP {resp.status_code}: {resp.reason}")
                     return resp.json()
                 reason = f"HTTP {resp.status_code}"
 
