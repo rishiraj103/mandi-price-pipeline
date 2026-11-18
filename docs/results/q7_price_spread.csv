@@ -1,0 +1,11 @@
+commodity,commodity_group,avg_spread,avg_spread_pct_of_modal,reports
+Garlic,spice,4510.0,41.8,6536
+Onion,vegetable,934.0,24.5,19051
+Cauliflower,vegetable,460.0,23.3,12819
+Tomato,vegetable,461.0,23.3,19413
+Potato,vegetable,329.0,21.6,18761
+Ginger,spice,1835.0,20.2,8843
+Green Chilli,vegetable,719.0,17.3,15521
+Banana,fruit,701.0,17.0,14811
+Rice,cereal,598.0,12.1,4058
+Wheat,cereal,245.0,8.3,16772

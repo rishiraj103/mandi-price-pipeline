@@ -1,0 +1,2025 @@
+commodity,state,week_start,avg_modal_price,reports,wow_change_pct
+Banana,Andaman and Nicobar,2026-09-21,4250.0,2,
+Banana,Andaman and Nicobar,2026-09-28,4125.0,8,-2.9
+Banana,Andaman and Nicobar,2026-10-05,3655.0,11,-11.4
+Banana,Andaman and Nicobar,2026-10-12,4150.0,10,13.6
+Banana,Andaman and Nicobar,2026-10-19,3500.0,9,-15.7
+Banana,Andaman and Nicobar,2026-10-26,3182.0,11,-9.1
+Banana,Andaman and Nicobar,2026-11-02,3318.0,11,4.3
+Banana,Andaman and Nicobar,2026-11-09,3364.0,11,1.4
+Banana,Andaman and Nicobar,2026-11-16,3286.0,7,-2.3
+Banana,Andhra Pradesh,2026-09-21,2362.0,18,
+Banana,Andhra Pradesh,2026-09-28,2071.0,76,-12.3
+Banana,Andhra Pradesh,2026-10-05,2266.0,70,9.4
+Banana,Andhra Pradesh,2026-10-12,2512.0,74,10.9
+Banana,Andhra Pradesh,2026-10-19,2523.0,71,0.5
+Banana,Andhra Pradesh,2026-10-26,2468.0,66,-2.2
+Banana,Andhra Pradesh,2026-11-02,2628.0,63,6.5
+Banana,Andhra Pradesh,2026-11-09,2641.0,65,0.5
+Banana,Andhra Pradesh,2026-11-16,2708.0,43,2.6
+Banana,Bihar,2026-10-26,4864.0,5,
+Banana,Bihar,2026-11-02,3500.0,1,-28.0
+Banana,Chattisgarh,2026-09-21,2375.0,4,
+Banana,Chattisgarh,2026-09-28,2538.0,17,6.9
+Banana,Chattisgarh,2026-10-05,2321.0,19,-8.6
+Banana,Chattisgarh,2026-10-12,2237.0,19,-3.6
+Banana,Chattisgarh,2026-10-19,2150.0,16,-3.9
+Banana,Chattisgarh,2026-10-26,2033.0,21,-5.4
+Banana,Chattisgarh,2026-11-02,2050.0,20,0.8
+Banana,Chattisgarh,2026-11-09,2053.0,15,0.2
+Banana,Chattisgarh,2026-11-16,2225.0,16,8.4
+Banana,Goa,2026-09-21,5000.0,2,
+Banana,Goa,2026-09-28,5000.0,6,0.0
+Banana,Goa,2026-10-05,4843.0,7,-3.1
+Banana,Goa,2026-10-12,4429.0,7,-8.6
+Banana,Goa,2026-10-19,4857.0,7,9.7
+Banana,Goa,2026-10-26,4438.0,8,-8.6
+Banana,Goa,2026-11-02,4643.0,7,4.6
+Banana,Goa,2026-11-09,4667.0,9,0.5
+Banana,Goa,2026-11-16,4300.0,5,-7.9
+Banana,Gujarat,2026-09-21,1861.0,7,
+Banana,Gujarat,2026-09-28,2143.0,46,15.2
+Banana,Gujarat,2026-10-05,2050.0,54,-4.4
+Banana,Gujarat,2026-10-12,2306.0,51,12.5
+Banana,Gujarat,2026-10-19,2272.0,46,-1.5
+Banana,Gujarat,2026-10-26,2275.0,45,0.2
+Banana,Gujarat,2026-11-02,2213.0,56,-2.8
+Banana,Gujarat,2026-11-09,2109.0,31,-4.7
+Banana,Gujarat,2026-11-16,2219.0,41,5.2
+Banana,Haryana,2026-09-21,2749.0,42,
+Banana,Haryana,2026-09-28,2891.0,189,5.2
+Banana,Haryana,2026-10-05,2733.0,189,-5.4
+Banana,Haryana,2026-10-12,2737.0,188,0.1
+Banana,Haryana,2026-10-19,2760.0,159,0.8
+Banana,Haryana,2026-10-26,2799.0,146,1.4
+Banana,Haryana,2026-11-02,2770.0,161,-1.0
+Banana,Haryana,2026-11-09,2787.0,150,0.6
+Banana,Haryana,2026-11-16,2781.0,123,-0.2
+Banana,Himachal Pradesh,2026-09-21,4231.0,18,
+Banana,Himachal Pradesh,2026-09-28,4214.0,105,-0.4
+Banana,Himachal Pradesh,2026-10-05,4119.0,105,-2.3
+Banana,Himachal Pradesh,2026-10-12,4139.0,114,0.5
+Banana,Himachal Pradesh,2026-10-19,4137.0,103,-0.0
+Banana,Himachal Pradesh,2026-10-26,4057.0,100,-1.9
+Banana,Himachal Pradesh,2026-11-02,4106.0,112,1.2
+Banana,Himachal Pradesh,2026-11-09,4095.0,84,-0.3
+Banana,Himachal Pradesh,2026-11-16,4149.0,93,1.3
+Banana,Jammu and Kashmir,2026-09-21,4540.0,5,
+Banana,Jammu and Kashmir,2026-09-28,4300.0,24,-5.3
+Banana,Jammu and Kashmir,2026-10-05,4447.0,32,3.4
+Banana,Jammu and Kashmir,2026-10-12,4517.0,32,1.6
+Banana,Jammu and Kashmir,2026-10-19,4338.0,30,-4.0
+Banana,Jammu and Kashmir,2026-10-26,4347.0,29,0.2
+Banana,Jammu and Kashmir,2026-11-02,4483.0,36,3.1
+Banana,Jammu and Kashmir,2026-11-09,4413.0,30,-1.6
+Banana,Jammu and Kashmir,2026-11-16,4415.0,24,0.0
+Banana,Karnataka,2026-09-21,6500.0,1,
+Banana,Karnataka,2026-09-28,3379.0,42,-48.0
+Banana,Karnataka,2026-10-05,3151.0,45,-6.7
+Banana,Karnataka,2026-10-12,3235.0,45,2.7
+Banana,Karnataka,2026-10-19,3355.0,27,3.7
+Banana,Karnataka,2026-10-26,3441.0,46,2.6
+Banana,Karnataka,2026-11-02,2967.0,43,-13.8
+Banana,Karnataka,2026-11-09,3254.0,36,9.7
+Banana,Karnataka,2026-11-16,2917.0,33,-10.4
+Banana,Keralam,2026-09-21,5054.0,351,
+Banana,Keralam,2026-09-28,5017.0,1326,-0.7
+Banana,Keralam,2026-10-05,5340.0,1421,6.4
+Banana,Keralam,2026-10-12,5419.0,1531,1.5
+Banana,Keralam,2026-10-19,5545.0,1366,2.3
+Banana,Keralam,2026-10-26,5584.0,1339,0.7
+Banana,Keralam,2026-11-02,5581.0,1381,-0.0
+Banana,Keralam,2026-11-09,5515.0,1395,-1.2
+Banana,Keralam,2026-11-16,5433.0,1084,-1.5
+Banana,Madhya Pradesh,2026-09-21,1776.0,22,
+Banana,Madhya Pradesh,2026-09-28,1906.0,77,7.3
+Banana,Madhya Pradesh,2026-10-05,1814.0,82,-4.8
+Banana,Madhya Pradesh,2026-10-12,1761.0,85,-2.9
+Banana,Madhya Pradesh,2026-10-19,1798.0,85,2.1
+Banana,Madhya Pradesh,2026-10-26,1788.0,77,-0.6
+Banana,Madhya Pradesh,2026-11-02,1818.0,59,1.7
+Banana,Madhya Pradesh,2026-11-09,1726.0,64,-5.1
+Banana,Madhya Pradesh,2026-11-16,1758.0,41,1.8
+Banana,Maharashtra,2026-09-21,2279.0,7,
+Banana,Maharashtra,2026-09-28,2293.0,37,0.6
+Banana,Maharashtra,2026-10-05,2339.0,31,2.0
+Banana,Maharashtra,2026-10-12,2203.0,37,-5.8
+Banana,Maharashtra,2026-10-19,2157.0,35,-2.1
+Banana,Maharashtra,2026-10-26,2186.0,33,1.4
+Banana,Maharashtra,2026-11-02,2405.0,31,10.0
+Banana,Maharashtra,2026-11-09,2506.0,27,4.2
+Banana,Maharashtra,2026-11-16,2139.0,20,-14.7
+Banana,Manipur,2026-09-28,5100.0,15,
+Banana,Manipur,2026-10-05,5100.0,20,0.0
+Banana,Manipur,2026-10-12,5066.0,19,-0.7
+Banana,Manipur,2026-10-26,5118.0,19,1.0
+Banana,Manipur,2026-11-02,5073.0,24,-0.9
+Banana,Manipur,2026-11-09,5208.0,12,2.7
+Banana,Manipur,2026-11-16,5309.0,17,1.9
+Banana,Meghalaya,2026-09-21,6200.0,3,
+Banana,Meghalaya,2026-09-28,4545.0,10,-26.7
+Banana,Meghalaya,2026-10-05,4821.0,12,6.1
+Banana,Meghalaya,2026-10-12,4692.0,12,-2.7
+Banana,Meghalaya,2026-10-19,4220.0,5,-10.1
+Banana,Meghalaya,2026-10-26,5204.0,14,23.3
+Banana,Meghalaya,2026-11-02,4983.0,9,-4.2
+Banana,Meghalaya,2026-11-09,4875.0,4,-2.2
+Banana,Meghalaya,2026-11-16,4275.0,8,-12.3
+Banana,NCT of Delhi,2026-09-21,2833.0,3,
+Banana,NCT of Delhi,2026-09-28,2630.0,10,-7.2
+Banana,NCT of Delhi,2026-10-05,2782.0,11,5.8
+Banana,NCT of Delhi,2026-10-12,2700.0,11,-2.9
+Banana,NCT of Delhi,2026-10-19,2483.0,12,-8.0
+Banana,NCT of Delhi,2026-10-26,2546.0,12,2.5
+Banana,NCT of Delhi,2026-11-02,2527.0,11,-0.7
+Banana,NCT of Delhi,2026-11-09,3244.0,9,28.4
+Banana,NCT of Delhi,2026-11-16,2829.0,7,-12.8
+Banana,Nagaland,2026-09-28,4408.0,5,
+Banana,Nagaland,2026-10-05,4548.0,5,3.2
+Banana,Nagaland,2026-10-12,4575.0,4,0.6
+Banana,Nagaland,2026-10-19,5638.0,5,23.2
+Banana,Nagaland,2026-10-26,5150.0,4,-8.7
+Banana,Nagaland,2026-11-02,5498.0,5,6.8
+Banana,Nagaland,2026-11-09,5950.0,2,8.2
+Banana,Nagaland,2026-11-16,6650.0,2,11.8
+Banana,Odisha,2026-09-28,2400.0,2,
+Banana,Odisha,2026-10-05,2400.0,3,0.0
+Banana,Odisha,2026-10-12,1900.0,5,-20.8
+Banana,Odisha,2026-10-19,1900.0,4,0.0
+Banana,Odisha,2026-10-26,1900.0,3,0.0
+Banana,Odisha,2026-11-02,1900.0,4,0.0
+Banana,Odisha,2026-11-09,1900.0,4,0.0
+Banana,Odisha,2026-11-16,1900.0,2,0.0
+Banana,Punjab,2026-09-21,2871.0,33,
+Banana,Punjab,2026-09-28,2893.0,234,0.8
+Banana,Punjab,2026-10-05,2940.0,225,1.6
+Banana,Punjab,2026-10-12,2924.0,207,-0.5
+Banana,Punjab,2026-10-19,2886.0,214,-1.3
+Banana,Punjab,2026-10-26,2936.0,214,1.7
+Banana,Punjab,2026-11-02,2963.0,192,0.9
+Banana,Punjab,2026-11-09,2935.0,183,-0.9
+Banana,Punjab,2026-11-16,2927.0,162,-0.3
+Banana,Rajasthan,2026-09-21,2183.0,6,
+Banana,Rajasthan,2026-09-28,2266.0,29,3.8
+Banana,Rajasthan,2026-10-05,2389.0,35,5.4
+Banana,Rajasthan,2026-10-12,2451.0,36,2.6
+Banana,Rajasthan,2026-10-19,2470.0,33,0.7
+Banana,Rajasthan,2026-10-26,2296.0,35,-7.0
+Banana,Rajasthan,2026-11-02,2290.0,30,-0.2
+Banana,Rajasthan,2026-11-09,2355.0,20,2.8
+Banana,Rajasthan,2026-11-16,2310.0,25,-1.9
+Banana,Tamil Nadu,2026-09-21,5754.0,416,
+Banana,Tamil Nadu,2026-09-28,5794.0,1452,0.7
+Banana,Tamil Nadu,2026-10-05,5759.0,1445,-0.6
+Banana,Tamil Nadu,2026-10-12,5851.0,1204,1.6
+Banana,Tamil Nadu,2026-10-19,5921.0,1168,1.2
+Banana,Tamil Nadu,2026-10-26,5879.0,1172,-0.7
+Banana,Tamil Nadu,2026-11-02,5840.0,1149,-0.7
+Banana,Tamil Nadu,2026-11-09,5728.0,944,-1.9
+Banana,Tamil Nadu,2026-11-16,5748.0,834,0.4
+Banana,Telangana,2026-09-21,2400.0,2,
+Banana,Telangana,2026-09-28,2100.0,5,-12.5
+Banana,Telangana,2026-10-05,2417.0,6,15.1
+Banana,Telangana,2026-10-12,2000.0,4,-17.2
+Banana,Telangana,2026-10-19,2000.0,4,0.0
+Banana,Telangana,2026-10-26,2020.0,5,1.0
+Banana,Telangana,2026-11-02,2250.0,4,11.4
+Banana,Telangana,2026-11-09,2056.0,6,-8.6
+Banana,Telangana,2026-11-16,2575.0,4,25.3
+Banana,Tripura,2026-09-21,2500.0,3,
+Banana,Tripura,2026-09-28,2727.0,11,9.1
+Banana,Tripura,2026-10-05,2709.0,11,-0.7
+Banana,Tripura,2026-10-12,2688.0,8,-0.8
+Banana,Tripura,2026-10-19,2671.0,7,-0.6
+Banana,Tripura,2026-10-26,2670.0,10,-0.1
+Banana,Tripura,2026-11-02,2760.0,10,3.4
+Banana,Tripura,2026-11-09,2630.0,10,-4.7
+Banana,Tripura,2026-11-16,2643.0,7,0.5
+Banana,Uttar Pradesh,2026-09-21,2016.0,5,
+Banana,Uttar Pradesh,2026-09-28,1964.0,24,-2.6
+Banana,Uttar Pradesh,2026-10-05,1971.0,21,0.4
+Banana,Uttar Pradesh,2026-10-12,1938.0,19,-1.7
+Banana,Uttar Pradesh,2026-10-19,1933.0,21,-0.2
+Banana,Uttar Pradesh,2026-10-26,1969.0,21,1.9
+Banana,Uttar Pradesh,2026-11-02,2007.0,12,1.9
+Banana,Uttar Pradesh,2026-11-09,1988.0,12,-0.9
+Banana,Uttar Pradesh,2026-11-16,2006.0,15,0.9
+Banana,Uttarakhand,2026-09-21,1637.0,15,
+Banana,Uttarakhand,2026-09-28,1576.0,59,-3.7
+Banana,Uttarakhand,2026-10-05,1613.0,60,2.3
+Banana,Uttarakhand,2026-10-12,1685.0,62,4.4
+Banana,Uttarakhand,2026-10-19,1753.0,58,4.1
+Banana,Uttarakhand,2026-10-26,1820.0,53,3.8
+Banana,Uttarakhand,2026-11-02,1662.0,58,-8.7
+Banana,Uttarakhand,2026-11-09,1802.0,45,8.4
+Banana,Uttarakhand,2026-11-16,1728.0,38,-4.1
+Banana,West Bengal,2026-09-21,2200.0,2,
+Banana,West Bengal,2026-09-28,2200.0,7,0.0
+Banana,West Bengal,2026-10-05,2200.0,7,0.0
+Banana,West Bengal,2026-10-12,2200.0,7,0.0
+Banana,West Bengal,2026-10-19,2200.0,7,0.0
+Banana,West Bengal,2026-10-26,2200.0,7,0.0
+Banana,West Bengal,2026-11-02,2243.0,7,1.9
+Banana,West Bengal,2026-11-09,2243.0,7,0.0
+Banana,West Bengal,2026-11-16,2200.0,5,-1.9
+Cauliflower,Andhra Pradesh,2026-09-21,1100.0,2,
+Cauliflower,Andhra Pradesh,2026-09-28,1233.0,6,12.1
+Cauliflower,Andhra Pradesh,2026-10-05,1225.0,4,-0.7
+Cauliflower,Andhra Pradesh,2026-10-12,1620.0,5,32.2
+Cauliflower,Andhra Pradesh,2026-10-19,1200.0,3,-25.9
+Cauliflower,Andhra Pradesh,2026-10-26,1320.0,5,10.0
+Cauliflower,Andhra Pradesh,2026-11-02,1267.0,6,-4.0
+Cauliflower,Andhra Pradesh,2026-11-09,1200.0,6,-5.3
+Cauliflower,Andhra Pradesh,2026-11-16,1200.0,5,0.0
+Cauliflower,Assam,2026-09-21,7100.0,1,
+Cauliflower,Assam,2026-09-28,5336.0,14,-24.8
+Cauliflower,Assam,2026-10-05,4953.0,16,-7.2
+Cauliflower,Assam,2026-10-12,5061.0,19,2.2
+Cauliflower,Assam,2026-10-19,3900.0,10,-22.9
+Cauliflower,Assam,2026-10-26,2636.0,18,-32.4
+Cauliflower,Assam,2026-11-02,1653.0,18,-37.3
+Cauliflower,Assam,2026-11-09,1762.0,25,6.6
+Cauliflower,Assam,2026-11-16,2102.0,30,19.3
+Cauliflower,Bihar,2026-09-21,6000.0,3,
+Cauliflower,Bihar,2026-09-28,6632.0,22,10.5
+Cauliflower,Bihar,2026-10-05,5584.0,37,-15.8
+Cauliflower,Bihar,2026-10-12,4457.0,80,-20.2
+Cauliflower,Bihar,2026-10-19,3437.0,79,-22.9
+Cauliflower,Bihar,2026-10-26,2454.0,127,-28.6
+Cauliflower,Bihar,2026-11-02,2136.0,128,-13.0
+Cauliflower,Bihar,2026-11-09,2246.0,109,5.1
+Cauliflower,Bihar,2026-11-16,2171.0,104,-3.3
+Cauliflower,Chandigarh,2026-09-21,2300.0,1,
+Cauliflower,Chandigarh,2026-09-28,1850.0,6,-19.6
+Cauliflower,Chandigarh,2026-10-05,1850.0,6,0.0
+Cauliflower,Chandigarh,2026-10-12,1580.0,5,-14.6
+Cauliflower,Chandigarh,2026-10-19,1460.0,5,-7.6
+Cauliflower,Chandigarh,2026-10-26,1183.0,6,-18.9
+Cauliflower,Chandigarh,2026-11-02,850.0,2,-28.2
+Cauliflower,Chandigarh,2026-11-09,820.0,5,-3.5
+Cauliflower,Chandigarh,2026-11-16,750.0,2,-8.5
+Cauliflower,Chattisgarh,2026-09-21,2300.0,5,
+Cauliflower,Chattisgarh,2026-09-28,2725.0,20,18.5
+Cauliflower,Chattisgarh,2026-10-05,2765.0,17,1.5
+Cauliflower,Chattisgarh,2026-10-12,2661.0,19,-3.8
+Cauliflower,Chattisgarh,2026-10-19,2939.0,19,10.5
+Cauliflower,Chattisgarh,2026-10-26,2499.0,25,-15.0
+Cauliflower,Chattisgarh,2026-11-02,2185.0,20,-12.6
+Cauliflower,Chattisgarh,2026-11-09,2295.0,20,5.0
+Cauliflower,Chattisgarh,2026-11-16,2210.0,20,-3.7
+Cauliflower,Gujarat,2026-09-21,2001.0,24,
+Cauliflower,Gujarat,2026-09-28,2077.0,135,3.8
+Cauliflower,Gujarat,2026-10-05,1942.0,131,-6.5
+Cauliflower,Gujarat,2026-10-12,1766.0,140,-9.1
+Cauliflower,Gujarat,2026-10-19,1475.0,127,-16.5
+Cauliflower,Gujarat,2026-10-26,1397.0,121,-5.2
+Cauliflower,Gujarat,2026-11-02,1470.0,135,5.2
+Cauliflower,Gujarat,2026-11-09,1712.0,56,16.5
+Cauliflower,Gujarat,2026-11-16,1454.0,112,-15.1
+Cauliflower,Haryana,2026-09-21,3023.0,39,
+Cauliflower,Haryana,2026-09-28,3100.0,181,2.6
+Cauliflower,Haryana,2026-10-05,3016.0,170,-2.7
+Cauliflower,Haryana,2026-10-12,2366.0,184,-21.6
+Cauliflower,Haryana,2026-10-19,2085.0,155,-11.9
+Cauliflower,Haryana,2026-10-26,1743.0,158,-16.4
+Cauliflower,Haryana,2026-11-02,1518.0,155,-12.9
+Cauliflower,Haryana,2026-11-09,1456.0,165,-4.1
+Cauliflower,Haryana,2026-11-16,1325.0,124,-9.0
+Cauliflower,Himachal Pradesh,2026-09-21,4530.0,20,
+Cauliflower,Himachal Pradesh,2026-09-28,4143.0,127,-8.5
+Cauliflower,Himachal Pradesh,2026-10-05,4111.0,128,-0.8
+Cauliflower,Himachal Pradesh,2026-10-12,3111.0,148,-24.3
+Cauliflower,Himachal Pradesh,2026-10-19,2659.0,132,-14.6
+Cauliflower,Himachal Pradesh,2026-10-26,1918.0,122,-27.8
+Cauliflower,Himachal Pradesh,2026-11-02,1683.0,124,-12.3
+Cauliflower,Himachal Pradesh,2026-11-09,1895.0,100,12.6
+Cauliflower,Himachal Pradesh,2026-11-16,1618.0,103,-14.6
+Cauliflower,Jammu and Kashmir,2026-09-21,4200.0,5,
+Cauliflower,Jammu and Kashmir,2026-09-28,4163.0,20,-0.9
+Cauliflower,Jammu and Kashmir,2026-10-05,3524.0,17,-15.4
+Cauliflower,Jammu and Kashmir,2026-10-12,2679.0,26,-24.0
+Cauliflower,Jammu and Kashmir,2026-10-19,2554.0,26,-4.7
+Cauliflower,Jammu and Kashmir,2026-10-26,2180.0,22,-14.7
+Cauliflower,Jammu and Kashmir,2026-11-02,2183.0,27,0.2
+Cauliflower,Jammu and Kashmir,2026-11-09,2683.0,26,22.9
+Cauliflower,Jammu and Kashmir,2026-11-16,1947.0,20,-27.4
+Cauliflower,Karnataka,2026-09-21,1968.0,14,
+Cauliflower,Karnataka,2026-09-28,1774.0,75,-9.9
+Cauliflower,Karnataka,2026-10-05,2095.0,82,18.1
+Cauliflower,Karnataka,2026-10-12,2248.0,77,7.3
+Cauliflower,Karnataka,2026-10-19,2201.0,69,-2.1
+Cauliflower,Karnataka,2026-10-26,2034.0,70,-7.6
+Cauliflower,Karnataka,2026-11-02,1976.0,83,-2.9
+Cauliflower,Karnataka,2026-11-09,1963.0,74,-0.7
+Cauliflower,Karnataka,2026-11-16,2088.0,36,6.4
+Cauliflower,Keralam,2026-09-21,4701.0,55,
+Cauliflower,Keralam,2026-09-28,4724.0,203,0.5
+Cauliflower,Keralam,2026-10-05,5050.0,211,6.9
+Cauliflower,Keralam,2026-10-12,5396.0,232,6.9
+Cauliflower,Keralam,2026-10-19,5400.0,208,0.1
+Cauliflower,Keralam,2026-10-26,5396.0,186,-0.1
+Cauliflower,Keralam,2026-11-02,5087.0,203,-5.7
+Cauliflower,Keralam,2026-11-09,5065.0,218,-0.4
+Cauliflower,Keralam,2026-11-16,5089.0,171,0.5
+Cauliflower,Madhya Pradesh,2026-09-21,1360.0,44,
+Cauliflower,Madhya Pradesh,2026-09-28,1496.0,182,10.0
+Cauliflower,Madhya Pradesh,2026-10-05,1500.0,194,0.3
+Cauliflower,Madhya Pradesh,2026-10-12,1437.0,212,-4.2
+Cauliflower,Madhya Pradesh,2026-10-19,1353.0,178,-5.8
+Cauliflower,Madhya Pradesh,2026-10-26,1229.0,218,-9.2
+Cauliflower,Madhya Pradesh,2026-11-02,1124.0,179,-8.5
+Cauliflower,Madhya Pradesh,2026-11-09,1082.0,178,-3.8
+Cauliflower,Madhya Pradesh,2026-11-16,1080.0,158,-0.1
+Cauliflower,Maharashtra,2026-09-21,1464.0,45,
+Cauliflower,Maharashtra,2026-09-28,1569.0,187,7.2
+Cauliflower,Maharashtra,2026-10-05,1534.0,187,-2.2
+Cauliflower,Maharashtra,2026-10-12,1472.0,199,-4.0
+Cauliflower,Maharashtra,2026-10-19,1448.0,188,-1.6
+Cauliflower,Maharashtra,2026-10-26,1249.0,183,-13.8
+Cauliflower,Maharashtra,2026-11-02,1098.0,171,-12.1
+Cauliflower,Maharashtra,2026-11-09,1071.0,149,-2.4
+Cauliflower,Maharashtra,2026-11-16,1042.0,132,-2.7
+Cauliflower,Manipur,2026-11-16,5750.0,2,
+Cauliflower,Meghalaya,2026-09-28,4800.0,4,
+Cauliflower,Meghalaya,2026-10-05,4583.0,6,-4.5
+Cauliflower,Meghalaya,2026-10-12,4217.0,6,-8.0
+Cauliflower,Meghalaya,2026-10-19,3667.0,3,-13.0
+Cauliflower,Meghalaya,2026-10-26,3283.0,6,-10.5
+Cauliflower,Meghalaya,2026-11-02,2742.0,6,-16.5
+Cauliflower,Meghalaya,2026-11-09,2650.0,2,-3.3
+Cauliflower,Meghalaya,2026-11-16,2500.0,5,-5.7
+Cauliflower,NCT of Delhi,2026-09-21,3670.0,5,
+Cauliflower,NCT of Delhi,2026-09-28,3339.0,14,-9.0
+Cauliflower,NCT of Delhi,2026-10-05,2929.0,17,-12.3
+Cauliflower,NCT of Delhi,2026-10-12,2550.0,18,-13.0
+Cauliflower,NCT of Delhi,2026-10-19,2438.0,16,-4.4
+Cauliflower,NCT of Delhi,2026-10-26,1731.0,18,-29.0
+Cauliflower,NCT of Delhi,2026-11-02,1613.0,12,-6.8
+Cauliflower,NCT of Delhi,2026-11-09,1530.0,15,-5.1
+Cauliflower,NCT of Delhi,2026-11-16,1594.0,9,4.2
+Cauliflower,Nagaland,2026-10-05,1800.0,1,
+Cauliflower,Nagaland,2026-10-26,5000.0,1,177.8
+Cauliflower,Nagaland,2026-11-02,1800.0,1,-64.0
+Cauliflower,Nagaland,2026-11-16,3750.0,2,108.3
+Cauliflower,Odisha,2026-09-21,5669.0,36,
+Cauliflower,Odisha,2026-09-28,5911.0,142,4.3
+Cauliflower,Odisha,2026-10-05,6255.0,139,5.8
+Cauliflower,Odisha,2026-10-12,6109.0,138,-2.3
+Cauliflower,Odisha,2026-10-19,5724.0,145,-6.3
+Cauliflower,Odisha,2026-10-26,5251.0,208,-8.3
+Cauliflower,Odisha,2026-11-02,4795.0,174,-8.7
+Cauliflower,Odisha,2026-11-09,4309.0,207,-10.1
+Cauliflower,Odisha,2026-11-16,3885.0,203,-9.8
+Cauliflower,Punjab,2026-09-21,3733.0,49,
+Cauliflower,Punjab,2026-09-28,3595.0,345,-3.7
+Cauliflower,Punjab,2026-10-05,3500.0,351,-2.6
+Cauliflower,Punjab,2026-10-12,3099.0,370,-11.4
+Cauliflower,Punjab,2026-10-19,2768.0,343,-10.7
+Cauliflower,Punjab,2026-10-26,2195.0,382,-20.7
+Cauliflower,Punjab,2026-11-02,1849.0,368,-15.8
+Cauliflower,Punjab,2026-11-09,1713.0,338,-7.4
+Cauliflower,Punjab,2026-11-16,1462.0,278,-14.6
+Cauliflower,Rajasthan,2026-09-21,2800.0,6,
+Cauliflower,Rajasthan,2026-09-28,2603.0,40,-7.1
+Cauliflower,Rajasthan,2026-10-05,2378.0,51,-8.6
+Cauliflower,Rajasthan,2026-10-12,2078.0,50,-12.6
+Cauliflower,Rajasthan,2026-10-19,1859.0,47,-10.6
+Cauliflower,Rajasthan,2026-10-26,1777.0,45,-4.4
+Cauliflower,Rajasthan,2026-11-02,1520.0,40,-14.4
+Cauliflower,Rajasthan,2026-11-09,1440.0,36,-5.2
+Cauliflower,Rajasthan,2026-11-16,1405.0,37,-2.4
+Cauliflower,Tamil Nadu,2026-09-21,3720.0,314,
+Cauliflower,Tamil Nadu,2026-09-28,3750.0,1093,0.8
+Cauliflower,Tamil Nadu,2026-10-05,3821.0,1083,1.9
+Cauliflower,Tamil Nadu,2026-10-12,3902.0,862,2.1
+Cauliflower,Tamil Nadu,2026-10-19,3950.0,806,1.2
+Cauliflower,Tamil Nadu,2026-10-26,3907.0,829,-1.1
+Cauliflower,Tamil Nadu,2026-11-02,3859.0,817,-1.2
+Cauliflower,Tamil Nadu,2026-11-09,3799.0,656,-1.5
+Cauliflower,Tamil Nadu,2026-11-16,3846.0,595,1.2
+Cauliflower,Telangana,2026-09-21,2167.0,24,
+Cauliflower,Telangana,2026-09-28,2494.0,85,15.1
+Cauliflower,Telangana,2026-10-05,2715.0,79,8.9
+Cauliflower,Telangana,2026-10-12,2705.0,82,-0.4
+Cauliflower,Telangana,2026-10-19,2345.0,73,-13.3
+Cauliflower,Telangana,2026-10-26,2529.0,85,7.9
+Cauliflower,Telangana,2026-11-02,2235.0,84,-11.7
+Cauliflower,Telangana,2026-11-09,2249.0,83,0.6
+Cauliflower,Telangana,2026-11-16,2218.0,59,-1.4
+Cauliflower,Tripura,2026-09-28,9025.0,4,
+Cauliflower,Tripura,2026-10-05,6994.0,7,-22.5
+Cauliflower,Tripura,2026-10-12,8083.0,12,15.6
+Cauliflower,Tripura,2026-10-19,8111.0,18,0.3
+Cauliflower,Tripura,2026-10-26,5962.0,34,-26.5
+Cauliflower,Tripura,2026-11-02,4361.0,57,-26.8
+Cauliflower,Tripura,2026-11-09,4201.0,79,-3.7
+Cauliflower,Tripura,2026-11-16,4259.0,78,1.4
+Cauliflower,Uttar Pradesh,2026-09-21,1992.0,24,
+Cauliflower,Uttar Pradesh,2026-09-28,2109.0,74,5.9
+Cauliflower,Uttar Pradesh,2026-10-05,2106.0,93,-0.1
+Cauliflower,Uttar Pradesh,2026-10-12,1958.0,93,-7.0
+Cauliflower,Uttar Pradesh,2026-10-19,1908.0,79,-2.6
+Cauliflower,Uttar Pradesh,2026-10-26,1747.0,92,-8.4
+Cauliflower,Uttar Pradesh,2026-11-02,1334.0,73,-23.7
+Cauliflower,Uttar Pradesh,2026-11-09,1353.0,63,1.4
+Cauliflower,Uttar Pradesh,2026-11-16,1388.0,64,2.6
+Cauliflower,Uttarakhand,2026-09-21,1880.0,10,
+Cauliflower,Uttarakhand,2026-09-28,2092.0,43,11.3
+Cauliflower,Uttarakhand,2026-10-05,2099.0,59,0.3
+Cauliflower,Uttarakhand,2026-10-12,2200.0,61,4.8
+Cauliflower,Uttarakhand,2026-10-19,2016.0,61,-8.4
+Cauliflower,Uttarakhand,2026-10-26,1693.0,65,-16.0
+Cauliflower,Uttarakhand,2026-11-02,1569.0,67,-7.4
+Cauliflower,Uttarakhand,2026-11-09,1484.0,58,-5.4
+Cauliflower,Uttarakhand,2026-11-16,1517.0,49,2.2
+Cauliflower,West Bengal,2026-09-28,3200.0,2,
+Cauliflower,West Bengal,2026-10-05,3211.0,9,0.3
+Cauliflower,West Bengal,2026-10-12,3240.0,10,0.9
+Cauliflower,West Bengal,2026-10-19,3622.0,9,11.8
+Cauliflower,West Bengal,2026-10-26,2183.0,30,-39.7
+Cauliflower,West Bengal,2026-11-02,2135.0,50,-2.2
+Cauliflower,West Bengal,2026-11-09,2066.0,48,-3.2
+Cauliflower,West Bengal,2026-11-16,1868.0,49,-9.5
+Garlic,Assam,2026-09-21,14550.0,5,
+Garlic,Assam,2026-09-28,14071.0,17,-3.3
+Garlic,Assam,2026-10-05,14278.0,18,1.5
+Garlic,Assam,2026-10-12,14144.0,16,-0.9
+Garlic,Assam,2026-10-19,14000.0,15,-1.0
+Garlic,Assam,2026-10-26,13816.0,19,-1.3
+Garlic,Assam,2026-11-02,14559.0,17,5.4
+Garlic,Assam,2026-11-09,13590.0,15,-6.7
+Garlic,Assam,2026-11-16,13833.0,12,1.8
+Garlic,Bihar,2026-09-21,18000.0,1,
+Garlic,Bihar,2026-09-28,12000.0,3,-33.3
+Garlic,Bihar,2026-10-05,11250.0,4,-6.3
+Garlic,Bihar,2026-10-12,11000.0,4,-2.2
+Garlic,Bihar,2026-10-19,9550.0,4,-13.2
+Garlic,Bihar,2026-10-26,13379.0,7,40.1
+Garlic,Bihar,2026-11-02,9171.0,7,-31.4
+Garlic,Bihar,2026-11-09,9800.0,3,6.9
+Garlic,Bihar,2026-11-16,9500.0,4,-3.1
+Garlic,Chattisgarh,2026-09-28,8495.0,2,
+Garlic,Chattisgarh,2026-10-26,8788.0,3,3.4
+Garlic,Gujarat,2026-09-21,10072.0,6,
+Garlic,Gujarat,2026-09-28,9288.0,44,-7.8
+Garlic,Gujarat,2026-10-05,10530.0,50,13.4
+Garlic,Gujarat,2026-10-12,10272.0,46,-2.5
+Garlic,Gujarat,2026-10-19,10492.0,40,2.1
+Garlic,Gujarat,2026-10-26,10378.0,41,-1.1
+Garlic,Gujarat,2026-11-02,11118.0,41,7.1
+Garlic,Gujarat,2026-11-09,11826.0,14,6.4
+Garlic,Gujarat,2026-11-16,10929.0,35,-7.6
+Garlic,Haryana,2026-09-21,13000.0,7,
+Garlic,Haryana,2026-09-28,13179.0,52,1.4
+Garlic,Haryana,2026-10-05,12736.0,55,-3.4
+Garlic,Haryana,2026-10-12,12883.0,51,1.2
+Garlic,Haryana,2026-10-19,12882.0,51,-0.0
+Garlic,Haryana,2026-10-26,13488.0,49,4.7
+Garlic,Haryana,2026-11-02,13714.0,43,1.7
+Garlic,Haryana,2026-11-09,13370.0,44,-2.5
+Garlic,Haryana,2026-11-16,14179.0,38,6.0
+Garlic,Himachal Pradesh,2026-09-21,14950.0,10,
+Garlic,Himachal Pradesh,2026-09-28,15847.0,53,6.0
+Garlic,Himachal Pradesh,2026-10-05,16102.0,63,1.6
+Garlic,Himachal Pradesh,2026-10-12,16109.0,70,0.0
+Garlic,Himachal Pradesh,2026-10-19,16445.0,56,2.1
+Garlic,Himachal Pradesh,2026-10-26,16611.0,51,1.0
+Garlic,Himachal Pradesh,2026-11-02,17008.0,58,2.4
+Garlic,Himachal Pradesh,2026-11-09,17395.0,38,2.3
+Garlic,Himachal Pradesh,2026-11-16,18054.0,46,3.8
+Garlic,Jammu and Kashmir,2026-09-21,15333.0,3,
+Garlic,Jammu and Kashmir,2026-09-28,14929.0,14,-2.6
+Garlic,Jammu and Kashmir,2026-10-05,15750.0,16,5.5
+Garlic,Jammu and Kashmir,2026-10-12,15281.0,16,-3.0
+Garlic,Jammu and Kashmir,2026-10-19,15217.0,15,-0.4
+Garlic,Jammu and Kashmir,2026-10-26,16107.0,14,5.9
+Garlic,Jammu and Kashmir,2026-11-02,17214.0,14,6.9
+Garlic,Jammu and Kashmir,2026-11-09,17206.0,17,-0.0
+Garlic,Jammu and Kashmir,2026-11-16,15304.0,14,-11.1
+Garlic,Karnataka,2026-09-21,10935.0,6,
+Garlic,Karnataka,2026-09-28,12513.0,35,14.4
+Garlic,Karnataka,2026-10-05,12621.0,35,0.9
+Garlic,Karnataka,2026-10-12,12814.0,33,1.5
+Garlic,Karnataka,2026-10-19,12943.0,27,1.0
+Garlic,Karnataka,2026-10-26,13541.0,32,4.6
+Garlic,Karnataka,2026-11-02,13576.0,33,0.3
+Garlic,Karnataka,2026-11-09,14010.0,27,3.2
+Garlic,Karnataka,2026-11-16,14471.0,17,3.3
+Garlic,Keralam,2026-09-21,19394.0,18,
+Garlic,Keralam,2026-09-28,19627.0,67,1.2
+Garlic,Keralam,2026-10-05,19671.0,79,0.2
+Garlic,Keralam,2026-10-12,19727.0,79,0.3
+Garlic,Keralam,2026-10-19,19290.0,69,-2.2
+Garlic,Keralam,2026-10-26,19811.0,61,2.7
+Garlic,Keralam,2026-11-02,19725.0,68,-0.4
+Garlic,Keralam,2026-11-09,19967.0,79,1.2
+Garlic,Keralam,2026-11-16,20414.0,59,2.2
+Garlic,Madhya Pradesh,2026-09-21,8881.0,16,
+Garlic,Madhya Pradesh,2026-09-28,7675.0,318,-13.6
+Garlic,Madhya Pradesh,2026-10-05,7295.0,326,-4.9
+Garlic,Madhya Pradesh,2026-10-12,7441.0,338,2.0
+Garlic,Madhya Pradesh,2026-10-19,7163.0,194,-3.7
+Garlic,Madhya Pradesh,2026-10-26,8078.0,316,12.8
+Garlic,Madhya Pradesh,2026-11-02,8278.0,230,2.5
+Garlic,Madhya Pradesh,2026-11-09,8451.0,131,2.1
+Garlic,Madhya Pradesh,2026-11-16,8659.0,285,2.5
+Garlic,Maharashtra,2026-09-21,12864.0,18,
+Garlic,Maharashtra,2026-09-28,13397.0,61,4.1
+Garlic,Maharashtra,2026-10-05,12992.0,67,-3.0
+Garlic,Maharashtra,2026-10-12,13476.0,74,3.7
+Garlic,Maharashtra,2026-10-19,13316.0,77,-1.2
+Garlic,Maharashtra,2026-10-26,13768.0,80,3.4
+Garlic,Maharashtra,2026-11-02,13836.0,68,0.5
+Garlic,Maharashtra,2026-11-09,13313.0,56,-3.8
+Garlic,Maharashtra,2026-11-16,14190.0,60,6.6
+Garlic,Meghalaya,2026-09-28,20667.0,3,
+Garlic,Meghalaya,2026-10-05,21200.0,5,2.6
+Garlic,Meghalaya,2026-10-12,20875.0,8,-1.5
+Garlic,Meghalaya,2026-10-19,20333.0,3,-2.6
+Garlic,Meghalaya,2026-10-26,20500.0,4,0.8
+Garlic,Meghalaya,2026-11-02,21000.0,1,2.4
+Garlic,NCT of Delhi,2026-09-21,9500.0,1,
+Garlic,NCT of Delhi,2026-09-28,9425.0,5,-0.8
+Garlic,NCT of Delhi,2026-10-05,11875.0,9,26.0
+Garlic,NCT of Delhi,2026-10-12,10321.0,7,-13.1
+Garlic,NCT of Delhi,2026-10-19,10893.0,7,5.5
+Garlic,NCT of Delhi,2026-10-26,10042.0,6,-7.8
+Garlic,NCT of Delhi,2026-11-02,10875.0,5,8.3
+Garlic,NCT of Delhi,2026-11-09,10875.0,3,0.0
+Garlic,NCT of Delhi,2026-11-16,10875.0,3,0.0
+Garlic,Nagaland,2026-11-02,8000.0,1,
+Garlic,Odisha,2026-09-21,13222.0,1,
+Garlic,Odisha,2026-09-28,13250.0,4,0.2
+Garlic,Odisha,2026-10-05,13220.0,5,-0.2
+Garlic,Odisha,2026-10-12,13500.0,2,2.1
+Garlic,Odisha,2026-10-19,13750.0,6,1.9
+Garlic,Odisha,2026-10-26,13833.0,6,0.6
+Garlic,Odisha,2026-11-02,13500.0,7,-2.4
+Garlic,Odisha,2026-11-09,13000.0,6,-3.7
+Garlic,Odisha,2026-11-16,10667.0,3,-17.9
+Garlic,Punjab,2026-09-21,12477.0,15,
+Garlic,Punjab,2026-09-28,11605.0,146,-7.0
+Garlic,Punjab,2026-10-05,11425.0,153,-1.6
+Garlic,Punjab,2026-10-12,11597.0,146,1.5
+Garlic,Punjab,2026-10-19,12148.0,145,4.8
+Garlic,Punjab,2026-10-26,12147.0,142,-0.0
+Garlic,Punjab,2026-11-02,11861.0,128,-2.4
+Garlic,Punjab,2026-11-09,11945.0,117,0.7
+Garlic,Punjab,2026-11-16,11980.0,94,0.3
+Garlic,Rajasthan,2026-09-21,12798.0,11,
+Garlic,Rajasthan,2026-09-28,12386.0,67,-3.2
+Garlic,Rajasthan,2026-10-05,12198.0,68,-1.5
+Garlic,Rajasthan,2026-10-12,12529.0,67,2.7
+Garlic,Rajasthan,2026-10-19,12176.0,55,-2.8
+Garlic,Rajasthan,2026-10-26,13273.0,58,9.0
+Garlic,Rajasthan,2026-11-02,13236.0,54,-0.3
+Garlic,Rajasthan,2026-11-09,12961.0,32,-2.1
+Garlic,Rajasthan,2026-11-16,12437.0,57,-4.0
+Garlic,Tamil Nadu,2026-09-21,22437.0,202,
+Garlic,Tamil Nadu,2026-09-28,22286.0,704,-0.7
+Garlic,Tamil Nadu,2026-10-05,22026.0,726,-1.2
+Garlic,Tamil Nadu,2026-10-12,22066.0,586,0.2
+Garlic,Tamil Nadu,2026-10-19,21854.0,565,-1.0
+Garlic,Tamil Nadu,2026-10-26,21988.0,580,0.6
+Garlic,Tamil Nadu,2026-11-02,22224.0,560,1.1
+Garlic,Tamil Nadu,2026-11-09,22292.0,439,0.3
+Garlic,Tamil Nadu,2026-11-16,22680.0,402,1.7
+Garlic,Telangana,2026-09-21,12000.0,1,
+Garlic,Telangana,2026-09-28,12000.0,5,0.0
+Garlic,Telangana,2026-10-05,11600.0,5,-3.3
+Garlic,Telangana,2026-10-12,11000.0,6,-5.2
+Garlic,Telangana,2026-10-19,11000.0,4,0.0
+Garlic,Telangana,2026-10-26,11000.0,6,0.0
+Garlic,Telangana,2026-11-02,11833.0,6,7.6
+Garlic,Telangana,2026-11-09,12000.0,4,1.4
+Garlic,Telangana,2026-11-16,13000.0,5,8.3
+Garlic,Tripura,2026-09-28,10100.0,2,
+Garlic,Tripura,2026-10-05,9100.0,2,-9.9
+Garlic,Tripura,2026-10-12,9100.0,1,0.0
+Garlic,Tripura,2026-10-19,11000.0,2,20.9
+Garlic,Tripura,2026-10-26,12267.0,3,11.5
+Garlic,Tripura,2026-11-02,12850.0,2,4.8
+Garlic,Tripura,2026-11-09,11100.0,1,-13.6
+Garlic,Tripura,2026-11-16,11100.0,1,0.0
+Garlic,Uttar Pradesh,2026-09-21,8017.0,35,
+Garlic,Uttar Pradesh,2026-09-28,7888.0,202,-1.6
+Garlic,Uttar Pradesh,2026-10-05,7581.0,154,-3.9
+Garlic,Uttar Pradesh,2026-10-12,8146.0,178,7.5
+Garlic,Uttar Pradesh,2026-10-19,7412.0,121,-9.0
+Garlic,Uttar Pradesh,2026-10-26,7826.0,204,5.6
+Garlic,Uttar Pradesh,2026-11-02,7843.0,125,0.2
+Garlic,Uttar Pradesh,2026-11-09,7825.0,107,-0.2
+Garlic,Uttar Pradesh,2026-11-16,8693.0,119,11.1
+Garlic,Uttarakhand,2026-09-21,6400.0,3,
+Garlic,Uttarakhand,2026-09-28,7258.0,13,13.4
+Garlic,Uttarakhand,2026-10-05,6868.0,11,-5.4
+Garlic,Uttarakhand,2026-10-12,6538.0,13,-4.8
+Garlic,Uttarakhand,2026-10-19,7042.0,13,7.7
+Garlic,Uttarakhand,2026-10-26,7450.0,12,5.8
+Garlic,Uttarakhand,2026-11-02,7038.0,12,-5.5
+Garlic,Uttarakhand,2026-11-09,7150.0,8,1.6
+Garlic,Uttarakhand,2026-11-16,7756.0,9,8.5
+Garlic,West Bengal,2026-09-21,16313.0,4,
+Garlic,West Bengal,2026-09-28,14437.0,26,-11.5
+Garlic,West Bengal,2026-10-05,14455.0,21,0.1
+Garlic,West Bengal,2026-10-12,14068.0,19,-2.7
+Garlic,West Bengal,2026-10-19,13875.0,20,-1.4
+Garlic,West Bengal,2026-10-26,14125.0,24,1.8
+Garlic,West Bengal,2026-11-02,14167.0,23,0.3
+Garlic,West Bengal,2026-11-09,14390.0,21,1.6
+Garlic,West Bengal,2026-11-16,13904.0,13,-3.4
+Ginger,Andaman and Nicobar,2026-09-21,20000.0,1,
+Ginger,Andaman and Nicobar,2026-09-28,20000.0,5,0.0
+Ginger,Andaman and Nicobar,2026-10-05,20000.0,5,0.0
+Ginger,Andaman and Nicobar,2026-10-12,21321.0,7,6.6
+Ginger,Andaman and Nicobar,2026-10-19,20000.0,4,-6.2
+Ginger,Andaman and Nicobar,2026-10-26,20000.0,6,0.0
+Ginger,Andaman and Nicobar,2026-11-02,20000.0,6,0.0
+Ginger,Andaman and Nicobar,2026-11-09,20000.0,6,0.0
+Ginger,Andaman and Nicobar,2026-11-16,20000.0,4,0.0
+Ginger,Arunachal Pradesh,2026-11-09,6000.0,1,
+Ginger,Assam,2026-09-21,11000.0,5,
+Ginger,Assam,2026-09-28,9033.0,27,-17.9
+Ginger,Assam,2026-10-05,9204.0,25,1.9
+Ginger,Assam,2026-10-12,9050.0,24,-1.7
+Ginger,Assam,2026-10-19,9076.0,17,0.3
+Ginger,Assam,2026-10-26,6220.0,30,-31.5
+Ginger,Assam,2026-11-02,5523.0,30,-11.2
+Ginger,Assam,2026-11-09,5776.0,29,4.6
+Ginger,Assam,2026-11-16,5900.0,20,2.1
+Ginger,Bihar,2026-10-05,7250.0,1,
+Ginger,Bihar,2026-10-19,9325.0,4,28.6
+Ginger,Bihar,2026-10-26,8800.0,5,-5.6
+Ginger,Bihar,2026-11-09,8400.0,1,-4.5
+Ginger,Chandigarh,2026-09-21,4000.0,1,
+Ginger,Chandigarh,2026-09-28,3433.0,6,-14.2
+Ginger,Chandigarh,2026-10-05,3667.0,6,6.8
+Ginger,Chandigarh,2026-10-12,3300.0,5,-10.0
+Ginger,Chandigarh,2026-10-19,3580.0,5,8.5
+Ginger,Chandigarh,2026-10-26,3883.0,6,8.5
+Ginger,Chandigarh,2026-11-02,3500.0,2,-9.9
+Ginger,Chandigarh,2026-11-09,3900.0,5,11.4
+Ginger,Chandigarh,2026-11-16,3900.0,2,0.0
+Ginger,Gujarat,2026-09-21,8846.0,9,
+Ginger,Gujarat,2026-09-28,8297.0,58,-6.2
+Ginger,Gujarat,2026-10-05,8049.0,65,-3.0
+Ginger,Gujarat,2026-10-12,7605.0,70,-5.5
+Ginger,Gujarat,2026-10-19,7126.0,60,-6.3
+Ginger,Gujarat,2026-10-26,7221.0,60,1.3
+Ginger,Gujarat,2026-11-02,6670.0,65,-7.6
+Ginger,Gujarat,2026-11-09,6206.0,26,-7.0
+Ginger,Gujarat,2026-11-16,5752.0,56,-7.3
+Ginger,Haryana,2026-09-21,5880.0,10,
+Ginger,Haryana,2026-09-28,6416.0,63,9.1
+Ginger,Haryana,2026-10-05,6151.0,53,-4.1
+Ginger,Haryana,2026-10-12,6419.0,62,4.4
+Ginger,Haryana,2026-10-19,6137.0,56,-4.4
+Ginger,Haryana,2026-10-26,6789.0,56,10.6
+Ginger,Haryana,2026-11-02,6361.0,54,-6.3
+Ginger,Haryana,2026-11-09,6188.0,57,-2.7
+Ginger,Haryana,2026-11-16,6160.0,51,-0.5
+Ginger,Himachal Pradesh,2026-09-21,7981.0,13,
+Ginger,Himachal Pradesh,2026-09-28,7153.0,75,-10.4
+Ginger,Himachal Pradesh,2026-10-05,6839.0,83,-4.4
+Ginger,Himachal Pradesh,2026-10-12,6530.0,103,-4.5
+Ginger,Himachal Pradesh,2026-10-19,6256.0,79,-4.2
+Ginger,Himachal Pradesh,2026-10-26,6433.0,72,2.8
+Ginger,Himachal Pradesh,2026-11-02,6559.0,101,2.0
+Ginger,Himachal Pradesh,2026-11-09,6642.0,62,1.3
+Ginger,Himachal Pradesh,2026-11-16,6767.0,79,1.9
+Ginger,Jammu and Kashmir,2026-09-21,7250.0,3,
+Ginger,Jammu and Kashmir,2026-09-28,6731.0,13,-7.2
+Ginger,Jammu and Kashmir,2026-10-05,6613.0,15,-1.7
+Ginger,Jammu and Kashmir,2026-10-12,7016.0,16,6.1
+Ginger,Jammu and Kashmir,2026-10-19,6678.0,16,-4.8
+Ginger,Jammu and Kashmir,2026-10-26,7339.0,14,9.9
+Ginger,Jammu and Kashmir,2026-11-02,6875.0,14,-6.3
+Ginger,Jammu and Kashmir,2026-11-09,6926.0,17,0.7
+Ginger,Jammu and Kashmir,2026-11-16,6339.0,14,-8.5
+Ginger,Karnataka,2026-09-21,8033.0,6,
+Ginger,Karnataka,2026-09-28,7496.0,57,-6.7
+Ginger,Karnataka,2026-10-05,6966.0,58,-7.1
+Ginger,Karnataka,2026-10-12,5942.0,66,-14.7
+Ginger,Karnataka,2026-10-19,5457.0,58,-8.2
+Ginger,Karnataka,2026-10-26,4684.0,84,-14.2
+Ginger,Karnataka,2026-11-02,4794.0,70,2.4
+Ginger,Karnataka,2026-11-09,4354.0,81,-9.2
+Ginger,Karnataka,2026-11-16,4394.0,47,0.9
+Ginger,Keralam,2026-09-21,14894.0,62,
+Ginger,Keralam,2026-09-28,13887.0,231,-6.8
+Ginger,Keralam,2026-10-05,14301.0,258,3.0
+Ginger,Keralam,2026-10-12,13835.0,262,-3.3
+Ginger,Keralam,2026-10-19,13695.0,221,-1.0
+Ginger,Keralam,2026-10-26,13048.0,189,-4.7
+Ginger,Keralam,2026-11-02,12262.0,223,-6.0
+Ginger,Keralam,2026-11-09,11814.0,237,-3.6
+Ginger,Keralam,2026-11-16,10702.0,187,-9.4
+Ginger,Madhya Pradesh,2026-09-21,5281.0,10,
+Ginger,Madhya Pradesh,2026-09-28,5529.0,72,4.7
+Ginger,Madhya Pradesh,2026-10-05,6042.0,79,9.3
+Ginger,Madhya Pradesh,2026-10-12,5765.0,86,-4.6
+Ginger,Madhya Pradesh,2026-10-19,5720.0,71,-0.8
+Ginger,Madhya Pradesh,2026-10-26,5262.0,95,-8.0
+Ginger,Madhya Pradesh,2026-11-02,5112.0,75,-2.8
+Ginger,Madhya Pradesh,2026-11-09,4727.0,65,-7.5
+Ginger,Madhya Pradesh,2026-11-16,4625.0,54,-2.2
+Ginger,Maharashtra,2026-09-21,8933.0,33,
+Ginger,Maharashtra,2026-09-28,8641.0,130,-3.3
+Ginger,Maharashtra,2026-10-05,8069.0,135,-6.6
+Ginger,Maharashtra,2026-10-12,7251.0,128,-10.1
+Ginger,Maharashtra,2026-10-19,6982.0,134,-3.7
+Ginger,Maharashtra,2026-10-26,6450.0,136,-7.6
+Ginger,Maharashtra,2026-11-02,6089.0,124,-5.6
+Ginger,Maharashtra,2026-11-09,5789.0,107,-4.9
+Ginger,Maharashtra,2026-11-16,5793.0,98,0.1
+Ginger,Manipur,2026-09-28,8167.0,6,
+Ginger,Manipur,2026-10-05,5875.0,8,-28.1
+Ginger,Manipur,2026-10-12,6036.0,7,2.7
+Ginger,Manipur,2026-10-26,5750.0,8,-4.7
+Ginger,Manipur,2026-11-02,5750.0,9,0.0
+Ginger,Manipur,2026-11-09,5583.0,6,-2.9
+Ginger,Manipur,2026-11-16,5250.0,8,-6.0
+Ginger,NCT of Delhi,2026-09-21,9900.0,1,
+Ginger,NCT of Delhi,2026-09-28,9700.0,7,-2.0
+Ginger,NCT of Delhi,2026-10-05,10580.0,5,9.1
+Ginger,NCT of Delhi,2026-10-12,9250.0,9,-12.6
+Ginger,NCT of Delhi,2026-10-19,9281.0,8,0.3
+Ginger,NCT of Delhi,2026-10-26,9317.0,9,0.4
+Ginger,NCT of Delhi,2026-11-02,9379.0,7,0.7
+Ginger,NCT of Delhi,2026-11-09,9300.0,4,-0.8
+Ginger,NCT of Delhi,2026-11-16,7730.0,5,-16.9
+Ginger,Nagaland,2026-09-21,8300.0,1,
+Ginger,Nagaland,2026-09-28,8300.0,6,0.0
+Ginger,Nagaland,2026-10-05,7983.0,7,-3.8
+Ginger,Nagaland,2026-10-12,7428.0,4,-7.0
+Ginger,Nagaland,2026-10-19,7742.0,5,4.2
+Ginger,Nagaland,2026-10-26,7177.0,7,-7.3
+Ginger,Nagaland,2026-11-02,7105.0,6,-1.0
+Ginger,Nagaland,2026-11-09,6820.0,5,-4.0
+Ginger,Nagaland,2026-11-16,7500.0,4,10.0
+Ginger,Odisha,2026-09-21,15000.0,2,
+Ginger,Odisha,2026-09-28,15143.0,7,1.0
+Ginger,Odisha,2026-10-05,13571.0,7,-10.4
+Ginger,Odisha,2026-10-12,12167.0,6,-10.4
+Ginger,Odisha,2026-10-19,13400.0,5,10.1
+Ginger,Odisha,2026-10-26,12000.0,7,-10.4
+Ginger,Odisha,2026-11-02,11429.0,7,-4.8
+Ginger,Odisha,2026-11-09,12167.0,6,6.5
+Ginger,Odisha,2026-11-16,12000.0,5,-1.4
+Ginger,Punjab,2026-09-21,6735.0,20,
+Ginger,Punjab,2026-09-28,7119.0,158,5.7
+Ginger,Punjab,2026-10-05,6984.0,165,-1.9
+Ginger,Punjab,2026-10-12,6940.0,152,-0.6
+Ginger,Punjab,2026-10-19,6814.0,161,-1.8
+Ginger,Punjab,2026-10-26,6845.0,155,0.5
+Ginger,Punjab,2026-11-02,6586.0,149,-3.8
+Ginger,Punjab,2026-11-09,6589.0,139,0.1
+Ginger,Punjab,2026-11-16,6234.0,116,-5.4
+Ginger,Rajasthan,2026-09-21,5980.0,5,
+Ginger,Rajasthan,2026-09-28,5791.0,32,-3.2
+Ginger,Rajasthan,2026-10-05,5443.0,37,-6.0
+Ginger,Rajasthan,2026-10-12,5369.0,39,-1.4
+Ginger,Rajasthan,2026-10-19,5020.0,37,-6.5
+Ginger,Rajasthan,2026-10-26,5567.0,35,10.9
+Ginger,Rajasthan,2026-11-02,5328.0,29,-4.3
+Ginger,Rajasthan,2026-11-09,5226.0,29,-1.9
+Ginger,Rajasthan,2026-11-16,5302.0,27,1.5
+Ginger,Tamil Nadu,2026-09-21,15940.0,352,
+Ginger,Tamil Nadu,2026-09-28,15438.0,1205,-3.1
+Ginger,Tamil Nadu,2026-10-05,15516.0,1201,0.5
+Ginger,Tamil Nadu,2026-10-12,15164.0,970,-2.3
+Ginger,Tamil Nadu,2026-10-19,14312.0,933,-5.6
+Ginger,Tamil Nadu,2026-10-26,13550.0,920,-5.3
+Ginger,Tamil Nadu,2026-11-02,12507.0,887,-7.7
+Ginger,Tamil Nadu,2026-11-09,11826.0,731,-5.4
+Ginger,Tamil Nadu,2026-11-16,10671.0,650,-9.8
+Ginger,Telangana,2026-09-21,6500.0,1,
+Ginger,Telangana,2026-09-28,5160.0,5,-20.6
+Ginger,Telangana,2026-10-05,4640.0,5,-10.1
+Ginger,Telangana,2026-10-12,5486.0,7,18.2
+Ginger,Telangana,2026-10-19,3850.0,3,-29.8
+Ginger,Telangana,2026-10-26,4117.0,6,6.9
+Ginger,Telangana,2026-11-02,3967.0,6,-3.6
+Ginger,Telangana,2026-11-09,3550.0,4,-10.5
+Ginger,Telangana,2026-11-16,3480.0,5,-2.0
+Ginger,Tripura,2026-09-21,9850.0,6,
+Ginger,Tripura,2026-09-28,9743.0,27,-1.1
+Ginger,Tripura,2026-10-05,9694.0,22,-0.5
+Ginger,Tripura,2026-10-12,9390.0,15,-3.1
+Ginger,Tripura,2026-10-19,8915.0,13,-5.1
+Ginger,Tripura,2026-10-26,9507.0,21,6.6
+Ginger,Tripura,2026-11-02,9804.0,24,3.1
+Ginger,Tripura,2026-11-09,10914.0,21,11.3
+Ginger,Tripura,2026-11-16,10078.0,18,-7.7
+Ginger,Uttar Pradesh,2026-09-21,5726.0,46,
+Ginger,Uttar Pradesh,2026-09-28,5650.0,194,-1.3
+Ginger,Uttar Pradesh,2026-10-05,5762.0,161,2.0
+Ginger,Uttar Pradesh,2026-10-12,5697.0,191,-1.1
+Ginger,Uttar Pradesh,2026-10-19,5261.0,138,-7.6
+Ginger,Uttar Pradesh,2026-10-26,5459.0,217,3.8
+Ginger,Uttar Pradesh,2026-11-02,5328.0,125,-2.4
+Ginger,Uttar Pradesh,2026-11-09,4960.0,133,-6.9
+Ginger,Uttar Pradesh,2026-11-16,5055.0,135,1.9
+Ginger,Uttarakhand,2026-09-21,4486.0,7,
+Ginger,Uttarakhand,2026-09-28,4575.0,22,2.0
+Ginger,Uttarakhand,2026-10-05,4280.0,25,-6.4
+Ginger,Uttarakhand,2026-10-12,4402.0,24,2.9
+Ginger,Uttarakhand,2026-10-19,4183.0,27,-5.0
+Ginger,Uttarakhand,2026-10-26,4282.0,22,2.4
+Ginger,Uttarakhand,2026-11-02,4141.0,27,-3.3
+Ginger,Uttarakhand,2026-11-09,4283.0,23,3.4
+Ginger,Uttarakhand,2026-11-16,3936.0,21,-8.1
+Ginger,West Bengal,2026-09-21,10250.0,4,
+Ginger,West Bengal,2026-09-28,9080.0,20,-11.4
+Ginger,West Bengal,2026-10-05,8447.0,19,-7.0
+Ginger,West Bengal,2026-10-12,8339.0,19,-1.3
+Ginger,West Bengal,2026-10-19,7256.0,18,-13.0
+Ginger,West Bengal,2026-10-26,7093.0,19,-2.2
+Ginger,West Bengal,2026-11-02,6939.0,18,-2.2
+Ginger,West Bengal,2026-11-09,7030.0,19,1.3
+Ginger,West Bengal,2026-11-16,7010.0,15,-0.3
+Green Chilli,Andaman and Nicobar,2026-09-28,7400.0,3,
+Green Chilli,Andaman and Nicobar,2026-10-05,22800.0,5,208.1
+Green Chilli,Andaman and Nicobar,2026-10-12,22750.0,2,-0.2
+Green Chilli,Andaman and Nicobar,2026-10-19,24000.0,1,5.5
+Green Chilli,Andhra Pradesh,2026-09-21,3500.0,2,
+Green Chilli,Andhra Pradesh,2026-09-28,3917.0,6,11.9
+Green Chilli,Andhra Pradesh,2026-10-05,3875.0,4,-1.1
+Green Chilli,Andhra Pradesh,2026-10-12,4250.0,4,9.7
+Green Chilli,Andhra Pradesh,2026-10-19,4167.0,3,-2.0
+Green Chilli,Andhra Pradesh,2026-10-26,4200.0,5,0.8
+Green Chilli,Andhra Pradesh,2026-11-02,3667.0,6,-12.7
+Green Chilli,Andhra Pradesh,2026-11-09,3833.0,6,4.5
+Green Chilli,Andhra Pradesh,2026-11-16,4100.0,5,7.0
+Green Chilli,Arunachal Pradesh,2026-11-09,6000.0,1,
+Green Chilli,Assam,2026-09-21,7707.0,7,
+Green Chilli,Assam,2026-09-28,8516.0,52,10.5
+Green Chilli,Assam,2026-10-05,8021.0,39,-5.8
+Green Chilli,Assam,2026-10-12,9520.0,37,18.7
+Green Chilli,Assam,2026-10-19,9314.0,21,-2.2
+Green Chilli,Assam,2026-10-26,7811.0,41,-16.1
+Green Chilli,Assam,2026-11-02,7555.0,39,-3.3
+Green Chilli,Assam,2026-11-09,6794.0,44,-10.1
+Green Chilli,Assam,2026-11-16,6690.0,45,-1.5
+Green Chilli,Bihar,2026-09-21,5250.0,2,
+Green Chilli,Bihar,2026-09-28,5120.0,10,-2.5
+Green Chilli,Bihar,2026-10-05,5184.0,20,1.2
+Green Chilli,Bihar,2026-10-12,5505.0,32,6.2
+Green Chilli,Bihar,2026-10-19,5572.0,22,1.2
+Green Chilli,Bihar,2026-10-26,5692.0,34,2.2
+Green Chilli,Bihar,2026-11-02,5326.0,36,-6.4
+Green Chilli,Bihar,2026-11-09,4271.0,26,-19.8
+Green Chilli,Bihar,2026-11-16,4322.0,29,1.2
+Green Chilli,Chandigarh,2026-09-21,3800.0,1,
+Green Chilli,Chandigarh,2026-09-28,3217.0,6,-15.4
+Green Chilli,Chandigarh,2026-10-05,3733.0,6,16.1
+Green Chilli,Chandigarh,2026-10-12,4500.0,5,20.5
+Green Chilli,Chandigarh,2026-10-19,4340.0,5,-3.6
+Green Chilli,Chandigarh,2026-10-26,3967.0,6,-8.6
+Green Chilli,Chandigarh,2026-11-02,4150.0,2,4.6
+Green Chilli,Chandigarh,2026-11-09,4100.0,5,-1.2
+Green Chilli,Chandigarh,2026-11-16,3250.0,2,-20.7
+Green Chilli,Chattisgarh,2026-09-21,4400.0,4,
+Green Chilli,Chattisgarh,2026-09-28,3775.0,16,-14.2
+Green Chilli,Chattisgarh,2026-10-05,4372.0,18,15.8
+Green Chilli,Chattisgarh,2026-10-12,4271.0,14,-2.3
+Green Chilli,Chattisgarh,2026-10-19,4714.0,14,10.4
+Green Chilli,Chattisgarh,2026-10-26,3893.0,15,-17.4
+Green Chilli,Chattisgarh,2026-11-02,3382.0,17,-13.1
+Green Chilli,Chattisgarh,2026-11-09,3345.0,10,-1.1
+Green Chilli,Chattisgarh,2026-11-16,3254.0,12,-2.7
+Green Chilli,Goa,2026-09-21,2800.0,2,
+Green Chilli,Goa,2026-09-28,3060.0,5,9.3
+Green Chilli,Goa,2026-10-05,6250.0,6,104.2
+Green Chilli,Goa,2026-10-12,7100.0,1,13.6
+Green Chilli,Goa,2026-10-19,5800.0,5,-18.3
+Green Chilli,Goa,2026-10-26,6029.0,7,3.9
+Green Chilli,Goa,2026-11-02,4833.0,6,-19.8
+Green Chilli,Goa,2026-11-09,4733.0,6,-2.1
+Green Chilli,Goa,2026-11-16,6240.0,5,31.8
+Green Chilli,Gujarat,2026-09-21,2400.0,21,
+Green Chilli,Gujarat,2026-09-28,2245.0,134,-6.5
+Green Chilli,Gujarat,2026-10-05,2914.0,143,29.8
+Green Chilli,Gujarat,2026-10-12,3403.0,149,16.8
+Green Chilli,Gujarat,2026-10-19,3357.0,134,-1.3
+Green Chilli,Gujarat,2026-10-26,3005.0,135,-10.5
+Green Chilli,Gujarat,2026-11-02,2916.0,131,-3.0
+Green Chilli,Gujarat,2026-11-09,3154.0,58,8.2
+Green Chilli,Gujarat,2026-11-16,2503.0,117,-20.6
+Green Chilli,Haryana,2026-09-21,3203.0,20,
+Green Chilli,Haryana,2026-09-28,3729.0,109,16.5
+Green Chilli,Haryana,2026-10-05,4500.0,93,20.7
+Green Chilli,Haryana,2026-10-12,4816.0,98,7.0
+Green Chilli,Haryana,2026-10-19,4932.0,81,2.4
+Green Chilli,Haryana,2026-10-26,4469.0,83,-9.4
+Green Chilli,Haryana,2026-11-02,3946.0,85,-11.7
+Green Chilli,Haryana,2026-11-09,3840.0,95,-2.7
+Green Chilli,Haryana,2026-11-16,3433.0,75,-10.6
+Green Chilli,Himachal Pradesh,2026-09-21,5138.0,13,
+Green Chilli,Himachal Pradesh,2026-09-28,5432.0,76,5.7
+Green Chilli,Himachal Pradesh,2026-10-05,6234.0,83,14.8
+Green Chilli,Himachal Pradesh,2026-10-12,8086.0,99,29.7
+Green Chilli,Himachal Pradesh,2026-10-19,7556.0,81,-6.6
+Green Chilli,Himachal Pradesh,2026-10-26,6356.0,75,-15.9
+Green Chilli,Himachal Pradesh,2026-11-02,5931.0,98,-6.7
+Green Chilli,Himachal Pradesh,2026-11-09,5531.0,66,-6.7
+Green Chilli,Himachal Pradesh,2026-11-16,4801.0,75,-13.2
+Green Chilli,Jammu and Kashmir,2026-09-21,4083.0,3,
+Green Chilli,Jammu and Kashmir,2026-09-28,4484.0,16,9.8
+Green Chilli,Jammu and Kashmir,2026-10-05,4515.0,17,0.7
+Green Chilli,Jammu and Kashmir,2026-10-12,7300.0,15,61.7
+Green Chilli,Jammu and Kashmir,2026-10-19,7932.0,11,8.7
+Green Chilli,Jammu and Kashmir,2026-10-26,5083.0,15,-35.9
+Green Chilli,Jammu and Kashmir,2026-11-02,4618.0,17,-9.2
+Green Chilli,Jammu and Kashmir,2026-11-09,4838.0,16,4.8
+Green Chilli,Jammu and Kashmir,2026-11-16,3342.0,13,-30.9
+Green Chilli,Karnataka,2026-09-21,3138.0,21,
+Green Chilli,Karnataka,2026-09-28,3189.0,124,1.6
+Green Chilli,Karnataka,2026-10-05,3532.0,124,10.8
+Green Chilli,Karnataka,2026-10-12,3796.0,112,7.5
+Green Chilli,Karnataka,2026-10-19,3866.0,106,1.9
+Green Chilli,Karnataka,2026-10-26,3463.0,119,-10.4
+Green Chilli,Karnataka,2026-11-02,3319.0,103,-4.2
+Green Chilli,Karnataka,2026-11-09,3554.0,114,7.1
+Green Chilli,Karnataka,2026-11-16,3437.0,61,-3.3
+Green Chilli,Keralam,2026-09-21,5516.0,71,
+Green Chilli,Keralam,2026-09-28,5735.0,258,4.0
+Green Chilli,Keralam,2026-10-05,5971.0,291,4.1
+Green Chilli,Keralam,2026-10-12,6076.0,308,1.8
+Green Chilli,Keralam,2026-10-19,5889.0,259,-3.1
+Green Chilli,Keralam,2026-10-26,5749.0,240,-2.4
+Green Chilli,Keralam,2026-11-02,5577.0,266,-3.0
+Green Chilli,Keralam,2026-11-09,5961.0,289,6.9
+Green Chilli,Keralam,2026-11-16,5739.0,223,-3.7
+Green Chilli,Madhya Pradesh,2026-09-21,2175.0,41,
+Green Chilli,Madhya Pradesh,2026-09-28,2163.0,195,-0.6
+Green Chilli,Madhya Pradesh,2026-10-05,2592.0,195,19.8
+Green Chilli,Madhya Pradesh,2026-10-12,2840.0,203,9.6
+Green Chilli,Madhya Pradesh,2026-10-19,3066.0,163,8.0
+Green Chilli,Madhya Pradesh,2026-10-26,2844.0,178,-7.2
+Green Chilli,Madhya Pradesh,2026-11-02,2739.0,165,-3.7
+Green Chilli,Madhya Pradesh,2026-11-09,2705.0,159,-1.3
+Green Chilli,Madhya Pradesh,2026-11-16,2471.0,150,-8.6
+Green Chilli,Maharashtra,2026-09-21,2968.0,56,
+Green Chilli,Maharashtra,2026-09-28,3196.0,220,7.7
+Green Chilli,Maharashtra,2026-10-05,4300.0,213,34.5
+Green Chilli,Maharashtra,2026-10-12,4724.0,226,9.9
+Green Chilli,Maharashtra,2026-10-19,4755.0,230,0.7
+Green Chilli,Maharashtra,2026-10-26,4164.0,227,-12.4
+Green Chilli,Maharashtra,2026-11-02,3734.0,218,-10.3
+Green Chilli,Maharashtra,2026-11-09,4023.0,199,7.8
+Green Chilli,Maharashtra,2026-11-16,3324.0,163,-17.4
+Green Chilli,Meghalaya,2026-09-21,11750.0,2,
+Green Chilli,Meghalaya,2026-09-28,10408.0,13,-11.4
+Green Chilli,Meghalaya,2026-10-05,9107.0,15,-12.5
+Green Chilli,Meghalaya,2026-10-12,11556.0,18,26.9
+Green Chilli,Meghalaya,2026-10-19,11429.0,7,-1.1
+Green Chilli,Meghalaya,2026-10-26,9808.0,13,-14.2
+Green Chilli,Meghalaya,2026-11-02,10236.0,11,4.4
+Green Chilli,Meghalaya,2026-11-09,8075.0,4,-21.1
+Green Chilli,Meghalaya,2026-11-16,9864.0,11,22.2
+Green Chilli,NCT of Delhi,2026-09-21,3480.0,5,
+Green Chilli,NCT of Delhi,2026-09-28,3846.0,13,10.5
+Green Chilli,NCT of Delhi,2026-10-05,4073.0,11,5.9
+Green Chilli,NCT of Delhi,2026-10-12,4283.0,16,5.2
+Green Chilli,NCT of Delhi,2026-10-19,4756.0,16,11.0
+Green Chilli,NCT of Delhi,2026-10-26,4479.0,14,-5.8
+Green Chilli,NCT of Delhi,2026-11-02,3038.0,8,-32.2
+Green Chilli,NCT of Delhi,2026-11-09,2900.0,10,-4.5
+Green Chilli,NCT of Delhi,2026-11-16,2662.0,8,-8.2
+Green Chilli,Nagaland,2026-09-21,8000.0,1,
+Green Chilli,Nagaland,2026-09-28,7755.0,12,-3.1
+Green Chilli,Nagaland,2026-10-05,8400.0,8,8.3
+Green Chilli,Nagaland,2026-10-12,7433.0,12,-11.5
+Green Chilli,Nagaland,2026-10-19,8323.0,10,12.0
+Green Chilli,Nagaland,2026-10-26,7972.0,13,-4.2
+Green Chilli,Nagaland,2026-11-02,8712.0,11,9.3
+Green Chilli,Nagaland,2026-11-09,7880.0,15,-9.5
+Green Chilli,Nagaland,2026-11-16,8030.0,10,1.9
+Green Chilli,Odisha,2026-09-21,6771.0,19,
+Green Chilli,Odisha,2026-09-28,7475.0,73,10.4
+Green Chilli,Odisha,2026-10-05,7209.0,70,-3.6
+Green Chilli,Odisha,2026-10-12,7220.0,69,0.2
+Green Chilli,Odisha,2026-10-19,7928.0,57,9.8
+Green Chilli,Odisha,2026-10-26,7594.0,84,-4.2
+Green Chilli,Odisha,2026-11-02,7497.0,83,-1.3
+Green Chilli,Odisha,2026-11-09,7214.0,80,-3.8
+Green Chilli,Odisha,2026-11-16,7094.0,68,-1.7
+Green Chilli,Punjab,2026-09-21,3143.0,53,
+Green Chilli,Punjab,2026-09-28,3248.0,341,3.3
+Green Chilli,Punjab,2026-10-05,3628.0,308,11.7
+Green Chilli,Punjab,2026-10-12,4143.0,298,14.2
+Green Chilli,Punjab,2026-10-19,4356.0,288,5.2
+Green Chilli,Punjab,2026-10-26,4351.0,270,-0.1
+Green Chilli,Punjab,2026-11-02,3975.0,266,-8.6
+Green Chilli,Punjab,2026-11-09,3695.0,256,-7.0
+Green Chilli,Punjab,2026-11-16,3525.0,215,-4.6
+Green Chilli,Rajasthan,2026-09-21,2442.0,6,
+Green Chilli,Rajasthan,2026-09-28,2531.0,42,3.6
+Green Chilli,Rajasthan,2026-10-05,3237.0,54,27.9
+Green Chilli,Rajasthan,2026-10-12,3645.0,52,12.6
+Green Chilli,Rajasthan,2026-10-19,3430.0,47,-5.9
+Green Chilli,Rajasthan,2026-10-26,3193.0,47,-6.9
+Green Chilli,Rajasthan,2026-11-02,2875.0,42,-9.9
+Green Chilli,Rajasthan,2026-11-09,2618.0,34,-9.0
+Green Chilli,Rajasthan,2026-11-16,2356.0,35,-10.0
+Green Chilli,Tamil Nadu,2026-09-21,5223.0,470,
+Green Chilli,Tamil Nadu,2026-09-28,5328.0,1637,2.0
+Green Chilli,Tamil Nadu,2026-10-05,5451.0,1634,2.3
+Green Chilli,Tamil Nadu,2026-10-12,5438.0,1315,-0.2
+Green Chilli,Tamil Nadu,2026-10-19,5197.0,1257,-4.4
+Green Chilli,Tamil Nadu,2026-10-26,5018.0,1267,-3.4
+Green Chilli,Tamil Nadu,2026-11-02,4947.0,1222,-1.4
+Green Chilli,Tamil Nadu,2026-11-09,5314.0,1000,7.4
+Green Chilli,Tamil Nadu,2026-11-16,5123.0,892,-3.6
+Green Chilli,Telangana,2026-09-21,3683.0,43,
+Green Chilli,Telangana,2026-09-28,3945.0,159,7.1
+Green Chilli,Telangana,2026-10-05,4826.0,145,22.3
+Green Chilli,Telangana,2026-10-12,5241.0,152,8.6
+Green Chilli,Telangana,2026-10-19,5124.0,137,-2.2
+Green Chilli,Telangana,2026-10-26,4266.0,151,-16.7
+Green Chilli,Telangana,2026-11-02,4067.0,149,-4.6
+Green Chilli,Telangana,2026-11-09,4041.0,141,-0.7
+Green Chilli,Telangana,2026-11-16,3752.0,104,-7.1
+Green Chilli,Tripura,2026-09-21,13862.0,26,
+Green Chilli,Tripura,2026-09-28,12627.0,126,-8.9
+Green Chilli,Tripura,2026-10-05,12727.0,130,0.8
+Green Chilli,Tripura,2026-10-12,13869.0,99,9.0
+Green Chilli,Tripura,2026-10-19,14443.0,74,4.1
+Green Chilli,Tripura,2026-10-26,12341.0,109,-14.6
+Green Chilli,Tripura,2026-11-02,12338.0,107,-0.0
+Green Chilli,Tripura,2026-11-09,12147.0,101,-1.6
+Green Chilli,Tripura,2026-11-16,11504.0,84,-5.3
+Green Chilli,Uttar Pradesh,2026-09-21,2601.0,89,
+Green Chilli,Uttar Pradesh,2026-09-28,2727.0,383,4.9
+Green Chilli,Uttar Pradesh,2026-10-05,2928.0,323,7.4
+Green Chilli,Uttar Pradesh,2026-10-12,3215.0,368,9.8
+Green Chilli,Uttar Pradesh,2026-10-19,3057.0,298,-4.9
+Green Chilli,Uttar Pradesh,2026-10-26,3021.0,371,-1.2
+Green Chilli,Uttar Pradesh,2026-11-02,2626.0,282,-13.1
+Green Chilli,Uttar Pradesh,2026-11-09,2482.0,283,-5.5
+Green Chilli,Uttar Pradesh,2026-11-16,2483.0,246,0.0
+Green Chilli,Uttarakhand,2026-09-21,2285.0,12,
+Green Chilli,Uttarakhand,2026-09-28,2421.0,53,5.9
+Green Chilli,Uttarakhand,2026-10-05,2416.0,60,-0.2
+Green Chilli,Uttarakhand,2026-10-12,2421.0,59,0.2
+Green Chilli,Uttarakhand,2026-10-19,2676.0,53,10.5
+Green Chilli,Uttarakhand,2026-10-26,2712.0,47,1.3
+Green Chilli,Uttarakhand,2026-11-02,2539.0,54,-6.4
+Green Chilli,Uttarakhand,2026-11-09,2519.0,43,-0.8
+Green Chilli,Uttarakhand,2026-11-16,2080.0,37,-17.4
+Green Chilli,West Bengal,2026-09-21,6523.0,58,
+Green Chilli,West Bengal,2026-09-28,6409.0,235,-1.7
+Green Chilli,West Bengal,2026-10-05,6436.0,234,0.4
+Green Chilli,West Bengal,2026-10-12,6901.0,210,7.2
+Green Chilli,West Bengal,2026-10-19,6606.0,150,-4.3
+Green Chilli,West Bengal,2026-10-26,6573.0,199,-0.5
+Green Chilli,West Bengal,2026-11-02,6235.0,208,-5.1
+Green Chilli,West Bengal,2026-11-09,5907.0,174,-5.3
+Green Chilli,West Bengal,2026-11-16,5971.0,170,1.1
+Onion,Andhra Pradesh,2026-09-21,3398.0,3,
+Onion,Andhra Pradesh,2026-09-28,3401.0,12,0.1
+Onion,Andhra Pradesh,2026-10-05,3197.0,12,-6.0
+Onion,Andhra Pradesh,2026-10-12,3373.0,13,5.5
+Onion,Andhra Pradesh,2026-10-19,3358.0,11,-0.5
+Onion,Andhra Pradesh,2026-10-26,3346.0,12,-0.4
+Onion,Andhra Pradesh,2026-11-02,3204.0,13,-4.2
+Onion,Andhra Pradesh,2026-11-09,3073.0,12,-4.1
+Onion,Andhra Pradesh,2026-11-16,3156.0,10,2.7
+Onion,Assam,2026-09-21,5256.0,9,
+Onion,Assam,2026-09-28,5277.0,32,0.4
+Onion,Assam,2026-10-05,5209.0,33,-1.3
+Onion,Assam,2026-10-12,5224.0,31,0.3
+Onion,Assam,2026-10-19,5275.0,24,1.0
+Onion,Assam,2026-10-26,5238.0,30,-0.7
+Onion,Assam,2026-11-02,5463.0,27,4.3
+Onion,Assam,2026-11-09,5366.0,31,-1.8
+Onion,Assam,2026-11-16,5441.0,23,1.4
+Onion,Bihar,2026-09-21,4385.0,24,
+Onion,Bihar,2026-09-28,4534.0,70,3.4
+Onion,Bihar,2026-10-05,4466.0,98,-1.5
+Onion,Bihar,2026-10-12,4371.0,143,-2.1
+Onion,Bihar,2026-10-19,4384.0,103,0.3
+Onion,Bihar,2026-10-26,4521.0,164,3.1
+Onion,Bihar,2026-11-02,4590.0,159,1.5
+Onion,Bihar,2026-11-09,4502.0,109,-1.9
+Onion,Bihar,2026-11-16,4625.0,115,2.7
+Onion,Chandigarh,2026-09-21,4200.0,1,
+Onion,Chandigarh,2026-09-28,3917.0,6,-6.7
+Onion,Chandigarh,2026-10-05,3833.0,6,-2.1
+Onion,Chandigarh,2026-10-12,3460.0,5,-9.7
+Onion,Chandigarh,2026-10-19,3960.0,5,14.5
+Onion,Chandigarh,2026-10-26,4033.0,6,1.9
+Onion,Chandigarh,2026-11-02,4100.0,2,1.7
+Onion,Chandigarh,2026-11-09,3700.0,5,-9.8
+Onion,Chandigarh,2026-11-16,3625.0,4,-2.0
+Onion,Chattisgarh,2026-09-21,4175.0,4,
+Onion,Chattisgarh,2026-09-28,4082.0,17,-2.2
+Onion,Chattisgarh,2026-10-05,4300.0,20,5.3
+Onion,Chattisgarh,2026-10-12,3891.0,17,-9.5
+Onion,Chattisgarh,2026-10-19,4018.0,17,3.3
+Onion,Chattisgarh,2026-10-26,3841.0,22,-4.4
+Onion,Chattisgarh,2026-11-02,4068.0,19,5.9
+Onion,Chattisgarh,2026-11-09,3941.0,16,-3.1
+Onion,Chattisgarh,2026-11-16,4231.0,16,7.4
+Onion,Goa,2026-09-21,2650.0,2,
+Onion,Goa,2026-09-28,2900.0,6,9.4
+Onion,Goa,2026-10-05,3114.0,7,7.4
+Onion,Goa,2026-10-12,3083.0,6,-1.0
+Onion,Goa,2026-10-19,2871.0,7,-6.9
+Onion,Goa,2026-10-26,2667.0,9,-7.1
+Onion,Goa,2026-11-02,3238.0,8,21.4
+Onion,Goa,2026-11-09,3083.0,6,-4.8
+Onion,Goa,2026-11-16,3250.0,4,5.4
+Onion,Gujarat,2026-09-21,3709.0,26,
+Onion,Gujarat,2026-09-28,3641.0,144,-1.8
+Onion,Gujarat,2026-10-05,3560.0,146,-2.2
+Onion,Gujarat,2026-10-12,3513.0,160,-1.3
+Onion,Gujarat,2026-10-19,3705.0,126,5.5
+Onion,Gujarat,2026-10-26,3701.0,144,-0.1
+Onion,Gujarat,2026-11-02,3755.0,139,1.5
+Onion,Gujarat,2026-11-09,4145.0,55,10.4
+Onion,Gujarat,2026-11-16,3680.0,130,-11.2
+Onion,Haryana,2026-09-21,3951.0,75,
+Onion,Haryana,2026-09-28,4025.0,297,1.9
+Onion,Haryana,2026-10-05,4050.0,293,0.6
+Onion,Haryana,2026-10-12,3989.0,284,-1.5
+Onion,Haryana,2026-10-19,4036.0,262,1.2
+Onion,Haryana,2026-10-26,4079.0,252,1.1
+Onion,Haryana,2026-11-02,4016.0,254,-1.5
+Onion,Haryana,2026-11-09,3805.0,264,-5.3
+Onion,Haryana,2026-11-16,3614.0,204,-5.0
+Onion,Himachal Pradesh,2026-09-21,4820.0,20,
+Onion,Himachal Pradesh,2026-09-28,4721.0,112,-2.1
+Onion,Himachal Pradesh,2026-10-05,4639.0,112,-1.7
+Onion,Himachal Pradesh,2026-10-12,4496.0,128,-3.1
+Onion,Himachal Pradesh,2026-10-19,4679.0,118,4.1
+Onion,Himachal Pradesh,2026-10-26,4841.0,114,3.5
+Onion,Himachal Pradesh,2026-11-02,4835.0,121,-0.1
+Onion,Himachal Pradesh,2026-11-09,4644.0,95,-4.0
+Onion,Himachal Pradesh,2026-11-16,4539.0,103,-2.3
+Onion,Jammu and Kashmir,2026-09-21,5100.0,4,
+Onion,Jammu and Kashmir,2026-09-28,5025.0,20,-1.5
+Onion,Jammu and Kashmir,2026-10-05,5026.0,21,0.0
+Onion,Jammu and Kashmir,2026-10-12,4890.0,29,-2.7
+Onion,Jammu and Kashmir,2026-10-19,5100.0,25,4.3
+Onion,Jammu and Kashmir,2026-10-26,5022.0,23,-1.5
+Onion,Jammu and Kashmir,2026-11-02,5046.0,26,0.5
+Onion,Jammu and Kashmir,2026-11-09,4665.0,24,-7.6
+Onion,Jammu and Kashmir,2026-11-16,4531.0,21,-2.9
+Onion,Karnataka,2026-09-21,3703.0,17,
+Onion,Karnataka,2026-09-28,3932.0,116,6.2
+Onion,Karnataka,2026-10-05,3728.0,126,-5.2
+Onion,Karnataka,2026-10-12,3508.0,124,-5.9
+Onion,Karnataka,2026-10-19,3788.0,104,8.0
+Onion,Karnataka,2026-10-26,3832.0,121,1.2
+Onion,Karnataka,2026-11-02,3634.0,108,-5.2
+Onion,Karnataka,2026-11-09,3843.0,111,5.8
+Onion,Karnataka,2026-11-16,3829.0,75,-0.4
+Onion,Keralam,2026-09-21,6507.0,96,
+Onion,Keralam,2026-09-28,6583.0,359,1.2
+Onion,Keralam,2026-10-05,6525.0,391,-0.9
+Onion,Keralam,2026-10-12,6500.0,436,-0.4
+Onion,Keralam,2026-10-19,6646.0,360,2.2
+Onion,Keralam,2026-10-26,7111.0,324,7.0
+Onion,Keralam,2026-11-02,7149.0,374,0.5
+Onion,Keralam,2026-11-09,7375.0,390,3.2
+Onion,Keralam,2026-11-16,7651.0,292,3.7
+Onion,Madhya Pradesh,2026-09-21,2619.0,46,
+Onion,Madhya Pradesh,2026-09-28,2844.0,419,8.6
+Onion,Madhya Pradesh,2026-10-05,2696.0,424,-5.2
+Onion,Madhya Pradesh,2026-10-12,2722.0,459,1.0
+Onion,Madhya Pradesh,2026-10-19,2835.0,315,4.1
+Onion,Madhya Pradesh,2026-10-26,2942.0,455,3.8
+Onion,Madhya Pradesh,2026-11-02,3010.0,347,2.3
+Onion,Madhya Pradesh,2026-11-09,2998.0,265,-0.4
+Onion,Madhya Pradesh,2026-11-16,3103.0,358,3.5
+Onion,Maharashtra,2026-09-21,3686.0,78,
+Onion,Maharashtra,2026-09-28,3649.0,374,-1.0
+Onion,Maharashtra,2026-10-05,3358.0,381,-8.0
+Onion,Maharashtra,2026-10-12,3464.0,392,3.2
+Onion,Maharashtra,2026-10-19,3592.0,389,3.7
+Onion,Maharashtra,2026-10-26,3773.0,441,5.0
+Onion,Maharashtra,2026-11-02,3621.0,361,-4.0
+Onion,Maharashtra,2026-11-09,3614.0,249,-0.2
+Onion,Maharashtra,2026-11-16,3810.0,377,5.4
+Onion,Manipur,2026-09-28,6730.0,15,
+Onion,Manipur,2026-10-05,6725.0,20,-0.1
+Onion,Manipur,2026-10-12,6729.0,19,0.1
+Onion,Manipur,2026-10-26,6732.0,17,0.1
+Onion,Manipur,2026-11-02,6927.0,24,2.9
+Onion,Manipur,2026-11-09,6908.0,12,-0.3
+Onion,Manipur,2026-11-16,6850.0,17,-0.8
+Onion,Meghalaya,2026-09-21,6200.0,1,
+Onion,Meghalaya,2026-09-28,6460.0,5,4.2
+Onion,Meghalaya,2026-10-05,6425.0,4,-0.5
+Onion,Meghalaya,2026-10-12,6270.0,5,-2.4
+Onion,Meghalaya,2026-10-19,5675.0,2,-9.5
+Onion,Meghalaya,2026-10-26,5700.0,3,0.4
+Onion,Meghalaya,2026-11-02,6213.0,4,9.0
+Onion,Meghalaya,2026-11-09,6400.0,1,3.0
+Onion,Meghalaya,2026-11-16,5750.0,2,-10.2
+Onion,NCT of Delhi,2026-09-21,4103.0,5,
+Onion,NCT of Delhi,2026-09-28,3968.0,14,-3.3
+Onion,NCT of Delhi,2026-10-05,3871.0,17,-2.4
+Onion,NCT of Delhi,2026-10-12,3674.0,18,-5.1
+Onion,NCT of Delhi,2026-10-19,3882.0,16,5.7
+Onion,NCT of Delhi,2026-10-26,4102.0,19,5.7
+Onion,NCT of Delhi,2026-11-02,4191.0,12,2.2
+Onion,NCT of Delhi,2026-11-09,4222.0,15,0.7
+Onion,NCT of Delhi,2026-11-16,4046.0,9,-4.2
+Onion,Nagaland,2026-10-05,3700.0,1,
+Onion,Nagaland,2026-10-12,3000.0,1,-18.9
+Onion,Nagaland,2026-10-26,4500.0,2,50.0
+Onion,Nagaland,2026-11-02,4000.0,1,-11.1
+Onion,Nagaland,2026-11-09,5000.0,1,25.0
+Onion,Odisha,2026-09-21,4896.0,27,
+Onion,Odisha,2026-09-28,5212.0,112,6.4
+Onion,Odisha,2026-10-05,5165.0,106,-0.9
+Onion,Odisha,2026-10-12,5145.0,94,-0.4
+Onion,Odisha,2026-10-19,4829.0,87,-6.1
+Onion,Odisha,2026-10-26,4973.0,127,3.0
+Onion,Odisha,2026-11-02,5135.0,126,3.3
+Onion,Odisha,2026-11-09,5285.0,115,2.9
+Onion,Odisha,2026-11-16,5239.0,89,-0.9
+Onion,Punjab,2026-09-21,4009.0,60,
+Onion,Punjab,2026-09-28,4089.0,398,2.0
+Onion,Punjab,2026-10-05,4065.0,374,-0.6
+Onion,Punjab,2026-10-12,4006.0,365,-1.5
+Onion,Punjab,2026-10-19,4042.0,360,0.9
+Onion,Punjab,2026-10-26,4092.0,346,1.2
+Onion,Punjab,2026-11-02,4162.0,351,1.7
+Onion,Punjab,2026-11-09,4070.0,325,-2.2
+Onion,Punjab,2026-11-16,4028.0,270,-1.0
+Onion,Rajasthan,2026-09-21,3369.0,23,
+Onion,Rajasthan,2026-09-28,3250.0,120,-3.6
+Onion,Rajasthan,2026-10-05,3322.0,130,2.2
+Onion,Rajasthan,2026-10-12,3250.0,128,-2.2
+Onion,Rajasthan,2026-10-19,3225.0,131,-0.8
+Onion,Rajasthan,2026-10-26,3289.0,129,2.0
+Onion,Rajasthan,2026-11-02,3373.0,111,2.5
+Onion,Rajasthan,2026-11-09,3276.0,101,-2.8
+Onion,Rajasthan,2026-11-16,3004.0,103,-8.3
+Onion,Tamil Nadu,2026-09-21,6068.0,436,
+Onion,Tamil Nadu,2026-09-28,5955.0,1524,-1.9
+Onion,Tamil Nadu,2026-10-05,5833.0,1551,-2.1
+Onion,Tamil Nadu,2026-10-12,5694.0,1257,-2.4
+Onion,Tamil Nadu,2026-10-19,5763.0,1186,1.2
+Onion,Tamil Nadu,2026-10-26,6097.0,1205,5.8
+Onion,Tamil Nadu,2026-11-02,6107.0,1175,0.2
+Onion,Tamil Nadu,2026-11-09,6048.0,960,-1.0
+Onion,Tamil Nadu,2026-11-16,6129.0,853,1.3
+Onion,Telangana,2026-09-21,4417.0,25,
+Onion,Telangana,2026-09-28,4346.0,91,-1.6
+Onion,Telangana,2026-10-05,4370.0,82,0.5
+Onion,Telangana,2026-10-12,4250.0,92,-2.7
+Onion,Telangana,2026-10-19,4334.0,81,2.0
+Onion,Telangana,2026-10-26,4337.0,94,0.1
+Onion,Telangana,2026-11-02,4266.0,85,-1.6
+Onion,Telangana,2026-11-09,4267.0,84,0.0
+Onion,Telangana,2026-11-16,4264.0,60,-0.1
+Onion,Tripura,2026-09-21,5475.0,12,
+Onion,Tripura,2026-09-28,5413.0,61,-1.1
+Onion,Tripura,2026-10-05,5542.0,53,2.4
+Onion,Tripura,2026-10-12,5812.0,39,4.9
+Onion,Tripura,2026-10-19,5778.0,37,-0.6
+Onion,Tripura,2026-10-26,5449.0,62,-5.7
+Onion,Tripura,2026-11-02,5802.0,53,6.5
+Onion,Tripura,2026-11-09,5902.0,57,1.7
+Onion,Tripura,2026-11-16,5789.0,44,-1.9
+Onion,Uttar Pradesh,2026-09-21,3039.0,78,
+Onion,Uttar Pradesh,2026-09-28,3094.0,341,1.8
+Onion,Uttar Pradesh,2026-10-05,3168.0,256,2.4
+Onion,Uttar Pradesh,2026-10-12,3140.0,258,-0.9
+Onion,Uttar Pradesh,2026-10-19,3016.0,201,-4.0
+Onion,Uttar Pradesh,2026-10-26,3012.0,313,-0.1
+Onion,Uttar Pradesh,2026-11-02,3069.0,220,1.9
+Onion,Uttar Pradesh,2026-11-09,2976.0,180,-3.0
+Onion,Uttar Pradesh,2026-11-16,3022.0,206,1.5
+Onion,Uttarakhand,2026-09-21,3379.0,12,
+Onion,Uttarakhand,2026-09-28,3329.0,56,-1.5
+Onion,Uttarakhand,2026-10-05,3344.0,66,0.5
+Onion,Uttarakhand,2026-10-12,3156.0,58,-5.6
+Onion,Uttarakhand,2026-10-19,3314.0,50,5.0
+Onion,Uttarakhand,2026-10-26,3225.0,52,-2.7
+Onion,Uttarakhand,2026-11-02,3098.0,64,-3.9
+Onion,Uttarakhand,2026-11-09,2962.0,51,-4.4
+Onion,Uttarakhand,2026-11-16,3157.0,48,6.6
+Onion,West Bengal,2026-09-21,4737.0,68,
+Onion,West Bengal,2026-09-28,4650.0,282,-1.8
+Onion,West Bengal,2026-10-05,4541.0,293,-2.3
+Onion,West Bengal,2026-10-12,4487.0,273,-1.2
+Onion,West Bengal,2026-10-19,4546.0,206,1.3
+Onion,West Bengal,2026-10-26,4642.0,254,2.1
+Onion,West Bengal,2026-11-02,4730.0,266,1.9
+Onion,West Bengal,2026-11-09,4696.0,229,-0.7
+Onion,West Bengal,2026-11-16,4677.0,211,-0.4
+Potato,Andhra Pradesh,2026-09-21,1600.0,2,
+Potato,Andhra Pradesh,2026-09-28,1567.0,6,-2.1
+Potato,Andhra Pradesh,2026-10-05,1500.0,4,-4.3
+Potato,Andhra Pradesh,2026-10-12,1500.0,4,0.0
+Potato,Andhra Pradesh,2026-10-19,1533.0,3,2.2
+Potato,Andhra Pradesh,2026-10-26,1600.0,5,4.3
+Potato,Andhra Pradesh,2026-11-02,1600.0,6,0.0
+Potato,Andhra Pradesh,2026-11-09,1600.0,6,0.0
+Potato,Andhra Pradesh,2026-11-16,1820.0,5,13.8
+Potato,Assam,2026-09-21,1167.0,9,
+Potato,Assam,2026-09-28,1320.0,44,13.2
+Potato,Assam,2026-10-05,1233.0,33,-6.6
+Potato,Assam,2026-10-12,1250.0,31,1.4
+Potato,Assam,2026-10-19,1227.0,24,-1.8
+Potato,Assam,2026-10-26,1430.0,33,16.6
+Potato,Assam,2026-11-02,1293.0,27,-9.6
+Potato,Assam,2026-11-09,1291.0,34,-0.2
+Potato,Assam,2026-11-16,1516.0,37,17.4
+Potato,Bihar,2026-09-21,1263.0,25,
+Potato,Bihar,2026-09-28,1239.0,76,-1.9
+Potato,Bihar,2026-10-05,1223.0,107,-1.3
+Potato,Bihar,2026-10-12,1169.0,164,-4.4
+Potato,Bihar,2026-10-19,1225.0,110,4.8
+Potato,Bihar,2026-10-26,1212.0,177,-1.1
+Potato,Bihar,2026-11-02,1194.0,172,-1.5
+Potato,Bihar,2026-11-09,1165.0,126,-2.4
+Potato,Bihar,2026-11-16,1212.0,141,4.0
+Potato,Chandigarh,2026-09-21,1000.0,1,
+Potato,Chandigarh,2026-09-28,1133.0,6,13.3
+Potato,Chandigarh,2026-10-05,1200.0,6,5.9
+Potato,Chandigarh,2026-10-12,1380.0,5,15.0
+Potato,Chandigarh,2026-10-19,1500.0,5,8.7
+Potato,Chandigarh,2026-10-26,1500.0,6,0.0
+Potato,Chandigarh,2026-11-02,1500.0,2,0.0
+Potato,Chandigarh,2026-11-09,960.0,5,-36.0
+Potato,Chandigarh,2026-11-16,1200.0,4,25.0
+Potato,Chattisgarh,2026-09-21,1500.0,5,
+Potato,Chattisgarh,2026-09-28,1570.0,20,4.7
+Potato,Chattisgarh,2026-10-05,1514.0,21,-3.5
+Potato,Chattisgarh,2026-10-12,1474.0,23,-2.7
+Potato,Chattisgarh,2026-10-19,1483.0,21,0.6
+Potato,Chattisgarh,2026-10-26,1417.0,26,-4.5
+Potato,Chattisgarh,2026-11-02,1612.0,21,13.8
+Potato,Chattisgarh,2026-11-09,1443.0,22,-10.5
+Potato,Chattisgarh,2026-11-16,1410.0,20,-2.3
+Potato,Goa,2026-09-21,1450.0,2,
+Potato,Goa,2026-09-28,1467.0,6,1.1
+Potato,Goa,2026-10-05,1543.0,7,5.2
+Potato,Goa,2026-10-12,1586.0,7,2.8
+Potato,Goa,2026-10-19,1629.0,7,2.7
+Potato,Goa,2026-10-26,1589.0,9,-2.4
+Potato,Goa,2026-11-02,1675.0,8,5.4
+Potato,Goa,2026-11-09,1733.0,6,3.5
+Potato,Goa,2026-11-16,1800.0,4,3.8
+Potato,Gujarat,2026-09-21,1312.0,29,
+Potato,Gujarat,2026-09-28,1326.0,136,1.0
+Potato,Gujarat,2026-10-05,1324.0,136,-0.1
+Potato,Gujarat,2026-10-12,1306.0,150,-1.3
+Potato,Gujarat,2026-10-19,1382.0,134,5.7
+Potato,Gujarat,2026-10-26,1339.0,135,-3.1
+Potato,Gujarat,2026-11-02,1322.0,139,-1.3
+Potato,Gujarat,2026-11-09,1295.0,52,-2.0
+Potato,Gujarat,2026-11-16,1299.0,120,0.3
+Potato,Haryana,2026-09-21,909.0,77,
+Potato,Haryana,2026-09-28,935.0,310,2.8
+Potato,Haryana,2026-10-05,938.0,305,0.3
+Potato,Haryana,2026-10-12,951.0,311,1.4
+Potato,Haryana,2026-10-19,940.0,272,-1.1
+Potato,Haryana,2026-10-26,949.0,262,1.0
+Potato,Haryana,2026-11-02,958.0,264,1.0
+Potato,Haryana,2026-11-09,968.0,284,1.0
+Potato,Haryana,2026-11-16,1027.0,216,6.1
+Potato,Himachal Pradesh,2026-09-21,1439.0,19,
+Potato,Himachal Pradesh,2026-09-28,1471.0,115,2.2
+Potato,Himachal Pradesh,2026-10-05,1472.0,117,0.1
+Potato,Himachal Pradesh,2026-10-12,1460.0,128,-0.8
+Potato,Himachal Pradesh,2026-10-19,1396.0,114,-4.4
+Potato,Himachal Pradesh,2026-10-26,1426.0,114,2.2
+Potato,Himachal Pradesh,2026-11-02,1368.0,122,-4.1
+Potato,Himachal Pradesh,2026-11-09,1334.0,92,-2.5
+Potato,Himachal Pradesh,2026-11-16,1482.0,104,11.1
+Potato,Jammu and Kashmir,2026-09-21,1150.0,3,
+Potato,Jammu and Kashmir,2026-09-28,1020.0,22,-11.3
+Potato,Jammu and Kashmir,2026-10-05,975.0,24,-4.5
+Potato,Jammu and Kashmir,2026-10-12,1056.0,27,8.3
+Potato,Jammu and Kashmir,2026-10-19,1052.0,25,-0.3
+Potato,Jammu and Kashmir,2026-10-26,1061.0,22,0.9
+Potato,Jammu and Kashmir,2026-11-02,1024.0,27,-3.5
+Potato,Jammu and Kashmir,2026-11-09,1010.0,24,-1.3
+Potato,Jammu and Kashmir,2026-11-16,1094.0,25,8.3
+Potato,Karnataka,2026-09-21,1758.0,13,
+Potato,Karnataka,2026-09-28,1815.0,86,3.3
+Potato,Karnataka,2026-10-05,1846.0,108,1.7
+Potato,Karnataka,2026-10-12,1834.0,101,-0.7
+Potato,Karnataka,2026-10-19,1797.0,80,-2.0
+Potato,Karnataka,2026-10-26,2017.0,94,12.2
+Potato,Karnataka,2026-11-02,2078.0,79,3.0
+Potato,Karnataka,2026-11-09,1959.0,88,-5.7
+Potato,Karnataka,2026-11-16,1933.0,53,-1.3
+Potato,Keralam,2026-09-21,3267.0,63,
+Potato,Keralam,2026-09-28,3310.0,236,1.3
+Potato,Keralam,2026-10-05,3426.0,262,3.5
+Potato,Keralam,2026-10-12,3373.0,281,-1.5
+Potato,Keralam,2026-10-19,3390.0,235,0.5
+Potato,Keralam,2026-10-26,3379.0,195,-0.3
+Potato,Keralam,2026-11-02,3470.0,235,2.7
+Potato,Keralam,2026-11-09,3539.0,253,2.0
+Potato,Keralam,2026-11-16,3604.0,192,1.8
+Potato,Madhya Pradesh,2026-09-21,849.0,55,
+Potato,Madhya Pradesh,2026-09-28,852.0,261,0.3
+Potato,Madhya Pradesh,2026-10-05,886.0,264,3.9
+Potato,Madhya Pradesh,2026-10-12,880.0,282,-0.7
+Potato,Madhya Pradesh,2026-10-19,874.0,210,-0.7
+Potato,Madhya Pradesh,2026-10-26,854.0,269,-2.3
+Potato,Madhya Pradesh,2026-11-02,884.0,219,3.5
+Potato,Madhya Pradesh,2026-11-09,924.0,203,4.6
+Potato,Madhya Pradesh,2026-11-16,936.0,169,1.3
+Potato,Maharashtra,2026-09-21,1214.0,39,
+Potato,Maharashtra,2026-09-28,1240.0,153,2.1
+Potato,Maharashtra,2026-10-05,1253.0,158,1.1
+Potato,Maharashtra,2026-10-12,1262.0,162,0.7
+Potato,Maharashtra,2026-10-19,1269.0,164,0.6
+Potato,Maharashtra,2026-10-26,1306.0,158,2.8
+Potato,Maharashtra,2026-11-02,1320.0,150,1.1
+Potato,Maharashtra,2026-11-09,1342.0,131,1.7
+Potato,Maharashtra,2026-11-16,1328.0,125,-1.0
+Potato,Manipur,2026-09-28,2540.0,15,
+Potato,Manipur,2026-10-05,2465.0,20,-3.0
+Potato,Manipur,2026-10-12,2082.0,19,-15.6
+Potato,Manipur,2026-10-26,1797.0,18,-13.7
+Potato,Manipur,2026-11-02,2048.0,24,13.9
+Potato,Manipur,2026-11-09,2533.0,12,23.7
+Potato,Manipur,2026-11-16,2241.0,17,-11.5
+Potato,Meghalaya,2026-09-21,2200.0,1,
+Potato,Meghalaya,2026-09-28,1873.0,11,-14.9
+Potato,Meghalaya,2026-10-05,2033.0,15,8.6
+Potato,Meghalaya,2026-10-12,1764.0,14,-13.2
+Potato,Meghalaya,2026-10-19,1625.0,6,-7.9
+Potato,Meghalaya,2026-10-26,1575.0,12,-3.1
+Potato,Meghalaya,2026-11-02,1991.0,11,26.4
+Potato,Meghalaya,2026-11-09,1938.0,4,-2.7
+Potato,Meghalaya,2026-11-16,2190.0,10,13.0
+Potato,NCT of Delhi,2026-09-21,1065.0,5,
+Potato,NCT of Delhi,2026-09-28,1090.0,14,2.4
+Potato,NCT of Delhi,2026-10-05,1085.0,16,-0.5
+Potato,NCT of Delhi,2026-10-12,1162.0,18,7.1
+Potato,NCT of Delhi,2026-10-19,1186.0,16,2.1
+Potato,NCT of Delhi,2026-10-26,1163.0,19,-2.0
+Potato,NCT of Delhi,2026-11-02,1171.0,12,0.7
+Potato,NCT of Delhi,2026-11-09,1169.0,15,-0.2
+Potato,NCT of Delhi,2026-11-16,1162.0,9,-0.5
+Potato,Nagaland,2026-09-21,2400.0,1,
+Potato,Nagaland,2026-09-28,2125.0,4,-11.5
+Potato,Nagaland,2026-10-05,2180.0,5,2.6
+Potato,Nagaland,2026-10-12,2187.0,7,0.3
+Potato,Nagaland,2026-10-19,1914.0,5,-12.5
+Potato,Nagaland,2026-10-26,1790.0,8,-6.5
+Potato,Nagaland,2026-11-02,1938.0,10,8.3
+Potato,Nagaland,2026-11-09,1941.0,10,0.2
+Potato,Nagaland,2026-11-16,1964.0,8,1.2
+Potato,Odisha,2026-09-21,1661.0,27,
+Potato,Odisha,2026-09-28,1718.0,116,3.4
+Potato,Odisha,2026-10-05,1727.0,110,0.5
+Potato,Odisha,2026-10-12,1811.0,106,4.9
+Potato,Odisha,2026-10-19,1683.0,101,-7.1
+Potato,Odisha,2026-10-26,1745.0,131,3.7
+Potato,Odisha,2026-11-02,1718.0,129,-1.5
+Potato,Odisha,2026-11-09,1650.0,112,-4.0
+Potato,Odisha,2026-11-16,1742.0,92,5.6
+Potato,Punjab,2026-09-21,730.0,63,
+Potato,Punjab,2026-09-28,704.0,408,-3.6
+Potato,Punjab,2026-10-05,711.0,392,1.0
+Potato,Punjab,2026-10-12,698.0,388,-1.9
+Potato,Punjab,2026-10-19,731.0,383,4.7
+Potato,Punjab,2026-10-26,734.0,365,0.5
+Potato,Punjab,2026-11-02,736.0,363,0.2
+Potato,Punjab,2026-11-09,746.0,332,1.3
+Potato,Punjab,2026-11-16,776.0,281,4.1
+Potato,Rajasthan,2026-09-21,852.0,26,
+Potato,Rajasthan,2026-09-28,846.0,122,-0.7
+Potato,Rajasthan,2026-10-05,844.0,138,-0.2
+Potato,Rajasthan,2026-10-12,832.0,135,-1.5
+Potato,Rajasthan,2026-10-19,863.0,133,3.7
+Potato,Rajasthan,2026-10-26,868.0,135,0.6
+Potato,Rajasthan,2026-11-02,871.0,119,0.3
+Potato,Rajasthan,2026-11-09,905.0,104,3.9
+Potato,Rajasthan,2026-11-16,1010.0,106,11.6
+Potato,Tamil Nadu,2026-09-21,3705.0,398,
+Potato,Tamil Nadu,2026-09-28,3642.0,1381,-1.7
+Potato,Tamil Nadu,2026-10-05,3682.0,1378,1.1
+Potato,Tamil Nadu,2026-10-12,3672.0,1076,-0.3
+Potato,Tamil Nadu,2026-10-19,3773.0,1008,2.7
+Potato,Tamil Nadu,2026-10-26,3732.0,974,-1.1
+Potato,Tamil Nadu,2026-11-02,3789.0,984,1.5
+Potato,Tamil Nadu,2026-11-09,3768.0,772,-0.6
+Potato,Tamil Nadu,2026-11-16,3915.0,722,3.9
+Potato,Telangana,2026-09-21,1856.0,34,
+Potato,Telangana,2026-09-28,1819.0,113,-2.0
+Potato,Telangana,2026-10-05,1891.0,110,3.9
+Potato,Telangana,2026-10-12,1917.0,116,1.4
+Potato,Telangana,2026-10-19,1890.0,99,-1.4
+Potato,Telangana,2026-10-26,2068.0,117,9.4
+Potato,Telangana,2026-11-02,1894.0,112,-8.4
+Potato,Telangana,2026-11-09,2002.0,109,5.7
+Potato,Telangana,2026-11-16,1965.0,77,-1.9
+Potato,Tripura,2026-09-21,1836.0,25,
+Potato,Tripura,2026-09-28,1734.0,125,-5.5
+Potato,Tripura,2026-10-05,1646.0,127,-5.1
+Potato,Tripura,2026-10-12,1638.0,100,-0.4
+Potato,Tripura,2026-10-19,1680.0,91,2.5
+Potato,Tripura,2026-10-26,1716.0,122,2.2
+Potato,Tripura,2026-11-02,1700.0,118,-0.9
+Potato,Tripura,2026-11-09,1743.0,125,2.5
+Potato,Tripura,2026-11-16,1780.0,91,2.1
+Potato,Uttar Pradesh,2026-09-21,624.0,193,
+Potato,Uttar Pradesh,2026-09-28,644.0,749,3.1
+Potato,Uttar Pradesh,2026-10-05,637.0,744,-1.1
+Potato,Uttar Pradesh,2026-10-12,651.0,770,2.3
+Potato,Uttar Pradesh,2026-10-19,639.0,619,-1.9
+Potato,Uttar Pradesh,2026-10-26,663.0,708,3.8
+Potato,Uttar Pradesh,2026-11-02,644.0,664,-2.9
+Potato,Uttar Pradesh,2026-11-09,653.0,596,1.5
+Potato,Uttar Pradesh,2026-11-16,674.0,476,3.2
+Potato,Uttarakhand,2026-09-21,861.0,15,
+Potato,Uttarakhand,2026-09-28,835.0,73,-3.1
+Potato,Uttarakhand,2026-10-05,879.0,74,5.3
+Potato,Uttarakhand,2026-10-12,867.0,73,-1.4
+Potato,Uttarakhand,2026-10-19,862.0,78,-0.6
+Potato,Uttarakhand,2026-10-26,848.0,80,-1.6
+Potato,Uttarakhand,2026-11-02,852.0,86,0.4
+Potato,Uttarakhand,2026-11-09,861.0,69,1.1
+Potato,Uttarakhand,2026-11-16,899.0,60,4.5
+Potato,West Bengal,2026-09-21,739.0,90,
+Potato,West Bengal,2026-09-28,738.0,388,-0.2
+Potato,West Bengal,2026-10-05,730.0,401,-1.1
+Potato,West Bengal,2026-10-12,719.0,374,-1.5
+Potato,West Bengal,2026-10-19,759.0,255,5.7
+Potato,West Bengal,2026-10-26,761.0,347,0.2
+Potato,West Bengal,2026-11-02,757.0,350,-0.5
+Potato,West Bengal,2026-11-09,764.0,312,0.9
+Potato,West Bengal,2026-11-16,808.0,292,5.8
+Rice,Andhra Pradesh,2026-09-21,5820.0,5,
+Rice,Andhra Pradesh,2026-09-28,5918.0,19,1.7
+Rice,Andhra Pradesh,2026-10-05,5880.0,20,-0.6
+Rice,Andhra Pradesh,2026-10-12,5932.0,19,0.9
+Rice,Andhra Pradesh,2026-10-19,6211.0,18,4.7
+Rice,Andhra Pradesh,2026-10-26,6429.0,21,3.5
+Rice,Andhra Pradesh,2026-11-02,6858.0,19,6.7
+Rice,Andhra Pradesh,2026-11-09,7108.0,20,3.6
+Rice,Andhra Pradesh,2026-11-16,6792.0,13,-4.4
+Rice,Assam,2026-09-21,8050.0,3,
+Rice,Assam,2026-09-28,7303.0,18,-9.3
+Rice,Assam,2026-10-05,6770.0,18,-7.3
+Rice,Assam,2026-10-12,6773.0,18,0.0
+Rice,Assam,2026-10-19,6786.0,18,0.2
+Rice,Assam,2026-10-26,6795.0,12,0.1
+Rice,Bihar,2026-10-12,2800.0,3,
+Rice,Bihar,2026-10-19,2800.0,3,0.0
+Rice,Bihar,2026-10-26,2744.0,8,-2.0
+Rice,Bihar,2026-11-02,2750.0,7,0.2
+Rice,Bihar,2026-11-09,2700.0,2,-1.8
+Rice,Bihar,2026-11-16,2750.0,4,1.9
+Rice,Gujarat,2026-09-28,6109.0,5,
+Rice,Gujarat,2026-10-05,6208.0,6,1.6
+Rice,Gujarat,2026-10-12,6133.0,3,-1.2
+Rice,Gujarat,2026-10-19,6084.0,4,-0.8
+Rice,Gujarat,2026-10-26,7700.0,4,26.6
+Rice,Gujarat,2026-11-02,7808.0,3,1.4
+Rice,Gujarat,2026-11-16,6467.0,4,-17.2
+Rice,Karnataka,2026-09-21,3465.0,23,
+Rice,Karnataka,2026-09-28,3819.0,220,10.2
+Rice,Karnataka,2026-10-05,4188.0,157,9.6
+Rice,Karnataka,2026-10-12,4231.0,171,1.0
+Rice,Karnataka,2026-10-19,4324.0,112,2.2
+Rice,Karnataka,2026-10-26,4480.0,197,3.6
+Rice,Karnataka,2026-11-02,4700.0,131,4.9
+Rice,Karnataka,2026-11-09,4273.0,117,-9.1
+Rice,Karnataka,2026-11-16,4401.0,81,3.0
+Rice,Keralam,2026-09-21,4900.0,1,
+Rice,Keralam,2026-09-28,5300.0,7,8.2
+Rice,Keralam,2026-10-05,5080.0,5,-4.2
+Rice,Keralam,2026-10-12,5229.0,7,2.9
+Rice,Keralam,2026-10-19,5240.0,5,0.2
+Rice,Keralam,2026-10-26,5620.0,10,7.3
+Rice,Keralam,2026-11-02,5340.0,5,-5.0
+Rice,Keralam,2026-11-09,5020.0,5,-6.0
+Rice,Keralam,2026-11-16,5050.0,2,0.6
+Rice,Maharashtra,2026-09-21,4612.0,17,
+Rice,Maharashtra,2026-09-28,5227.0,85,13.3
+Rice,Maharashtra,2026-10-05,5048.0,83,-3.4
+Rice,Maharashtra,2026-10-12,5561.0,92,10.1
+Rice,Maharashtra,2026-10-19,5793.0,81,4.2
+Rice,Maharashtra,2026-10-26,5641.0,94,-2.6
+Rice,Maharashtra,2026-11-02,5728.0,82,1.5
+Rice,Maharashtra,2026-11-09,5594.0,54,-2.3
+Rice,Maharashtra,2026-11-16,6210.0,65,11.0
+Rice,Manipur,2026-09-28,5100.0,15,
+Rice,Manipur,2026-10-05,5100.0,20,0.0
+Rice,Manipur,2026-10-12,5100.0,19,0.0
+Rice,Manipur,2026-10-26,5100.0,20,0.0
+Rice,Manipur,2026-11-02,5100.0,24,0.0
+Rice,Manipur,2026-11-09,5100.0,12,0.0
+Rice,Manipur,2026-11-16,5100.0,17,0.0
+Rice,Meghalaya,2026-09-28,5700.0,4,
+Rice,Meghalaya,2026-10-05,5667.0,6,-0.6
+Rice,Meghalaya,2026-10-12,5667.0,6,0.0
+Rice,Meghalaya,2026-10-19,5700.0,3,0.6
+Rice,Meghalaya,2026-10-26,5667.0,6,-0.6
+Rice,Meghalaya,2026-11-02,5660.0,5,-0.1
+Rice,Meghalaya,2026-11-09,5600.0,2,-1.1
+Rice,Meghalaya,2026-11-16,5700.0,5,1.8
+Rice,NCT of Delhi,2026-09-21,2500.0,1,
+Rice,NCT of Delhi,2026-09-28,5675.0,1,127.0
+Rice,NCT of Delhi,2026-10-12,5747.0,3,1.3
+Rice,NCT of Delhi,2026-10-19,4625.0,2,-19.5
+Rice,NCT of Delhi,2026-10-26,2967.0,3,-35.8
+Rice,NCT of Delhi,2026-11-09,7100.0,1,139.3
+Rice,Odisha,2026-09-21,3680.0,5,
+Rice,Odisha,2026-09-28,3725.0,24,1.2
+Rice,Odisha,2026-10-05,3713.0,24,-0.3
+Rice,Odisha,2026-10-12,3713.0,24,0.0
+Rice,Odisha,2026-10-19,3705.0,22,-0.2
+Rice,Odisha,2026-10-26,3748.0,23,1.2
+Rice,Odisha,2026-11-02,3767.0,21,0.5
+Rice,Odisha,2026-11-09,3778.0,18,0.3
+Rice,Odisha,2026-11-16,3800.0,10,0.6
+Rice,Tripura,2026-09-21,3836.0,7,
+Rice,Tripura,2026-09-28,4114.0,51,7.2
+Rice,Tripura,2026-10-05,4049.0,49,-1.6
+Rice,Tripura,2026-10-12,4112.0,42,1.6
+Rice,Tripura,2026-10-19,4101.0,38,-0.3
+Rice,Tripura,2026-10-26,4028.0,27,-1.8
+Rice,Tripura,2026-11-02,4083.0,18,1.4
+Rice,Tripura,2026-11-09,4003.0,19,-2.0
+Rice,Tripura,2026-11-16,4116.0,19,2.8
+Rice,Uttar Pradesh,2026-09-21,3507.0,92,
+Rice,Uttar Pradesh,2026-09-28,3345.0,493,-4.6
+Rice,Uttar Pradesh,2026-10-05,3419.0,371,2.2
+Rice,Uttar Pradesh,2026-10-12,3466.0,418,1.4
+Rice,Uttar Pradesh,2026-10-19,3358.0,366,-3.1
+Rice,Uttar Pradesh,2026-10-26,3701.0,435,10.2
+Rice,Uttar Pradesh,2026-11-02,3532.0,369,-4.6
+Rice,Uttar Pradesh,2026-11-09,3482.0,291,-1.4
+Rice,Uttar Pradesh,2026-11-16,3525.0,304,1.2
+Rice,Uttarakhand,2026-09-21,3613.0,3,
+Rice,Uttarakhand,2026-09-28,4191.0,11,16.0
+Rice,Uttarakhand,2026-10-05,3935.0,13,-6.1
+Rice,Uttarakhand,2026-10-12,3446.0,11,-12.4
+Rice,Uttarakhand,2026-10-19,3722.0,13,8.0
+Rice,Uttarakhand,2026-10-26,3633.0,14,-2.4
+Rice,Uttarakhand,2026-11-02,4038.0,9,11.1
+Rice,Uttarakhand,2026-11-09,3659.0,7,-9.4
+Rice,Uttarakhand,2026-11-16,4203.0,8,14.9
+Rice,West Bengal,2026-09-21,3944.0,95,
+Rice,West Bengal,2026-09-28,4041.0,392,2.4
+Rice,West Bengal,2026-10-05,4063.0,406,0.6
+Rice,West Bengal,2026-10-12,4059.0,388,-0.1
+Rice,West Bengal,2026-10-19,4049.0,292,-0.2
+Rice,West Bengal,2026-10-26,4045.0,298,-0.1
+Rice,West Bengal,2026-11-02,3900.0,196,-3.6
+Rice,West Bengal,2026-11-09,3865.0,168,-0.9
+Rice,West Bengal,2026-11-16,3875.0,159,0.2
+Tomato,Andaman and Nicobar,2026-09-21,4200.0,1,
+Tomato,Andaman and Nicobar,2026-09-28,5950.0,4,41.7
+Tomato,Andaman and Nicobar,2026-10-05,6833.0,6,14.8
+Tomato,Andaman and Nicobar,2026-10-12,7250.0,4,6.1
+Tomato,Andaman and Nicobar,2026-10-19,7400.0,5,2.1
+Tomato,Andaman and Nicobar,2026-10-26,7200.0,5,-2.7
+Tomato,Andaman and Nicobar,2026-11-02,7800.0,5,8.3
+Tomato,Andaman and Nicobar,2026-11-09,9000.0,5,15.4
+Tomato,Andaman and Nicobar,2026-11-16,8000.0,3,-11.1
+Tomato,Andhra Pradesh,2026-09-21,1929.0,22,
+Tomato,Andhra Pradesh,2026-09-28,2868.0,73,48.7
+Tomato,Andhra Pradesh,2026-10-05,2215.0,81,-22.8
+Tomato,Andhra Pradesh,2026-10-12,1776.0,82,-19.8
+Tomato,Andhra Pradesh,2026-10-19,2278.0,71,28.3
+Tomato,Andhra Pradesh,2026-10-26,2314.0,71,1.6
+Tomato,Andhra Pradesh,2026-11-02,1943.0,74,-16.0
+Tomato,Andhra Pradesh,2026-11-09,1506.0,73,-22.5
+Tomato,Andhra Pradesh,2026-11-16,1997.0,52,32.6
+Tomato,Assam,2026-09-21,3600.0,6,
+Tomato,Assam,2026-09-28,3140.0,48,-12.8
+Tomato,Assam,2026-10-05,3192.0,37,1.7
+Tomato,Assam,2026-10-12,3355.0,29,5.1
+Tomato,Assam,2026-10-19,2893.0,20,-13.8
+Tomato,Assam,2026-10-26,2536.0,37,-12.3
+Tomato,Assam,2026-11-02,2449.0,39,-3.5
+Tomato,Assam,2026-11-09,2455.0,43,0.2
+Tomato,Assam,2026-11-16,2474.0,34,0.8
+Tomato,Bihar,2026-09-21,3185.0,4,
+Tomato,Bihar,2026-09-28,3263.0,16,2.5
+Tomato,Bihar,2026-10-05,3322.0,31,1.8
+Tomato,Bihar,2026-10-12,3282.0,62,-1.2
+Tomato,Bihar,2026-10-19,3164.0,46,-3.6
+Tomato,Bihar,2026-10-26,2949.0,68,-6.8
+Tomato,Bihar,2026-11-02,2956.0,70,0.2
+Tomato,Bihar,2026-11-09,2962.0,48,0.2
+Tomato,Bihar,2026-11-16,2829.0,70,-4.5
+Tomato,Chandigarh,2026-09-21,2000.0,1,
+Tomato,Chandigarh,2026-09-28,2000.0,6,0.0
+Tomato,Chandigarh,2026-10-05,2167.0,6,8.3
+Tomato,Chandigarh,2026-10-12,1800.0,5,-16.9
+Tomato,Chandigarh,2026-10-19,1520.0,5,-15.6
+Tomato,Chandigarh,2026-10-26,1637.0,6,7.7
+Tomato,Chandigarh,2026-11-02,1820.0,2,11.2
+Tomato,Chandigarh,2026-11-09,1880.0,5,3.3
+Tomato,Chandigarh,2026-11-16,1600.0,2,-14.9
+Tomato,Chattisgarh,2026-09-21,1780.0,5,
+Tomato,Chattisgarh,2026-09-28,2306.0,18,29.5
+Tomato,Chattisgarh,2026-10-05,2057.0,21,-10.8
+Tomato,Chattisgarh,2026-10-12,1904.0,23,-7.4
+Tomato,Chattisgarh,2026-10-19,1898.0,21,-0.4
+Tomato,Chattisgarh,2026-10-26,2058.0,25,8.5
+Tomato,Chattisgarh,2026-11-02,1986.0,21,-3.5
+Tomato,Chattisgarh,2026-11-09,2050.0,21,3.2
+Tomato,Chattisgarh,2026-11-16,1855.0,20,-9.5
+Tomato,Gujarat,2026-09-21,1883.0,29,
+Tomato,Gujarat,2026-09-28,1885.0,165,0.1
+Tomato,Gujarat,2026-10-05,2027.0,165,7.6
+Tomato,Gujarat,2026-10-12,1702.0,173,-16.0
+Tomato,Gujarat,2026-10-19,1473.0,153,-13.4
+Tomato,Gujarat,2026-10-26,1373.0,151,-6.8
+Tomato,Gujarat,2026-11-02,1448.0,159,5.5
+Tomato,Gujarat,2026-11-09,1701.0,59,17.5
+Tomato,Gujarat,2026-11-16,1585.0,130,-6.8
+Tomato,Haryana,2026-09-21,2500.0,71,
+Tomato,Haryana,2026-09-28,2513.0,293,0.5
+Tomato,Haryana,2026-10-05,2617.0,294,4.1
+Tomato,Haryana,2026-10-12,2457.0,296,-6.1
+Tomato,Haryana,2026-10-19,2251.0,260,-8.4
+Tomato,Haryana,2026-10-26,2128.0,256,-5.5
+Tomato,Haryana,2026-11-02,2192.0,256,3.0
+Tomato,Haryana,2026-11-09,2224.0,263,1.5
+Tomato,Haryana,2026-11-16,2131.0,200,-4.2
+Tomato,Himachal Pradesh,2026-09-21,2608.0,24,
+Tomato,Himachal Pradesh,2026-09-28,2907.0,137,11.4
+Tomato,Himachal Pradesh,2026-10-05,2944.0,133,1.3
+Tomato,Himachal Pradesh,2026-10-12,2655.0,155,-9.8
+Tomato,Himachal Pradesh,2026-10-19,2169.0,139,-18.3
+Tomato,Himachal Pradesh,2026-10-26,2050.0,133,-5.5
+Tomato,Himachal Pradesh,2026-11-02,2159.0,136,5.3
+Tomato,Himachal Pradesh,2026-11-09,2394.0,105,10.9
+Tomato,Himachal Pradesh,2026-11-16,2465.0,112,3.0
+Tomato,Jammu and Kashmir,2026-09-21,2880.0,5,
+Tomato,Jammu and Kashmir,2026-09-28,3130.0,22,8.7
+Tomato,Jammu and Kashmir,2026-10-05,3095.0,21,-1.1
+Tomato,Jammu and Kashmir,2026-10-12,3032.0,25,-2.0
+Tomato,Jammu and Kashmir,2026-10-19,2402.0,23,-20.8
+Tomato,Jammu and Kashmir,2026-10-26,2183.0,23,-9.1
+Tomato,Jammu and Kashmir,2026-11-02,2294.0,27,5.1
+Tomato,Jammu and Kashmir,2026-11-09,2323.0,26,1.2
+Tomato,Jammu and Kashmir,2026-11-16,2439.0,22,5.0
+Tomato,Karnataka,2026-09-21,1472.0,27,
+Tomato,Karnataka,2026-09-28,2022.0,149,37.4
+Tomato,Karnataka,2026-10-05,2051.0,160,1.4
+Tomato,Karnataka,2026-10-12,1648.0,145,-19.7
+Tomato,Karnataka,2026-10-19,1656.0,141,0.5
+Tomato,Karnataka,2026-10-26,1787.0,151,7.9
+Tomato,Karnataka,2026-11-02,1790.0,139,0.2
+Tomato,Karnataka,2026-11-09,1628.0,149,-9.0
+Tomato,Karnataka,2026-11-16,2093.0,71,28.5
+Tomato,Keralam,2026-09-21,3405.0,73,
+Tomato,Keralam,2026-09-28,3968.0,289,16.5
+Tomato,Keralam,2026-10-05,4064.0,317,2.4
+Tomato,Keralam,2026-10-12,3587.0,352,-11.7
+Tomato,Keralam,2026-10-19,3711.0,279,3.4
+Tomato,Keralam,2026-10-26,3697.0,258,-0.4
+Tomato,Keralam,2026-11-02,3741.0,288,1.2
+Tomato,Keralam,2026-11-09,3620.0,309,-3.2
+Tomato,Keralam,2026-11-16,3755.0,236,3.7
+Tomato,Madhya Pradesh,2026-09-21,1387.0,62,
+Tomato,Madhya Pradesh,2026-09-28,1451.0,268,4.6
+Tomato,Madhya Pradesh,2026-10-05,1554.0,277,7.1
+Tomato,Madhya Pradesh,2026-10-12,1474.0,289,-5.2
+Tomato,Madhya Pradesh,2026-10-19,1334.0,231,-9.5
+Tomato,Madhya Pradesh,2026-10-26,1251.0,260,-6.3
+Tomato,Madhya Pradesh,2026-11-02,1237.0,236,-1.1
+Tomato,Madhya Pradesh,2026-11-09,1302.0,218,5.3
+Tomato,Madhya Pradesh,2026-11-16,1226.0,192,-5.9
+Tomato,Maharashtra,2026-09-21,1341.0,61,
+Tomato,Maharashtra,2026-09-28,1451.0,244,8.2
+Tomato,Maharashtra,2026-10-05,1574.0,246,8.5
+Tomato,Maharashtra,2026-10-12,1341.0,251,-14.8
+Tomato,Maharashtra,2026-10-19,1167.0,227,-13.0
+Tomato,Maharashtra,2026-10-26,1170.0,237,0.2
+Tomato,Maharashtra,2026-11-02,1168.0,229,-0.2
+Tomato,Maharashtra,2026-11-09,1275.0,213,9.1
+Tomato,Maharashtra,2026-11-16,1219.0,172,-4.4
+Tomato,Meghalaya,2026-09-21,5100.0,2,
+Tomato,Meghalaya,2026-09-28,4155.0,10,-18.5
+Tomato,Meghalaya,2026-10-05,3482.0,11,-16.2
+Tomato,Meghalaya,2026-10-12,3791.0,11,8.9
+Tomato,Meghalaya,2026-10-19,2875.0,4,-24.2
+Tomato,Meghalaya,2026-10-26,2155.0,11,-25.1
+Tomato,Meghalaya,2026-11-02,2075.0,10,-3.7
+Tomato,Meghalaya,2026-11-09,2350.0,3,13.3
+Tomato,Meghalaya,2026-11-16,1986.0,7,-15.5
+Tomato,NCT of Delhi,2026-09-21,2523.0,5,
+Tomato,NCT of Delhi,2026-09-28,2713.0,14,7.5
+Tomato,NCT of Delhi,2026-10-05,2519.0,17,-7.2
+Tomato,NCT of Delhi,2026-10-12,2133.0,18,-15.3
+Tomato,NCT of Delhi,2026-10-19,1937.0,16,-9.2
+Tomato,NCT of Delhi,2026-10-26,2136.0,19,10.3
+Tomato,NCT of Delhi,2026-11-02,2323.0,10,8.7
+Tomato,NCT of Delhi,2026-11-09,2172.0,15,-6.5
+Tomato,NCT of Delhi,2026-11-16,2054.0,8,-5.4
+Tomato,Nagaland,2026-09-28,4533.0,3,
+Tomato,Nagaland,2026-10-05,3875.0,3,-14.5
+Tomato,Nagaland,2026-10-12,4216.0,8,8.8
+Tomato,Nagaland,2026-10-19,4775.0,4,13.3
+Tomato,Nagaland,2026-10-26,5153.0,6,7.9
+Tomato,Nagaland,2026-11-02,5600.0,6,8.7
+Tomato,Nagaland,2026-11-09,5340.0,5,-4.6
+Tomato,Nagaland,2026-11-16,5075.0,8,-5.0
+Tomato,Odisha,2026-09-21,3079.0,68,
+Tomato,Odisha,2026-09-28,3378.0,294,9.7
+Tomato,Odisha,2026-10-05,3517.0,298,4.1
+Tomato,Odisha,2026-10-12,3366.0,300,-4.3
+Tomato,Odisha,2026-10-19,3235.0,273,-3.9
+Tomato,Odisha,2026-10-26,3148.0,333,-2.7
+Tomato,Odisha,2026-11-02,3085.0,316,-2.0
+Tomato,Odisha,2026-11-09,2991.0,355,-3.0
+Tomato,Odisha,2026-11-16,2866.0,291,-4.2
+Tomato,Punjab,2026-09-21,2522.0,56,
+Tomato,Punjab,2026-09-28,2556.0,368,1.3
+Tomato,Punjab,2026-10-05,2615.0,355,2.3
+Tomato,Punjab,2026-10-12,2599.0,367,-0.6
+Tomato,Punjab,2026-10-19,2398.0,344,-7.7
+Tomato,Punjab,2026-10-26,2237.0,321,-6.7
+Tomato,Punjab,2026-11-02,2210.0,319,-1.2
+Tomato,Punjab,2026-11-09,2156.0,285,-2.4
+Tomato,Punjab,2026-11-16,2281.0,238,5.8
+Tomato,Rajasthan,2026-09-21,1997.0,21,
+Tomato,Rajasthan,2026-09-28,2076.0,127,3.9
+Tomato,Rajasthan,2026-10-05,2214.0,137,6.7
+Tomato,Rajasthan,2026-10-12,1988.0,131,-10.2
+Tomato,Rajasthan,2026-10-19,1654.0,131,-16.8
+Tomato,Rajasthan,2026-10-26,1577.0,125,-4.6
+Tomato,Rajasthan,2026-11-02,1540.0,115,-2.3
+Tomato,Rajasthan,2026-11-09,1633.0,100,6.0
+Tomato,Rajasthan,2026-11-16,1533.0,100,-6.1
+Tomato,Tamil Nadu,2026-09-21,2940.0,481,
+Tomato,Tamil Nadu,2026-09-28,3879.0,1668,31.9
+Tomato,Tamil Nadu,2026-10-05,3741.0,1673,-3.6
+Tomato,Tamil Nadu,2026-10-12,2964.0,1345,-20.8
+Tomato,Tamil Nadu,2026-10-19,3452.0,1281,16.4
+Tomato,Tamil Nadu,2026-10-26,3557.0,1297,3.1
+Tomato,Tamil Nadu,2026-11-02,3417.0,1264,-3.9
+Tomato,Tamil Nadu,2026-11-09,2995.0,1033,-12.3
+Tomato,Tamil Nadu,2026-11-16,3215.0,915,7.3
+Tomato,Telangana,2026-09-21,1926.0,48,
+Tomato,Telangana,2026-09-28,2547.0,186,32.2
+Tomato,Telangana,2026-10-05,2548.0,165,0.0
+Tomato,Telangana,2026-10-12,2173.0,175,-14.7
+Tomato,Telangana,2026-10-19,2413.0,152,11.1
+Tomato,Telangana,2026-10-26,2626.0,167,8.8
+Tomato,Telangana,2026-11-02,2468.0,168,-6.0
+Tomato,Telangana,2026-11-09,2186.0,155,-11.4
+Tomato,Telangana,2026-11-16,2270.0,114,3.8
+Tomato,Tripura,2026-09-21,5438.0,13,
+Tomato,Tripura,2026-09-28,4888.0,80,-10.1
+Tomato,Tripura,2026-10-05,5082.0,76,4.0
+Tomato,Tripura,2026-10-12,5019.0,63,-1.2
+Tomato,Tripura,2026-10-19,5298.0,50,5.6
+Tomato,Tripura,2026-10-26,4881.0,80,-7.9
+Tomato,Tripura,2026-11-02,4546.0,69,-6.9
+Tomato,Tripura,2026-11-09,4653.0,73,2.3
+Tomato,Tripura,2026-11-16,4601.0,58,-1.1
+Tomato,Uttar Pradesh,2026-09-21,1908.0,93,
+Tomato,Uttar Pradesh,2026-09-28,1935.0,400,1.4
+Tomato,Uttar Pradesh,2026-10-05,1961.0,350,1.4
+Tomato,Uttar Pradesh,2026-10-12,1989.0,392,1.4
+Tomato,Uttar Pradesh,2026-10-19,1876.0,302,-5.7
+Tomato,Uttar Pradesh,2026-10-26,1844.0,386,-1.7
+Tomato,Uttar Pradesh,2026-11-02,1751.0,265,-5.0
+Tomato,Uttar Pradesh,2026-11-09,1697.0,260,-3.1
+Tomato,Uttar Pradesh,2026-11-16,1731.0,254,2.0
+Tomato,Uttarakhand,2026-09-21,1826.0,20,
+Tomato,Uttarakhand,2026-09-28,1815.0,80,-0.6
+Tomato,Uttarakhand,2026-10-05,1890.0,79,4.1
+Tomato,Uttarakhand,2026-10-12,1843.0,76,-2.5
+Tomato,Uttarakhand,2026-10-19,1748.0,69,-5.1
+Tomato,Uttarakhand,2026-10-26,1537.0,81,-12.1
+Tomato,Uttarakhand,2026-11-02,1614.0,78,5.0
+Tomato,Uttarakhand,2026-11-09,1681.0,64,4.2
+Tomato,Uttarakhand,2026-11-16,1656.0,58,-1.5
+Tomato,West Bengal,2026-09-21,3480.0,53,
+Tomato,West Bengal,2026-09-28,3475.0,237,-0.1
+Tomato,West Bengal,2026-10-05,3614.0,227,4.0
+Tomato,West Bengal,2026-10-12,3596.0,210,-0.5
+Tomato,West Bengal,2026-10-19,3330.0,150,-7.4
+Tomato,West Bengal,2026-10-26,3268.0,207,-1.9
+Tomato,West Bengal,2026-11-02,3190.0,221,-2.4
+Tomato,West Bengal,2026-11-09,3118.0,206,-2.3
+Tomato,West Bengal,2026-11-16,3230.0,178,3.6
+Wheat,Bihar,2026-09-21,2641.0,4,
+Wheat,Bihar,2026-09-28,2642.0,14,0.0
+Wheat,Bihar,2026-10-05,2641.0,14,-0.0
+Wheat,Bihar,2026-10-12,2629.0,17,-0.4
+Wheat,Bihar,2026-10-19,2648.0,17,0.7
+Wheat,Bihar,2026-10-26,2630.0,20,-0.7
+Wheat,Bihar,2026-11-02,2651.0,19,0.8
+Wheat,Bihar,2026-11-09,2425.0,4,-8.5
+Wheat,Bihar,2026-11-16,2517.0,6,3.8
+Wheat,Chattisgarh,2026-09-21,2675.0,1,
+Wheat,Chattisgarh,2026-09-28,2545.0,28,-4.8
+Wheat,Chattisgarh,2026-10-05,2422.0,33,-4.9
+Wheat,Chattisgarh,2026-10-12,2424.0,20,0.1
+Wheat,Chattisgarh,2026-10-19,2542.0,12,4.9
+Wheat,Chattisgarh,2026-10-26,2619.0,32,3.0
+Wheat,Chattisgarh,2026-11-02,2660.0,17,1.6
+Wheat,Chattisgarh,2026-11-09,2508.0,5,-5.7
+Wheat,Chattisgarh,2026-11-16,2549.0,13,1.6
+Wheat,Gujarat,2026-09-21,2718.0,48,
+Wheat,Gujarat,2026-09-28,2721.0,376,0.1
+Wheat,Gujarat,2026-10-05,2725.0,413,0.1
+Wheat,Gujarat,2026-10-12,2747.0,401,0.8
+Wheat,Gujarat,2026-10-19,2815.0,311,2.5
+Wheat,Gujarat,2026-10-26,2958.0,347,5.1
+Wheat,Gujarat,2026-11-02,2969.0,265,0.4
+Wheat,Gujarat,2026-11-09,2896.0,57,-2.5
+Wheat,Gujarat,2026-11-16,2958.0,317,2.2
+Wheat,Haryana,2026-10-05,2600.0,1,
+Wheat,Haryana,2026-11-02,2700.0,3,3.8
+Wheat,Karnataka,2026-09-21,3098.0,11,
+Wheat,Karnataka,2026-09-28,3112.0,73,0.5
+Wheat,Karnataka,2026-10-05,3151.0,64,1.3
+Wheat,Karnataka,2026-10-12,3243.0,65,2.9
+Wheat,Karnataka,2026-10-19,3392.0,41,4.6
+Wheat,Karnataka,2026-10-26,3601.0,63,6.2
+Wheat,Karnataka,2026-11-02,3722.0,50,3.4
+Wheat,Karnataka,2026-11-09,3786.0,44,1.7
+Wheat,Karnataka,2026-11-16,3851.0,35,1.7
+Wheat,Madhya Pradesh,2026-09-21,2554.0,154,
+Wheat,Madhya Pradesh,2026-09-28,2621.0,1673,2.6
+Wheat,Madhya Pradesh,2026-10-05,2620.0,1723,-0.1
+Wheat,Madhya Pradesh,2026-10-12,2659.0,1842,1.5
+Wheat,Madhya Pradesh,2026-10-19,2729.0,1281,2.6
+Wheat,Madhya Pradesh,2026-10-26,2812.0,1827,3.0
+Wheat,Madhya Pradesh,2026-11-02,2786.0,1435,-0.9
+Wheat,Madhya Pradesh,2026-11-09,2741.0,1039,-1.6
+Wheat,Madhya Pradesh,2026-11-16,2779.0,1422,1.4
+Wheat,Maharashtra,2026-09-21,2708.0,85,
+Wheat,Maharashtra,2026-09-28,2715.0,554,0.3
+Wheat,Maharashtra,2026-10-05,2736.0,557,0.8
+Wheat,Maharashtra,2026-10-12,2799.0,574,2.3
+Wheat,Maharashtra,2026-10-19,2922.0,453,4.4
+Wheat,Maharashtra,2026-10-26,3084.0,514,5.6
+Wheat,Maharashtra,2026-11-02,3094.0,400,0.3
+Wheat,Maharashtra,2026-11-09,3064.0,249,-1.0
+Wheat,Maharashtra,2026-11-16,3057.0,424,-0.2
+Wheat,NCT of Delhi,2026-09-21,2796.0,6,
+Wheat,NCT of Delhi,2026-09-28,2830.0,14,1.2
+Wheat,NCT of Delhi,2026-10-05,2775.0,18,-1.9
+Wheat,NCT of Delhi,2026-10-12,2845.0,18,2.5
+Wheat,NCT of Delhi,2026-10-19,2956.0,15,3.9
+Wheat,NCT of Delhi,2026-10-26,2931.0,13,-0.8
+Wheat,NCT of Delhi,2026-11-02,2914.0,16,-0.6
+Wheat,NCT of Delhi,2026-11-09,2869.0,14,-1.5
+Wheat,NCT of Delhi,2026-11-16,2870.0,6,0.0
+Wheat,Nagaland,2026-09-28,2570.0,1,
+Wheat,Nagaland,2026-10-05,2550.0,2,-0.8
+Wheat,Punjab,2026-09-28,2767.0,5,
+Wheat,Punjab,2026-10-05,2680.0,1,-3.2
+Wheat,Punjab,2026-11-09,2660.0,1,-0.7
+Wheat,Punjab,2026-11-16,2854.0,4,7.3
+Wheat,Rajasthan,2026-09-21,2610.0,34,
+Wheat,Rajasthan,2026-09-28,2641.0,352,1.2
+Wheat,Rajasthan,2026-10-05,2647.0,348,0.3
+Wheat,Rajasthan,2026-10-12,2697.0,308,1.9
+Wheat,Rajasthan,2026-10-19,2790.0,252,3.4
+Wheat,Rajasthan,2026-10-26,2872.0,306,2.9
+Wheat,Rajasthan,2026-11-02,2827.0,190,-1.6
+Wheat,Rajasthan,2026-11-09,2762.0,141,-2.3
+Wheat,Rajasthan,2026-11-16,2838.0,244,2.8
+Wheat,Telangana,2026-09-21,2489.0,1,
+Wheat,Telangana,2026-09-28,2563.0,3,3.0
+Wheat,Telangana,2026-10-05,2600.0,1,1.4
+Wheat,Telangana,2026-10-12,2512.0,2,-3.4
+Wheat,Telangana,2026-10-26,2680.0,3,6.7
+Wheat,Telangana,2026-11-02,2011.0,1,-25.0
+Wheat,Telangana,2026-11-09,2600.0,1,29.3
+Wheat,Telangana,2026-11-16,2735.0,1,5.2
+Wheat,Uttar Pradesh,2026-09-21,2535.0,354,
+Wheat,Uttar Pradesh,2026-09-28,2535.0,2098,0.0
+Wheat,Uttar Pradesh,2026-10-05,2536.0,1784,0.0
+Wheat,Uttar Pradesh,2026-10-12,2540.0,1837,0.2
+Wheat,Uttar Pradesh,2026-10-19,2564.0,1524,0.9
+Wheat,Uttar Pradesh,2026-10-26,2595.0,1518,1.2
+Wheat,Uttar Pradesh,2026-11-02,2598.0,1248,0.1
+Wheat,Uttar Pradesh,2026-11-09,2584.0,959,-0.5
+Wheat,Uttar Pradesh,2026-11-16,2612.0,897,1.1
+Wheat,Uttarakhand,2026-09-21,2595.0,2,
+Wheat,Uttarakhand,2026-09-28,2600.0,5,0.2
+Wheat,Uttarakhand,2026-10-05,2600.0,4,0.0
+Wheat,Uttarakhand,2026-10-12,2594.0,7,-0.2
+Wheat,Uttarakhand,2026-10-19,2596.0,7,0.1
+Wheat,Uttarakhand,2026-10-26,2600.0,6,0.2
+Wheat,Uttarakhand,2026-11-02,2600.0,1,0.0
+Wheat,Uttarakhand,2026-11-16,2600.0,1,0.0
+Wheat,West Bengal,2026-09-21,2732.0,15,
+Wheat,West Bengal,2026-09-28,2727.0,67,-0.2
+Wheat,West Bengal,2026-10-05,2745.0,58,0.7
+Wheat,West Bengal,2026-10-12,2722.0,62,-0.8
+Wheat,West Bengal,2026-10-19,2707.0,56,-0.6
+Wheat,West Bengal,2026-10-26,2701.0,59,-0.2
+Wheat,West Bengal,2026-11-02,2692.0,54,-0.3
+Wheat,West Bengal,2026-11-09,2700.0,50,0.3
+Wheat,West Bengal,2026-11-16,2712.0,43,0.5

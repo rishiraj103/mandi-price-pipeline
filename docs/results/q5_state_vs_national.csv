@@ -1,0 +1,226 @@
+commodity,state,state_avg,national_avg,diff_pct,vs_national,reports
+Banana,Nagaland,6650.0,4788.0,38.9,above,2
+Banana,Tamil Nadu,5699.0,4788.0,19.0,above,937
+Banana,Keralam,5453.0,4788.0,13.9,above,1356
+Banana,Manipur,5309.0,4788.0,10.9,above,17
+Banana,Jammu and Kashmir,4470.0,4788.0,-6.6,below,30
+Banana,Goa,4286.0,4788.0,-10.5,below,7
+Banana,Meghalaya,4189.0,4788.0,-12.5,below,9
+Banana,Himachal Pradesh,4137.0,4788.0,-13.6,below,106
+Banana,Andaman and Nicobar,3313.0,4788.0,-30.8,below,8
+Banana,NCT of Delhi,3200.0,4788.0,-33.2,below,9
+Banana,Karnataka,2973.0,4788.0,-37.9,below,35
+Banana,Punjab,2929.0,4788.0,-38.8,below,193
+Banana,Haryana,2749.0,4788.0,-42.6,below,160
+Banana,Andhra Pradesh,2709.0,4788.0,-43.4,below,61
+Banana,Tripura,2611.0,4788.0,-45.5,below,9
+Banana,Rajasthan,2322.0,4788.0,-51.5,below,29
+Banana,Telangana,2272.0,4788.0,-52.5,below,6
+Banana,Maharashtra,2253.0,4788.0,-53.0,below,29
+Banana,West Bengal,2200.0,4788.0,-54.1,below,7
+Banana,Gujarat,2178.0,4788.0,-54.5,below,53
+Banana,Chattisgarh,2148.0,4788.0,-55.1,below,21
+Banana,Uttar Pradesh,2005.0,4788.0,-58.1,below,18
+Banana,Odisha,1900.0,4788.0,-60.3,below,2
+Banana,Madhya Pradesh,1752.0,4788.0,-63.4,below,56
+Banana,Uttarakhand,1721.0,4788.0,-64.1,below,52
+Cauliflower,Manipur,5750.0,2598.0,121.3,above,2
+Cauliflower,Keralam,5081.0,2598.0,95.6,above,214
+Cauliflower,Tripura,4231.0,2598.0,62.9,above,99
+Cauliflower,Odisha,3963.0,2598.0,52.5,above,252
+Cauliflower,Tamil Nadu,3824.0,2598.0,47.2,above,675
+Cauliflower,Nagaland,3750.0,2598.0,44.3,above,2
+Cauliflower,Meghalaya,2500.0,2598.0,-3.8,near,5
+Cauliflower,Chattisgarh,2284.0,2598.0,-12.1,below,28
+Cauliflower,Telangana,2243.0,2598.0,-13.6,below,83
+Cauliflower,Bihar,2209.0,2598.0,-15.0,below,127
+Cauliflower,Jammu and Kashmir,2092.0,2598.0,-19.5,below,25
+Cauliflower,Karnataka,2015.0,2598.0,-22.4,below,49
+Cauliflower,Assam,1999.0,2598.0,-23.1,below,35
+Cauliflower,West Bengal,1948.0,2598.0,-25.0,below,57
+Cauliflower,Himachal Pradesh,1644.0,2598.0,-36.7,below,118
+Cauliflower,NCT of Delhi,1512.0,2598.0,-41.8,below,13
+Cauliflower,Punjab,1510.0,2598.0,-41.9,below,348
+Cauliflower,Gujarat,1498.0,2598.0,-42.4,below,132
+Cauliflower,Uttarakhand,1479.0,2598.0,-43.1,below,62
+Cauliflower,Rajasthan,1404.0,2598.0,-45.9,below,45
+Cauliflower,Uttar Pradesh,1380.0,2598.0,-46.9,below,84
+Cauliflower,Haryana,1350.0,2598.0,-48.0,below,165
+Cauliflower,Andhra Pradesh,1200.0,2598.0,-53.8,below,6
+Cauliflower,Madhya Pradesh,1072.0,2598.0,-58.8,below,200
+Cauliflower,Maharashtra,1023.0,2598.0,-60.6,below,181
+Cauliflower,Chandigarh,767.0,2598.0,-70.5,below,3
+Garlic,Tamil Nadu,22645.0,15032.0,50.6,above,437
+Garlic,Keralam,20273.0,15032.0,34.9,above,75
+Garlic,Himachal Pradesh,17980.0,15032.0,19.6,above,51
+Garlic,Jammu and Kashmir,15603.0,15032.0,3.8,near,17
+Garlic,Haryana,14178.0,15032.0,-5.7,below,49
+Garlic,Karnataka,14136.0,15032.0,-6.0,below,22
+Garlic,West Bengal,13983.0,15032.0,-7.0,below,15
+Garlic,Assam,13882.0,15032.0,-7.6,below,17
+Garlic,Maharashtra,13897.0,15032.0,-7.6,below,81
+Garlic,Telangana,12833.0,15032.0,-14.6,below,6
+Garlic,Rajasthan,12513.0,15032.0,-16.8,below,64
+Garlic,Punjab,11971.0,15032.0,-20.4,below,109
+Garlic,Tripura,11100.0,15032.0,-26.2,below,1
+Garlic,NCT of Delhi,10875.0,15032.0,-27.7,below,3
+Garlic,Gujarat,10865.0,15032.0,-27.7,below,44
+Garlic,Odisha,10500.0,15032.0,-30.2,below,4
+Garlic,Bihar,9400.0,15032.0,-37.5,below,5
+Garlic,Uttar Pradesh,8760.0,15032.0,-41.7,below,140
+Garlic,Madhya Pradesh,8632.0,15032.0,-42.6,below,309
+Garlic,Uttarakhand,7636.0,15032.0,-49.2,below,11
+Ginger,Andaman and Nicobar,20000.0,8315.0,140.5,above,5
+Ginger,Odisha,12000.0,8315.0,44.3,above,6
+Ginger,Keralam,10913.0,8315.0,31.2,above,226
+Ginger,Tamil Nadu,10809.0,8315.0,30.0,above,725
+Ginger,Tripura,9841.0,8315.0,18.4,above,22
+Ginger,Nagaland,7500.0,8315.0,-9.8,below,4
+Ginger,NCT of Delhi,7442.0,8315.0,-10.5,below,6
+Ginger,West Bengal,7039.0,8315.0,-15.3,below,19
+Ginger,Himachal Pradesh,6731.0,8315.0,-19.0,below,86
+Ginger,Jammu and Kashmir,6426.0,8315.0,-22.7,below,17
+Ginger,Punjab,6308.0,8315.0,-24.1,below,142
+Ginger,Haryana,6189.0,8315.0,-25.6,below,61
+Ginger,Assam,5914.0,8315.0,-28.9,below,29
+Ginger,Gujarat,5901.0,8315.0,-29.0,below,67
+Ginger,Maharashtra,5772.0,8315.0,-30.6,below,135
+Ginger,Manipur,5250.0,8315.0,-36.9,below,8
+Ginger,Rajasthan,5136.0,8315.0,-38.2,below,33
+Ginger,Uttar Pradesh,5119.0,8315.0,-38.4,below,161
+Ginger,Madhya Pradesh,4638.0,8315.0,-44.2,below,68
+Ginger,Karnataka,4164.0,8315.0,-49.9,below,66
+Ginger,Uttarakhand,4131.0,8315.0,-50.3,below,26
+Ginger,Chandigarh,3933.0,8315.0,-52.7,below,3
+Ginger,Telangana,3483.0,8315.0,-58.1,below,6
+Green Chilli,Tripura,11530.0,4553.0,153.2,above,106
+Green Chilli,Meghalaya,9750.0,4553.0,114.1,above,12
+Green Chilli,Nagaland,8027.0,4553.0,76.3,above,11
+Green Chilli,Odisha,7195.0,4553.0,58.0,above,88
+Green Chilli,Assam,6613.0,4553.0,45.2,above,56
+Green Chilli,Goa,6029.0,4553.0,32.4,above,7
+Green Chilli,West Bengal,5876.0,4553.0,29.0,above,210
+Green Chilli,Keralam,5779.0,4553.0,26.9,above,273
+Green Chilli,Tamil Nadu,5126.0,4553.0,12.6,above,994
+Green Chilli,Himachal Pradesh,4768.0,4553.0,4.7,near,84
+Green Chilli,Bihar,4305.0,4553.0,-5.5,below,37
+Green Chilli,Andhra Pradesh,4083.0,4553.0,-10.3,below,6
+Green Chilli,Telangana,3823.0,4553.0,-16.0,below,147
+Green Chilli,Punjab,3537.0,4553.0,-22.3,below,264
+Green Chilli,Jammu and Kashmir,3528.0,4553.0,-22.5,below,16
+Green Chilli,Haryana,3480.0,4553.0,-23.6,below,98
+Green Chilli,Karnataka,3443.0,4553.0,-24.4,below,83
+Green Chilli,Chandigarh,3433.0,4553.0,-24.6,below,3
+Green Chilli,Maharashtra,3425.0,4553.0,-24.8,below,230
+Green Chilli,Chattisgarh,3244.0,4553.0,-28.8,below,16
+Green Chilli,NCT of Delhi,2745.0,4553.0,-39.7,below,11
+Green Chilli,Gujarat,2569.0,4553.0,-43.6,below,139
+Green Chilli,Uttar Pradesh,2495.0,4553.0,-45.2,below,301
+Green Chilli,Madhya Pradesh,2466.0,4553.0,-45.8,below,190
+Green Chilli,Rajasthan,2349.0,4553.0,-48.4,below,42
+Green Chilli,Uttarakhand,2192.0,4553.0,-51.9,below,46
+Onion,Keralam,7630.0,4683.0,62.9,above,371
+Onion,Manipur,6850.0,4683.0,46.3,above,17
+Onion,Tamil Nadu,6126.0,4683.0,30.8,above,953
+Onion,Tripura,5849.0,4683.0,24.9,above,61
+Onion,Meghalaya,5750.0,4683.0,22.8,above,2
+Onion,Assam,5427.0,4683.0,15.9,above,32
+Onion,Odisha,5226.0,4683.0,11.6,above,113
+Onion,West Bengal,4678.0,4683.0,-0.1,near,269
+Onion,Bihar,4613.0,4683.0,-1.5,near,133
+Onion,Himachal Pradesh,4550.0,4683.0,-2.8,near,118
+Onion,Jammu and Kashmir,4540.0,4683.0,-3.1,near,25
+Onion,Telangana,4238.0,4683.0,-9.5,below,84
+Onion,Chattisgarh,4168.0,4683.0,-11.0,below,22
+Onion,NCT of Delhi,4071.0,4683.0,-13.1,below,13
+Onion,Punjab,4018.0,4683.0,-14.2,below,333
+Onion,Karnataka,3805.0,4683.0,-18.7,below,97
+Onion,Maharashtra,3790.0,4683.0,-19.1,below,463
+Onion,Gujarat,3716.0,4683.0,-20.6,below,152
+Onion,Haryana,3648.0,4683.0,-22.1,below,272
+Onion,Chandigarh,3600.0,4683.0,-23.1,below,5
+Onion,Andhra Pradesh,3143.0,4683.0,-32.9,below,13
+Onion,Goa,3100.0,4683.0,-33.8,below,6
+Onion,Rajasthan,3077.0,4683.0,-34.3,below,126
+Onion,Uttarakhand,3059.0,4683.0,-34.7,below,61
+Onion,Madhya Pradesh,3056.0,4683.0,-34.7,below,415
+Onion,Uttar Pradesh,3034.0,4683.0,-35.2,below,253
+Potato,Tamil Nadu,3857.0,1744.0,121.1,above,801
+Potato,Keralam,3590.0,1744.0,105.8,above,241
+Potato,Manipur,2241.0,1744.0,28.5,above,17
+Potato,Meghalaya,2190.0,1744.0,25.6,above,10
+Potato,Telangana,1981.0,1744.0,13.6,above,107
+Potato,Nagaland,1942.0,1744.0,11.3,above,10
+Potato,Karnataka,1916.0,1744.0,9.8,above,68
+Potato,Goa,1800.0,1744.0,3.2,near,6
+Potato,Andhra Pradesh,1783.0,1744.0,2.2,near,6
+Potato,Tripura,1781.0,1744.0,2.1,near,121
+Potato,Odisha,1716.0,1744.0,-1.6,near,120
+Potato,Himachal Pradesh,1467.0,1744.0,-15.9,below,119
+Potato,Chattisgarh,1466.0,1744.0,-15.9,below,28
+Potato,Assam,1441.0,1744.0,-17.4,below,46
+Potato,Maharashtra,1331.0,1744.0,-23.7,below,173
+Potato,Gujarat,1297.0,1744.0,-25.6,below,139
+Potato,Bihar,1215.0,1744.0,-30.3,below,164
+Potato,Chandigarh,1200.0,1744.0,-31.2,below,5
+Potato,NCT of Delhi,1182.0,1744.0,-32.3,below,13
+Potato,Jammu and Kashmir,1080.0,1744.0,-38.1,below,30
+Potato,Rajasthan,1008.0,1744.0,-42.2,below,128
+Potato,Haryana,1007.0,1744.0,-42.2,below,289
+Potato,Madhya Pradesh,937.0,1744.0,-46.3,below,220
+Potato,Uttarakhand,884.0,1744.0,-49.3,below,79
+Potato,West Bengal,801.0,1744.0,-54.1,below,369
+Potato,Punjab,767.0,1744.0,-56.0,below,348
+Potato,Uttar Pradesh,673.0,1744.0,-61.4,below,602
+Rice,Andhra Pradesh,6769.0,4106.0,64.8,above,16
+Rice,Gujarat,6467.0,4106.0,57.5,above,4
+Rice,Maharashtra,6086.0,4106.0,48.2,above,79
+Rice,Meghalaya,5700.0,4106.0,38.8,above,5
+Rice,Manipur,5100.0,4106.0,24.2,above,17
+Rice,Keralam,5000.0,4106.0,21.8,above,3
+Rice,Karnataka,4432.0,4106.0,7.9,above,95
+Rice,Tripura,4110.0,4106.0,0.1,near,26
+Rice,Uttarakhand,4089.0,4106.0,-0.4,near,11
+Rice,West Bengal,3870.0,4106.0,-5.7,below,200
+Rice,Odisha,3800.0,4106.0,-7.5,below,14
+Rice,Uttar Pradesh,3542.0,4106.0,-13.7,below,370
+Rice,Bihar,2760.0,4106.0,-32.8,below,5
+Tomato,Andaman and Nicobar,8000.0,2519.0,217.6,above,3
+Tomato,Nagaland,5075.0,2519.0,101.5,above,8
+Tomato,Tripura,4627.0,2519.0,83.7,above,74
+Tomato,Keralam,3759.0,2519.0,49.2,above,294
+Tomato,West Bengal,3205.0,2519.0,27.2,above,230
+Tomato,Tamil Nadu,3193.0,2519.0,26.7,above,1021
+Tomato,Odisha,2882.0,2519.0,14.4,above,373
+Tomato,Bihar,2838.0,2519.0,12.7,above,82
+Tomato,Assam,2463.0,2519.0,-2.2,near,45
+Tomato,Jammu and Kashmir,2454.0,2519.0,-2.6,near,27
+Tomato,Himachal Pradesh,2442.0,2519.0,-3.1,near,128
+Tomato,Punjab,2256.0,2519.0,-10.4,below,286
+Tomato,Telangana,2206.0,2519.0,-12.4,below,159
+Tomato,Haryana,2139.0,2519.0,-15.1,below,267
+Tomato,NCT of Delhi,2086.0,2519.0,-17.2,below,12
+Tomato,Meghalaya,1986.0,2519.0,-21.2,below,7
+Tomato,Karnataka,1964.0,2519.0,-22.0,below,98
+Tomato,Chattisgarh,1916.0,2519.0,-23.9,below,28
+Tomato,Andhra Pradesh,1890.0,2519.0,-25.0,below,70
+Tomato,Chandigarh,1800.0,2519.0,-28.5,below,3
+Tomato,Uttar Pradesh,1724.0,2519.0,-31.6,below,315
+Tomato,Uttarakhand,1686.0,2519.0,-33.1,below,75
+Tomato,Gujarat,1634.0,2519.0,-35.1,below,153
+Tomato,Rajasthan,1552.0,2519.0,-38.4,below,124
+Tomato,Maharashtra,1227.0,2519.0,-51.3,below,238
+Tomato,Madhya Pradesh,1215.0,2519.0,-51.8,below,247
+Wheat,Karnataka,3814.0,2786.0,36.9,above,44
+Wheat,Maharashtra,3053.0,2786.0,9.6,above,489
+Wheat,Gujarat,2956.0,2786.0,6.1,above,362
+Wheat,NCT of Delhi,2933.0,2786.0,5.3,above,10
+Wheat,Rajasthan,2829.0,2786.0,1.6,near,273
+Wheat,Punjab,2815.0,2786.0,1.0,near,5
+Wheat,Madhya Pradesh,2766.0,2786.0,-0.7,near,1654
+Wheat,Telangana,2735.0,2786.0,-1.8,near,1
+Wheat,West Bengal,2711.0,2786.0,-2.7,near,54
+Wheat,Uttar Pradesh,2604.0,2786.0,-6.5,below,1142
+Wheat,Uttarakhand,2600.0,2786.0,-6.7,below,1
+Wheat,Chattisgarh,2548.0,2786.0,-8.5,below,14
+Wheat,Bihar,2443.0,2786.0,-12.3,below,7
