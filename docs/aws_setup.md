@@ -19,7 +19,7 @@ Task Scheduler 07:00 IST ── python -m ingest.daily ──> s3://…/raw/arri
 
 - `infra/register_daily_task.ps1` registers the task once (`StartWhenAvailable`, so a missed 7 am run starts when
   the laptop is next on; the 3-day re-fetch then catches up).
-- `infra/run_daily.cmd` runs the job and appends to `data/logs/ingest_daily.log`.
+- The task runs `pythonw -m ingest.daily` (no console window); the job appends to `data/logs/ingest_daily.log`.
 - The API key stays in `.env`; S3 and SNS use the laptop's AWS CLI credentials.
 - On any failure (`ApiAuthError`, retries exhausted, …) the job publishes to SNS and exits with code 1.
   Tested with a wrong key: HTTP 403 → alert email.

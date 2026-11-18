@@ -5,12 +5,13 @@ Fetches yesterday and the 2 days before into s3://$S3_BUCKET/raw/; each manifest
 Re-fetching 3 days picks up late prices; files are overwritten, so reruns never duplicate.
 On any failure it emails through the SNS topic $ALERT_TOPIC_ARN and exits non-zero.
 
-Usage: python -m ingest.daily
+Usage: python -m ingest.daily      (logs to data/logs/ingest_daily.log)
 """
 import logging
 import os
 import sys
 from datetime import datetime, timedelta
+from pathlib import Path
 
 import boto3
 from dotenv import load_dotenv
@@ -19,11 +20,16 @@ from ingest.api_client import MandiApiClient
 from ingest.backfill import IST, RESOURCE_ID, ingest_dates, load_commodities
 
 DAYS_BACK = 3
+LOG_FILE = Path("data/logs/ingest_daily.log")
 log = logging.getLogger("ingest.daily")
 
 
 def main():
-    logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
+    LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
+    handlers = [logging.FileHandler(LOG_FILE, encoding="utf-8")]
+    if sys.stderr:  # pythonw (used by Task Scheduler, no console window) has no stderr
+        handlers.append(logging.StreamHandler())
+    logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s", handlers=handlers)
     load_dotenv(".env")
     today = datetime.now(IST).date()
     dates = [today - timedelta(days=i) for i in range(DAYS_BACK, 0, -1)]
