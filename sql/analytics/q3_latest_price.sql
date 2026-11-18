@@ -8,7 +8,7 @@ WITH ranked AS (
   JOIN mandi.dim_commodity c ON c.commodity_key = f.commodity_key
   JOIN mandi.dim_market    m ON m.market_key    = f.market_key
   JOIN mandi.dim_date      d ON d.date_key      = f.date_key
-  WHERE f.arrival_date >= cast(current_date - INTERVAL '30' DAY AS varchar)
+  WHERE f.arrival_date >= cast(cast(current_date - INTERVAL '30' DAY AS date) AS varchar)
     AND NOT f.is_outlier
 )
 SELECT commodity, state, district, market, price_date, modal_price, min_price, max_price, variety, grade

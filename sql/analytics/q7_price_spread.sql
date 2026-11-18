@@ -5,7 +5,7 @@ SELECT c.commodity, c.commodity_group,
        count(*)                                                AS reports
 FROM mandi.fact_price_report f
 JOIN mandi.dim_commodity c ON c.commodity_key = f.commodity_key
-WHERE f.arrival_date >= cast(current_date - INTERVAL '30' DAY AS varchar)
+WHERE f.arrival_date >= cast(cast(current_date - INTERVAL '30' DAY AS date) AS varchar)
   AND NOT f.is_outlier
 GROUP BY 1, 2
 HAVING count(*) >= 100

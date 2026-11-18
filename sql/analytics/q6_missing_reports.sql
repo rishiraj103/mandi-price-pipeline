@@ -8,12 +8,12 @@ WITH spine AS (
 active_markets AS (  -- markets that reported at least once in the window
   SELECT DISTINCT market_key
   FROM mandi.fact_price_report
-  WHERE arrival_date >= cast(current_date - INTERVAL '14' DAY AS varchar)
+  WHERE arrival_date >= cast(cast(current_date - INTERVAL '14' DAY AS date) AS varchar)
 ),
 reported AS (
   SELECT DISTINCT date_key, market_key
   FROM mandi.fact_price_report
-  WHERE arrival_date >= cast(current_date - INTERVAL '14' DAY AS varchar)
+  WHERE arrival_date >= cast(cast(current_date - INTERVAL '14' DAY AS date) AS varchar)
 ),
 missing AS (
   SELECT s.full_date, a.market_key
