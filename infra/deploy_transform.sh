@@ -4,7 +4,7 @@
 set -euo pipefail
 export MSYS_NO_PATHCONV=1
 : "${BUCKET:?set BUCKET}"
-PY=${PY:-python}
+PY=$(realpath "$(command -v "${PY:-python}")")   # absolute: the zip step runs in a subfolder
 ACCOUNT=$(aws sts get-caller-identity --query Account --output text)
 LAYER=$(aws ssm get-parameters-by-path --path /aws/service/aws-sdk-pandas --recursive \
   --query "Parameters[?contains(Name,'py3.12/x86_64')].[Name,Value]" --output text | sort -V | tail -1 | cut -f2)

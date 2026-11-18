@@ -4,7 +4,7 @@
 set -euo pipefail
 export MSYS_NO_PATHCONV=1   # stop Git Bash rewriting /mandi/... into Windows paths
 : "${BUCKET:?set BUCKET}"
-PY=${PY:-python}
+PY=$(realpath "$(command -v "${PY:-python}")")   # absolute: the zip step runs in a subfolder
 ACCOUNT=$(aws sts get-caller-identity --query Account --output text)
 
 rm -rf build/ingest build/ingest.zip
