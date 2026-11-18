@@ -56,7 +56,7 @@ def main():
             print(f"view mandi.{name} created")
     for f in args.files:
         df, mb = run(Path(f).read_text().replace("BUCKET", os.environ["S3_BUCKET"]))
-        print(f"== {f}  ({mb:.2f} MB scanned, {len(df)} rows)")
+        print(f"== {f}  ({mb:.3f} MB scanned, {len(df)} rows)")
         if len(df):
             print(df.to_string(max_rows=40))
         if args.csv:
