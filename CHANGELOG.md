@@ -22,3 +22,8 @@
 ## v0.6-model-local — 2026-11-17
 - Star schema as Parquet: dim_date, dim_market, dim_commodity (hash keys, SCD Type 1) and a fact partition per day.
 - 451,933 fact rows over 90 days; 0 orphan keys, 0 duplicate keys, 0 bad prices. Q1–Q7 run in DuckDB.
+
+## v0.7-aws-ingest — 2026-11-18
+- S3 bucket (encrypted, versioned, private, lifecycle rules) with the 90-day backfill uploaded.
+- data.gov.in refuses connections from AWS, so the daily ingest runs on the laptop (Task Scheduler, 07:00 IST)
+  and writes straight to S3; failures email through SNS (tested with a wrong key).
