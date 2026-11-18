@@ -27,3 +27,8 @@
 - S3 bucket (encrypted, versioned, private, lifecycle rules) with the 90-day backfill uploaded.
 - data.gov.in refuses connections from AWS, so the daily ingest runs on the laptop (Task Scheduler, 07:00 IST)
   and writes straight to S3; failures email through SNS (tested with a wrong key).
+
+## v0.8-aws-transform — 2026-11-18
+- `transform_day` Lambda triggered by each `_manifest.json`; conditional S3 writes keep concurrent dimension upserts safe.
+- Athena tables with partition projection and a workgroup capped at 100 MB per query.
+- Athena counts match local for all 90 dates (451,933 rows); orphan, duplicate and price checks return 0 rows.
