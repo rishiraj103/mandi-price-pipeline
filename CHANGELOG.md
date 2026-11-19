@@ -36,3 +36,8 @@
 ## v0.9-analytics — 2026-11-18
 - Q1–Q7 on Athena with outputs in `docs/results/`; views `v_weekly_prices`, `v_market_ranking`, `v_latest_price`.
 - Validation queries return 0 rows; partition pruning cuts a 7-day query from 8.7 MB to 0.8 MB scanned.
+
+## v0.10-genai — 2026-11-19
+- Weekly advisory: fixed parameterised SQL computes the metrics, local Ollama `qwen2.5:7b` writes the note.
+- Strict number check: any number not in the metrics hides the answer. 5 pairs hand-checked: 3 fully traceable,
+  2 caught by the check (model wrote 6% for 0.6%).
