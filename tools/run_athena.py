@@ -18,10 +18,16 @@ from tools.views import VIEWS, view_ddl
 WORKGROUP = "mandi"
 
 
-def run(sql, athena=None):
-    """Run one statement; returns (DataFrame, megabytes scanned)."""
+def _literal(value):
+    """Athena execution parameters are SQL literals: quote strings, pass numbers as they are."""
+    return str(value) if isinstance(value, (int, float)) else "'" + str(value).replace("'", "''") + "'"
+
+
+def run(sql, params=None, athena=None):
+    """Run one statement (`?` placeholders filled from params); returns (DataFrame, megabytes scanned)."""
     athena = athena or boto3.client("athena")
-    qid = athena.start_query_execution(QueryString=sql, WorkGroup=WORKGROUP)["QueryExecutionId"]
+    extra = {"ExecutionParameters": [_literal(p) for p in params]} if params else {}
+    qid = athena.start_query_execution(QueryString=sql, WorkGroup=WORKGROUP, **extra)["QueryExecutionId"]
     while True:
         q = athena.get_query_execution(QueryExecutionId=qid)["QueryExecution"]
         state = q["Status"]["State"]
