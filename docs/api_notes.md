@@ -17,7 +17,7 @@ Tested on 21 Nov 2026.
 | Rows per day (all commodities) | weekdays ~22,000–23,000; Saturday ~13,000; Sunday ~7,800 |
 | `total` field | returns the filtered row count, so a `limit=1` call is a cheap count |
 | Price field types | JSON numbers (int, sometimes float) in recent data; strings in old (2009) records — parse both |
-| Yesterday's count today vs tomorrow | 20/11/2026: 17,121 at 16:33 on 21/11 → _recheck on 22/11_ (Friday 13/11 had 21,674, so late data is likely) |
+| Yesterday's count today vs tomorrow | 20/11/2026: 17,121 at 16:33 and still 17,121 at 18:47 on 21/11 (no intra-day growth; updates seem to arrive in batches). Friday 13/11 has 21,674, so late data is likely — the next-day count is still to be recorded |
 
 ## Paging pitfall
 

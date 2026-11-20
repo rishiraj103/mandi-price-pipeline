@@ -74,6 +74,8 @@ SOURCE=athena streamlit run app/streamlit_app.py
 | Area | Result |
 | --- | --- |
 | Backfill | 90 days (23 Aug – 20 Nov 2026), 900 API calls, 0 failed |
+| Daily ingest | Task Scheduler run on 21 Nov succeeded and its manifests triggered the transform automatically; unattended 07:00 runs start 22 Nov (5-day target not yet shown) |
+| Late data | Indirect so far: Friday 20 Nov had 17,121 records the next day vs 21,674 for Friday 13 Nov; day-over-day growth not yet recorded |
 | Model | 451,933 fact rows, 2,708 markets, 757 commodity/variety/grade combinations |
 | Data quality | 6,124 rows rejected with a reason (6,073 duplicates, 48 price order, 3 non-positive); outliers flagged, not dropped |
 | Checks | 0 orphan keys, 0 duplicate keys, 0 bad prices — locally and on Athena |
