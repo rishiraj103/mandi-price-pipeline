@@ -19,7 +19,7 @@ def query(sql, params=()):
         from tools.run_athena import run
         df, _ = run(sql, list(params))
         return df.apply(lambda col: _to_number(col))
-    return _duckdb().execute(sql, list(params)).df()
+    return _duckdb().cursor().execute(sql, list(params)).df()  # a cursor per call: safe across app threads
 
 
 def _to_number(col):
