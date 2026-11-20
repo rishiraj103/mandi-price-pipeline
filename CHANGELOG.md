@@ -41,3 +41,7 @@
 - Weekly advisory: fixed parameterised SQL computes the metrics, local Ollama `qwen2.5:7b` writes the note.
 - Strict number check: any number not in the metrics hides the answer. 5 pairs hand-checked: 3 fully traceable,
   2 caught by the check (model wrote 6% for 0.6%).
+
+## v0.11-app — 2026-11-20
+- Streamlit app with four pages (prices, markets, data quality, advisory) reading the views; `SOURCE=local|athena`.
+- Screenshots in `docs/screenshots/` (taken against Athena).
