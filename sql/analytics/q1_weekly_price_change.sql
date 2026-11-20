@@ -8,7 +8,8 @@ WITH weekly AS (
   JOIN mandi.dim_commodity c ON c.commodity_key = f.commodity_key
   JOIN mandi.dim_market    m ON m.market_key    = f.market_key
   JOIN mandi.dim_date      d ON d.date_key      = f.date_key
-  WHERE f.arrival_date >= cast(cast(current_date - INTERVAL '56' DAY AS date) AS varchar)  -- partition pruning
+  -- start on a Monday so the first week is complete; the filter on arrival_date prunes partitions
+  WHERE f.arrival_date >= cast(cast(date_trunc('week', current_date - INTERVAL '56' DAY) AS date) AS varchar)
     AND NOT f.is_outlier
   GROUP BY 1, 2, 3
 )

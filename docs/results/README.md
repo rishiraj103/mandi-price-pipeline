@@ -4,7 +4,7 @@ Data: 23 Aug – 20 Nov 2026, 451,933 fact rows. CSVs in this folder are the ful
 
 | Query | Rows | Data scanned |
 | --- | --- | --- |
-| Q1 week-over-week change (8 weeks) | 2,024 | 5.293 MB |
+| Q1 week-over-week change (8 full weeks) | 2,042 | 5.835 MB |
 | Q2 top/bottom 5 markets (7 days) | 1,744 | 0.780 MB |
 | Q3 latest price per market (30 days) | 7,612 | 3.327 MB |
 | Q4 7-day rolling average and volatility (60 days) | 600 | 2.474 MB |
@@ -21,7 +21,7 @@ Same query with and without the `arrival_date` filter:
 | Query | With filter | Without filter | Reduction |
 | --- | --- | --- | --- |
 | Q2 (last 7 days) | 0.780 MB | 8.674 MB | 11× |
-| Q1 (last 56 of 90 days) | 5.293 MB | 8.659 MB | 1.6× |
+| Q1 (8 full weeks of 13) | 5.835 MB | 8.659 MB | 1.5× |
 
 Athena reads only the `arrival_date=…` folders a query asks for; the dimension tables are always read in full.
 
