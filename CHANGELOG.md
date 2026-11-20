@@ -45,3 +45,11 @@
 ## v0.11-app — 2026-11-20
 - Streamlit app with four pages (prices, markets, data quality, advisory) reading the views; `SOURCE=local|athena`.
 - Screenshots in `docs/screenshots/` (taken against Athena).
+
+## v0.12-docs — 2026-11-20
+- README with architecture, how to run and deploy, results, screenshots and limitations; `docs/decisions.md`.
+- Open: unattended 07:00 runs begin 22 Nov; the 5-day run target and next-day late-data counts are not yet recorded.
+
+## v1.0 — 2026-11-20
+- First release: daily ingest → S3 → Lambda transform → Athena star schema → SQL analytics, checked LLM advisory
+  and a four-page Streamlit app. `infra/teardown_aws.sh` removes every AWS resource.
