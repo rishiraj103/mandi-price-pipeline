@@ -31,6 +31,8 @@ def main():
         handlers.append(logging.StreamHandler())
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s", handlers=handlers)
     load_dotenv(".env")
+    if os.environ.get("INGEST_AWS_PROFILE"):  # least-privilege user: put raw/ objects + publish the alert only
+        boto3.setup_default_session(profile_name=os.environ["INGEST_AWS_PROFILE"])
     today = datetime.now(IST).date()
     dates = [today - timedelta(days=i) for i in range(DAYS_BACK, 0, -1)]
     try:
