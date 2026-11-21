@@ -29,6 +29,10 @@ aws s3api put-bucket-notification-configuration --bucket "$BUCKET" --notificatio
     \"Filter\": {\"Key\": {\"FilterRules\": [{\"Name\": \"prefix\", \"Value\": \"raw/\"},
                                           {\"Name\": \"suffix\", \"Value\": \"_manifest.json\"}]}}}]}"
 
+echo "== Alarm: any transform_day error emails the mandi-alerts topic"
+TOPIC=$(aws sns list-topics --query "Topics[?ends_with(TopicArn,':mandi-alerts')].TopicArn" --output text)
+aws cloudwatch put-metric-alarm --alarm-name transform-day-errors   --namespace AWS/Lambda --metric-name Errors --dimensions Name=FunctionName,Value=transform_day   --statistic Sum --period 300 --evaluation-periods 1 --threshold 0   --comparison-operator GreaterThanThreshold --treat-missing-data notBreaching --alarm-actions "$TOPIC"
+
 echo "== Athena workgroup (100 MB scan limit per query)"
 aws athena create-work-group --name mandi --configuration \
   "ResultConfiguration={OutputLocation=s3://$BUCKET/athena-results/},EnforceWorkGroupConfiguration=true,BytesScannedCutoffPerQuery=104857600,PublishCloudWatchMetricsEnabled=true"
