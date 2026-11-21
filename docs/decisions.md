@@ -14,6 +14,14 @@ and sometimes typos (per-kg entries such as 8.2, or a max of 30,002,800). The pi
 the row with `is_outlier = true` and analytics exclude it with `NOT is_outlier`. Rejection is reserved for rows that
 are certainly unusable (missing fields, wrong date, prices out of order).
 
+**Keep one report per natural key, the lowest modal price.** About 1.3% of rows (6,073 in 90 days) repeat
+date + market + commodity + variety + grade with different prices — likely separate lots or a corrected re-entry.
+The fact grain needs one row per key, so the rule keeps the lowest modal (then min, then max) to be deterministic
+and rejects the others with the reason `duplicate`, so nothing disappears silently. Measured over the 90 days, the
+reports in a group usually share the modal price (median max/min modal ratio 1.00, 90th percentile 1.20), and keeping the
+lowest instead of averaging moves commodity averages by at most 0.2% (Garlic) and about 0.0% for the rest.
+Averaging the group would be equally valid; keeping a real reported row was preferred over creating a synthetic one.
+
 **Hash surrogate keys.** `md5(state|district|market)` gives the same key on every run and machine, so each day can
 be transformed independently — even by concurrent Lambdas — without a sequence table or a lookup of existing keys.
 The cost: 32-character keys, and a renamed market gets a new key (SCD Type 2 would be needed to keep its history).

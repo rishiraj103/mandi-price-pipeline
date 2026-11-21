@@ -13,7 +13,7 @@ Produced by `python -m tools.profile --end 2026-11-20 --days 7`.
 | Any price ≤ 0 | 2 | reject `non_positive_price` |
 | min > modal, modal > max, min > max | 0 / 0 / 0 | reject `price_order` |
 | Exact duplicate rows | 0 | — |
-| Duplicates on (date, state, district, market, commodity, variety, grade) | 490 extra rows in 489 groups, **all with different prices** | keep one (lowest modal, then min, then max — deterministic), reject the rest as `duplicate` |
+| Duplicates on (date, state, district, market, commodity, variety, grade) | 490 extra rows in 489 groups, **all with different prices** | keep one (lowest modal, then min, then max — deterministic), reject the rest as `duplicate`; measured effect on averages ≤ 0.2% (see `decisions.md`) |
 | Modal price < ₹100/quintal (e.g. 0.01, 1.2, 8.2) | 87 | **flag** `is_outlier` (likely entered per kg); handled by the outlier rule |
 | max price > 5× the row's own modal (typos, e.g. max 30,002,800 vs modal 2,600) | 251 in 90 days | **flag** `is_outlier`; one such row pushed Wheat's average spread to 80% of modal |
 | min price < 1/5 of modal (e.g. Onion min 200, modal 3,000) | ~3,000 in 90 days, mostly big MP/Maharashtra APMCs | keep — damaged lots in real auctions |
