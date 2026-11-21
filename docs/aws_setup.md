@@ -20,14 +20,19 @@ Task Scheduler 07:00 IST ── python -m ingest.daily ──> s3://…/raw/arri
 - `infra/register_daily_task.ps1` registers the task once (`StartWhenAvailable`, so a missed 7 am run starts when
   the laptop is next on; the 3-day re-fetch then catches up).
 - The task runs `pythonw -m ingest.daily` (no console window); the job appends to `data/logs/ingest_daily.log`.
-- The API key stays in `.env`; S3 and SNS use the laptop's AWS CLI credentials.
+- The API key stays in `.env`. The job does **not** use the admin profile: it runs as IAM user `mandi-ingest`
+  (profile set by `INGEST_AWS_PROFILE`), allowed only `s3:PutObject` on `raw/*` and `sns:Publish` on `mandi-alerts`.
+  Tested: writing `model/`, reading and listing the bucket are all denied.
 - On any failure (`ApiAuthError`, retries exhausted, …) the job publishes to SNS and exits with code 1.
   Tested with a wrong key: HTTP 403 → alert email.
+- `transform_day` has its own CloudWatch alarm (`transform-day-errors`, any error in 5 minutes) on the same topic.
+  Tested with a bad payload: alarm fired and the email arrived.
 
 ## One-time setup
 
 ```bash
 BUCKET=mandi-pipeline-rishiraj ALERT_EMAIL=<you> ./infra/setup_aws.sh   # bucket, lifecycle, SNS topic
+BUCKET=mandi-pipeline-rishiraj ./infra/setup_ingest_user.sh             # least-privilege ingest user + profile
 aws s3 sync data/raw s3://mandi-pipeline-rishiraj/raw/                   # upload the backfill
 powershell -File infra\register_daily_task.ps1                           # 07:00 daily task
 ```

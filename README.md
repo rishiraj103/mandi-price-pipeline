@@ -61,6 +61,7 @@ python -m unittest discover tests
 
 ```bash
 BUCKET=<bucket> ALERT_EMAIL=<you> ./infra/setup_aws.sh      # bucket, lifecycle rules, SNS topic
+BUCKET=<bucket> ./infra/setup_ingest_user.sh                # least-privilege user for the daily ingest
 aws s3 sync data/raw s3://<bucket>/raw/                     # upload the backfill
 BUCKET=<bucket> ./infra/setup_transform.sh                  # transform Lambda, S3 trigger, Athena workgroup
 python -m tools.run_athena sql/athena_ddl/*.sql             # tables (S3_BUCKET in .env)
@@ -83,8 +84,9 @@ SOURCE=athena streamlit run app/streamlit_app.py
 | Performance | Partition pruning: a 7-day query scans 0.78 MB instead of 8.67 MB (11×) |
 | SQL | Q1–Q7 run on Athena; one result hand-checked against raw JSON — [docs/results](docs/results/README.md) |
 | GenAI | 5 advisories hand-checked: 3 fully traceable, 2 blocked by the number check — [docs/genai_eval.md](docs/genai_eval.md) |
-| Alerts | Forced failure (wrong API key) sent an SNS email |
-| Tests | 27 unit tests, run by GitHub Actions on every push |
+| Alerts | Forced failures sent SNS emails for both the ingest (wrong API key) and the transform Lambda (CloudWatch alarm) |
+| Security | Daily ingest runs as a least-privilege IAM user (put `raw/*`, publish one topic); API key never in code or logs |
+| Tests | 29 unit tests, run by GitHub Actions on every push |
 
 ## Screenshots
 

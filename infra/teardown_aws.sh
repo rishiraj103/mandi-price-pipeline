@@ -9,10 +9,17 @@ read -r -p "Delete ALL mandi pipeline resources and s3://$BUCKET? Type the bucke
 
 powershell -Command "Unregister-ScheduledTask -TaskName mandi-ingest-daily -Confirm:\$false"
 
+aws cloudwatch delete-alarms --alarm-names transform-day-errors
 aws lambda delete-function --function-name transform_day
 aws logs delete-log-group --log-group-name /aws/lambda/transform_day
 aws iam delete-role-policy --role-name lambda-transform-role --policy-name transform
 aws iam delete-role --role-name lambda-transform-role
+
+for k in $(aws iam list-access-keys --user-name mandi-ingest --query "AccessKeyMetadata[].AccessKeyId" --output text | tr -d ''); do
+  aws iam delete-access-key --user-name mandi-ingest --access-key-id "$k"
+done
+aws iam delete-user-policy --user-name mandi-ingest --policy-name ingest
+aws iam delete-user --user-name mandi-ingest
 
 TOPIC=$(aws sns list-topics --query "Topics[?ends_with(TopicArn,':mandi-alerts')].TopicArn" --output text)
 [ -n "$TOPIC" ] && aws sns delete-topic --topic-arn "$TOPIC"
