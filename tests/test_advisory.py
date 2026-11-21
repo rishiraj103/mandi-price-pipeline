@@ -20,6 +20,13 @@ class TestNumberCheck(unittest.TestCase):
         text = "Onion averaged ₹3,790, up from ₹3,200 last week; Kamthi paid 5650."
         self.assertEqual(advisory.untraceable_numbers(text, METRICS), [3200.0])
 
+    def test_date_digit_used_as_percentage_is_caught(self):
+        text = "Onion rose 14% this week (14 to 20 Nov)."  # 14 is only a day of the week range
+        self.assertEqual(advisory.untraceable_numbers(text, METRICS), [14.0])
+
+    def test_percentage_must_match_change(self):
+        self.assertEqual(advisory.untraceable_numbers("Down 6.6%, not 3790%.", METRICS), [3790.0])
+
     def test_calculated_difference_is_caught(self):
         text = "Prices rose by ₹233 to ₹3,790."  # 3790 - 3557: a number the model computed itself
         self.assertEqual(advisory.untraceable_numbers(text, METRICS), [233.0])

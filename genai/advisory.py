@@ -69,18 +69,38 @@ def _metric_numbers(obj):
         return [n for v in obj for n in _metric_numbers(v)]
     if isinstance(obj, (int, float)) and not isinstance(obj, bool):
         return [float(obj)]
-    if isinstance(obj, str):  # dates in "week", e.g. 2026-11-14
+    if isinstance(obj, str):  # digits inside names, e.g. a market called "Sector 26"
         return [float(x) for x in re.findall(r"\d+", obj)]
     return []
 
 
+def _variants(values):
+    """A value and its roundings, ignoring sign: 3789.6 -> {3789.6, 3790.0}; -0.4 -> {0.4, 0.0}."""
+    out = set()
+    for v in values:
+        v = abs(v)
+        out |= {v, float(round(v)), round(v, 1)}
+    return out
+
+
 def untraceable_numbers(text, metrics):
-    """Numbers in the text that are not a metric value (or its rounding) and not a list number 1-3."""
-    allowed = set()
-    for v in _metric_numbers(metrics):
-        allowed |= {v, float(round(v)), round(v, 1), abs(v), float(round(abs(v)))}
-    found = [float(x.replace(",", "")) for x in re.findall(r"\d[\d,]*(?:\.\d+)?", text)]
-    return [n for n in found if n not in allowed and n not in (1.0, 2.0, 3.0)]
+    """Numbers in the text that cannot be traced to the metrics.
+
+    A percentage must match change_pct. Other numbers must match a metric value (or its rounding),
+    a digit of the week's dates (e.g. "14 to 20 Nov"), or be a list number 1-3. Date digits are never
+    accepted as percentages, so an invented "up 14%" is caught even though 14 is in the date range.
+    """
+    numeric = {k: v for k, v in metrics.items() if not isinstance(v, str)}
+    allowed = _variants(_metric_numbers(numeric)) | {1.0, 2.0, 3.0}
+    allowed |= {float(x) for v in metrics.values() if isinstance(v, str) for x in re.findall(r"\d+", v)}
+    pct_allowed = _variants([metrics["change_pct"]]) if metrics.get("change_pct") is not None else set()
+
+    bad = []
+    for number, percent in re.findall(r"(\d[\d,]*(?:\.\d+)?)(\s*%)?", text):
+        n = float(number.replace(",", ""))
+        if n not in (pct_allowed if percent else allowed):
+            bad.append(n)
+    return bad
 
 
 def weekly_advisory(commodity, state, week_end):
